@@ -1,1 +1,0 @@
-Welcome to the Android-IMSI-Catcher-Detector wiki!
