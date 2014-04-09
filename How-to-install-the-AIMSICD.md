@@ -1,8 +1,6 @@
 # INSTALLATION METHOD
-As AIMSICD shares the phone process and is signed using a platform key it requires installation as follows:
-<br />
-<ol>
-<li>Copy signed package to system/app or system/priv-app (KitKat ONLY)</li>
-<li>Modify permissions to rw-r--r-- (644)</li>
-<li>Reboot</li>
-</ol>
+AIMSICD recently has been improved to enable universal compatibility on all devices. Just install as follows:
+
+1. Download the [LATEST RELEASE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases).
+2. Install like any other App.
+3. Enjoy and profit!
