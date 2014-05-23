@@ -1,5 +1,5 @@
 # INSTALLATION METHOD
-AIMSICD recently has been improved to enable universal compatibility on all devices. Just install as follows:
+AIMSICD recently has been improved to enable universal compatibility on all devices.
 
 1. Download the [LATEST RELEASE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases).
 2. Delete previous version of AIMSICD.
