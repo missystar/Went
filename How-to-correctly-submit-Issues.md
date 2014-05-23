@@ -1,4 +1,4 @@
-# Got trouble? Help us squashing bugz!
+# Trouble? Help us squashing bugz!
 
 1. If you use [Xprivacy](https://github.com/M66B/XPrivacy), disable it and run another test on AIMSICD before reporting! Make sure you only restricted [THESE VALUES](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/25#issuecomment-42121414)! This is especially important if you experience crashes or unexplainable forced closures as well as random reboots of your device.
 2. App still mocking around? Click [HERE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues) to open a new Issue. Name it appropriately.
