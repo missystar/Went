@@ -9,7 +9,7 @@
 - **Your exact FW specification (ROM, AOS API, etc.)**
 - **Your exact HW specification (processor, model number, etc.)**
 - **The output of getprop command to a Pastebin-Site (recommended: [PrivatePaste](https://privatepaste.com/))**
-- **A logcat dump to Pastebin. We recommend to use [CatLog](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat) or [Logcat Extreme](https://play.google.com/store/apps/details?id=scd.lcex) to do this**
+- **A logcat dump to Pastebin. We recommend to use [CatLog](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat) or [Logcat Extreme](https://play.google.com/store/apps/details?id=scd.lcex)**
 
 ***
 
