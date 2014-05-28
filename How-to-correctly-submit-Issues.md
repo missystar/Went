@@ -5,13 +5,17 @@
 3. On the top of the page, use the search bar to verify your Issue does not exist yet.
 4. Please describe your Issue as thoroughly as possible. You **MUST** include the following:
 
-* AIMSICD version (see the About-Tab within our App)
-* Your exact FW specification (ROM, AOS API, etc.)
-* Your exact HW specification (processor, model number, etc.)
-* The output of getprop command to a Pastebin-Site (recommended: [PrivatePaste](https://privatepaste.com/))
-* A logcat dump to Pastebin. We recommend to use [CatLog](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat) or [Logcat Extreme](https://play.google.com/store/apps/details?id=scd.lcex) to do this
+- **AIMSICD version (see the About-Tab within our App)**
+- **Your exact FW specification (ROM, AOS API, etc.)**
+- **Your exact HW specification (processor, model number, etc.)**
+- **The output of getprop command to a Pastebin-Site (recommended: [PrivatePaste](https://privatepaste.com/))**
+- **A logcat dump to Pastebin. We recommend to use [CatLog](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat) or [Logcat Extreme](https://play.google.com/store/apps/details?id=scd.lcex) to do this**
 
-**HUNGRY FOR SAFETY?** Don't forget to remove your IMEI, IMSI and phone number from those dumps!
+***
+
+**HUNGRY FOR SAFETY?** Remove your IMEI, IMSI and phone number from dumps you submit!
+
+***
 
 5. Please **BE PATIENT**. Our developers also have a private live and family, as well as jobs!
 6. If you'd like our project to succeed, feel free to submit code or find more developers. Thank you.
