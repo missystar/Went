@@ -11,11 +11,11 @@
 - **The output of getprop command to a Pastebin-Site (recommended: [PIE-Bin](https://defuse.ca/pastebin.htm))**
 - **A logcat dump to Pastebin. We recommend to use [CatLog](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat) or [Logcat Extreme](https://play.google.com/store/apps/details?id=scd.lcex)**
 
-***
+---
 
 **HUNGRY FOR SAFETY?** Remove your IMEI, IMSI and phone number from dumps you submit!
 
-***
+---
 
 5. Please **BE PATIENT**. Our developers also have a private live and family, as well as jobs!
-6. If you'd like our project to succeed, feel free to submit code or find more developers. Thank you.
+6. If you'd like our project, feel free to submit code or find more developers. Thank you.
