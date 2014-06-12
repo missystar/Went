@@ -1,9 +1,10 @@
 # Trouble? Help us squashing bugz!
 
-1. If you use [Xprivacy](https://github.com/M66B/XPrivacy), disable it and run another test on AIMSICD before reporting! Make sure you only restricted [THESE VALUES](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/25#issuecomment-42121414)! This is especially important if you experience crashes or unexplainable forced closures as well as random reboots of your device.
-2. App still mocking around? Click [HERE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues) to open a new Issue. Name it appropriately.
-3. On the top of the page, use the search bar to verify your Issue does not exist yet.
-4. Please describe your Issue as thoroughly as possible. You **MUST** include the following:
+1. Make sure to ALWAYS use the [latest WIP-Release](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases). **There is NO SUPPORT for older versions.**
+2. If you use [Xprivacy](https://github.com/M66B/XPrivacy), disable it and run another test on AIMSICD before reporting! Make sure you only restricted [THESE VALUES](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/XPrivacy-and-AIMSICD)! This is especially important if you experience crashes or unexplainable forced closures as well as random reboots of your device.
+3. App still mocking around? Click [HERE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues) to open a new Issue. Name it appropriately.
+4. On the top of the page, use the search bar to verify your Issue does not exist yet.
+5. Please describe your Issue as thoroughly as possible. You **MUST** include the following:
 
 - **AIMSICD version (see the About-Tab within our App)**
 - **Your exact FW specification (ROM, AOS API, etc.)**
@@ -17,5 +18,5 @@
 
 ---
 
-5. Please **BE PATIENT**. Our developers also have a private live and family, as well as jobs!
-6. If you'd like our project, feel free to submit code or find more developers. Thank you.
+* Please **BE PATIENT**. Our developers also have a private live and family, as well as jobs!
+* If you'd like our project, feel free to submit code or find more developers. Thank you.
