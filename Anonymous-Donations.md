@@ -12,7 +12,7 @@ Over all available donation methods, we decided to favor DarkCoin because it has
 
 ### What makes DarkCoin unique?
 
-DarkCoin's unique anonymous payment system, DarkSend, allows anyone to make transactions anonymously. The innovation is in the mixing of inputs and outputs going through the DarkSend system. A user's payment is automatically split into smaller demoninations and pooled with the split-up payments of other users. Receivers of payments draw these demoninations automatically from the pools until they have received the correct amount. Anyone viewing the blockchain will see payments being made but they won't be able to see who paid who.
+DarkCoin's unique anonymous payment system, DarkSend, allows anyone to make transactions anonymously. The innovation is in the mixing of inputs and outputs going through the DarkSend system. A user's payment is automatically split into smaller denominations and pooled with the split-up payments of other users. Receivers of payments draw these denominations automatically from the pools until they have received the correct amount. Anyone viewing the blockchain will see payments being made but they won't be able to see who paid who.
 
 DarkCoin Details:
 
