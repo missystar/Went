@@ -8,7 +8,7 @@ Official guide on how to make a fully anonymous donation to support development 
 
 ### Why do we prefer DarkCoin?
 
-Over all available donation methods, we decided to favor DarkCoin because it has been designed to be a digital version of cash, which unlike others supports nearly completely anonymous donations. When sending DarkCoin, you choose whether the transaction is private or public. Your DarkCoin are stored in a digital wallet that you own and control. Transactions are anonymous "from the wallet" meaning you don't have to trust a third party to make the transaction private. Find out more about [DarkCoin Security](https://www.darkcoin.io/intro.html), also see [DarkCoin and Degree of Anonymity](http://wiki.darkcoin.eu/wiki/Darkcoin_and_Degree_of_Anonymity).
+Over all available donation methods, we decided to favor DarkCoin because it has been designed to be a digital version of cash, which unlike others supports nearly completely anonymous donations. When sending DarkCoin, you choose whether the transaction is private or public. Your DarkCoin are stored in a digital wallet that you own and control. Transactions are anonymous "from the wallet" meaning you don't have to trust a third party to make the transaction private. Find out more about [DarkCoin Security](https://www.darkcoin.io/intro.html), also see [Degree of Anonymity](http://wiki.darkcoin.eu/wiki/Darkcoin_and_Degree_of_Anonymity).
 
 ### What makes DarkCoin unique?
 
