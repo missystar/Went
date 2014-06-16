@@ -22,6 +22,8 @@ Navigate to the different screens through swiping to the left or right with your
 
 #### Functions
 
+* [Cell Tracking](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#cell-tracking)
+* [Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#map-viewer)
 * [Silent SMS Interception](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#silent-sms-interception)
 
 ---
@@ -76,6 +78,7 @@ The Cell Information currently only shows you the number of neighboring cells.
 The AT Command Injector is not enabled yet as we are still working hard on figure out how to gain full AT access to the Baseband Processor. 
 
 ![AT Command Injector](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/AT-Command-Injector.png)
+
 ---
 
 # Database Viewer
@@ -83,18 +86,6 @@ The AT Command Injector is not enabled yet as we are still working hard on figur
 The Database Viewer enables you to view and analyze the data that has been captured by AIMSICD. Just select between Cell Data, Location Data, OpenCellID Data, Default MCC Locations or Silent SMS and click on "Load Data" on the right side of the screen. Once the data has been loaded, it will immediately be displayed on your phone.
 
 ![Database Viewer](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Database_Viewer.png)
-
-If you want to track Cell Data, enabling Location Services is required. If disabled, AIMSICD will look like this in your notification bar:
-
-![Tracking_Disabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Tracking_Disabled.png)
-
-Furthermore, you will be prompted to enable Location Services:
-
-![LocationServices-Disabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/LocationServices-Disabled.png)
-
-When Location Services have been enabled, AIMSICD will look like this in the notification bar:
-
-![Tracking_Enabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Tracking_Enabled.png)
 
 ---
 
@@ -104,17 +95,51 @@ This tab provides a convenient overview with several links to important informat
 
 ![About AIMSICD](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/About_AIMSICD.png)
 
+---
+
 # Options Menu
 
 This menu can be accessed through pressing on the three dots in the upper right corner of AIMSICD. You can either chose to navigate to the Preferences, the Database Viewer, backup the Database, restore the Database, update OpenCellID Data or Quit the App.
 
 ![Options Menu](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Options_Menu.png)
 
+---
+
 # Preferences
 
 Here you can fine-tune our App. The preferences are self-explanatory. On the very bottom you can also select the style of the Icons that are displayed by AIMSICD - these can be either a style of "Flat", "Sense" or "White".
 
 ![Preferences](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Preferences.png)
+
+---
+
+# Cell Tracking
+
+If you want to track Cell Data, enabling Location Services is required. If disabled, AIMSICD will look like this in your notification bar:
+
+![Tracking_Disabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Tracking_Disabled.png)
+
+Furthermore, you will be prompted to enable Location Services:
+
+![LocationServices-Disabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/LocationServices-Disabled.png)
+
+To start tracking Cell Data, just press the Tracking Button shown here:
+
+![Tracking Button](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Tracking_Button.png)
+
+When Location Services have been enabled, AIMSICD will look like this in the notification bar:
+
+![Tracking_Enabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Tracking_Enabled.png)
+
+---
+
+# Map Viewer
+
+The Map Viewer is still a heavy work-in-process. Eventually, it is supposed to show a spider web view of the local towers as well as how your phone changes towers with location and time. See [this comment](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/13#issuecomment-41944295) to get an idea of what we want to accomplish. Help us coding this feature!
+
+To open the Map Viewer, simply press the world map as shown below:
+
+![Map Viewer](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Map_Viewer.png)
 
 ---
 
