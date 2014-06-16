@@ -48,6 +48,31 @@ This is the main screen of AIMSICD which you see after accepting the Disclaimer.
 
 ![Device Details](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Device_Details.png)
 
+#### Explanation of Device Details
+
+##### Device Information
+* **Type**: Your cellular network protocol. Can be **GSM** or **CDMA**
+* **[IMEI](http://en.wikipedia.org/wiki/International_Mobile_Station_Equipment_Identity)**: Your International Mobile Station Equipment Identity
+* **Version**:
+* **Line Number**: Your phone number.
+
+##### SIM Information
+* **Country**: The country you are currently located at.
+* **Operator ID**: Identification Number of your Provider.
+* **Operator Name**: The name of your Provider.
+* **[IMSI](http://en.wikipedia.org/wiki/International_mobile_subscriber_identity)**: Your International Mobile Subscriber Identity
+* **Serial**: The Serial Number of your [SIM](http://en.wikipedia.org/wiki/Subscriber_identity_module)
+
+##### Network Information
+* **Network Name**: The name of the network you are using.
+* **Network Code**:
+* **Network Type**:
+* **Network LAC**:
+* **Roaming**: Indicates whether your phone is in roaming mode.
+* **Data Activity**:
+* **Data Status**:
+* **Network CellID**:
+
 ---
 
 # Status Icons
