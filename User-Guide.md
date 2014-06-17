@@ -24,7 +24,7 @@ Navigate to the different screens through swiping to the left or right with your
 
 * [Cell Tracking](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#cell-tracking)
 * [Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#map-viewer)
-* [Silent SMS Interception](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#silent-sms-interception)
+* [Special SMS Interception](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#special-sms-interception)
 
 ---
 
@@ -168,17 +168,29 @@ To open the Map Viewer, simply press the world map as shown below:
 
 ---
 
-# Silent SMS Interception
+# Special SMS Interception
 
-Law enforcement agencies are very often sending out so-called "silent SMS" ([see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html)) which do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. Reliable detection of silent SMS will be trivial to the usefulness of AIMSICD and is still being worked on.
+I'm sure you already know the normal SMS you receive from friends and family once in a while. But in fact, there are two other types of SMS which AIMSICD aims to intercept and wanr you about. Here's a short explanation:
 
-If AIMSICD intercepts a Silent SMS, you will immediately see an Alert on your screen:
+##### Class0 / Flash SMS / Popup SMS / Alert SMS
+
+This type of SMS indicates that this message is to be displayed on the MS immediately and a message delivery report is to be sent back to the SC. The message does not have to be saved in the MS or on the SIM card (unless selected to do so by the mobile user). This type of SMS is not necessarily dangerous.
+
+##### Type0 / Silent SMS / Stealth SMS / Ping SMS
+
+This type of SMS is specified in GSM 03.40 as follows: A short message type 0 indicates that the ME must acknowledge receipt of the short message but may discard its contents. This is type of SMS can be dangerous.
+
+Law enforcement agencies are very often sending out these "Silent SMS" ([see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html)) which do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. Reliable detection of silent SMS will be trivial to the usefulness of AIMSICD and is still being worked on.
+
+If AIMSICD intercepts a Flash SMS (Class0), you will immediately see an Alert on your screen:
 
 ![SilentSMS-Alert](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/SilentSMS-Alert.png)
 
 Additionally, AIMSICD will show the following notification about the Interception in your notification bar:
 
 ![SilentSMS-Notification](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/SilentSMS-Notification.png)
+
+**When AIMSICD is able to detect Type0 (the dangerous SMS), a description will follow here.**
 
 ##### Self-Test through using HushSMS
 
