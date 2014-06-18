@@ -198,4 +198,4 @@ Now press the button "Send PING" and you will be taken to the screen below, thro
 
 ##### Class0 / Flash SMS / Popup SMS / Alert SMS
 
-This type of SMS is per standard designed to immediately display to the recipient in a pop-up window. On most phones such messages cannot be saved. This type of SMS is not dangerous. Therefore we're adding any detection mechanism for stuff which is popping up on your screen anyway.
+This type of SMS is per standard designed to immediately display to the recipient in a pop-up window. On most phones such messages cannot be saved. This type of SMS is not dangerous. We're **NOT** adding any detection mechanism for stuff which is popping up on your screen anyway.
