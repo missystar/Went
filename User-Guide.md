@@ -100,7 +100,7 @@ The Cell Information currently only shows you the number of neighboring cells.
 
 # AT Command Injector
 
-The AT Command Injector is not enabled yet as we are still working hard on figure out how to gain full AT access to the Baseband Processor. 
+The AT Command Injector is not enabled yet as we are still working hard on figure out how to gain full AT access to the Baseband Processor. :exclamation: You can [help us adding that feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/23)!
 
 ![AT Command Injector](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/AT-Command-Injector.png)
 
@@ -108,7 +108,7 @@ The AT Command Injector is not enabled yet as we are still working hard on figur
 
 # Database Viewer
 
-The Database Viewer enables you to view and analyze the data that has been captured by AIMSICD. Just select between Cell Data, Location Data, OpenCellID Data, Default MCC Locations or Silent SMS and click on "Load Data" on the right side of the screen. Once the data has been loaded, it will immediately be displayed on your phone.
+The Database Viewer enables you to view and analyze the data that has been captured by AIMSICD. Just select between `Cell Data`, `Location Data`, `OpenCellID Data`, `Default MCC Locations` or `Silent SMS` and click on "Load Data" on the right side of the screen. Once the data has been loaded, it will immediately be displayed on your phone.
 
 ![Database Viewer](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Database_Viewer.png)
 
@@ -116,7 +116,7 @@ The Database Viewer enables you to view and analyze the data that has been captu
 
 # About AIMSICD
 
-This tab provides a convenient overview with several links to important information, especially the version number of your installed AIMSICD (which you should include in every bug report). All links are self-explanatory.
+This tab provides a convenient overview with several links to important information, especially the version number of your installed AIMSICD (which you should include in every bug report).
 
 ![About AIMSICD](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/About_AIMSICD.png)
 
@@ -124,7 +124,7 @@ This tab provides a convenient overview with several links to important informat
 
 # Options Menu
 
-This menu can be accessed through pressing on the three dots in the upper right corner of AIMSICD. You can either chose to navigate to the Preferences, the Database Viewer, backup the Database, restore the Database, update OpenCellID Data or Quit the App.
+This menu can be accessed through pressing on the three dots in the upper right corner of AIMSICD. You can either chose to navigate to the `Preferences`, select between `Database Viewer`, `Backup Database`, `Restore Database`, `Update OpenCellID Data` or `Quit` the App.
 
 ![Options Menu](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Options_Menu.png)
 
@@ -160,7 +160,7 @@ When Location Services have been enabled, AIMSICD will look like this in the not
 
 # Map Viewer
 
-The Map Viewer is still a heavy work-in-process. Eventually, it is supposed to show a spider web view of the local towers as well as how your phone changes towers with location and time. See [this comment](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/13#issuecomment-41944295) to get an idea of what we want to accomplish. Help us coding this feature!
+The Map Viewer is still a heavy work-in-process. Eventually, it is supposed to show a spider web view of the local towers as well as how your phone changes towers with location and time. See [this comment](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/13#issuecomment-41944295) to get an idea of what we want to accomplish. :exclamation: [Help us coding this feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/13)!
 
 To open the Map Viewer, simply press the world map as shown below:
 
@@ -174,9 +174,9 @@ I'm sure you already know the normal SMS you receive from friends and family onc
 
 ##### Type0 / Silent SMS / Stealth SMS / Ping SMS
 
-Law enforcement agencies are very often [see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html) sending out so-called "Silent SMS" (also called Stealth SMS / Ping SMS), which is is a **Type0 SMS**. That means that those SMS do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. AIMSICD aims to reliably detect and warn users of silent SMS.
+Law enforcement agencies are very often [see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html) sending out so-called "Silent SMS" (also called Stealth SMS / Ping SMS), which is is a **Type0 SMS**. That means that those SMS do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. AIMSICD aims to detect and warn users of these.
 
-AIMSICD is not yet able to detect this type of message. You may [help us adding that feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)!
+:exclamation: AIMSICD is not yet able to detect this type of message. You may [help us adding that feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)!
 
 If AIMSICD intercepts a Flash SMS (Type 0), you will immediately see an Alert on your screen:
 
@@ -192,10 +192,10 @@ You can easily test if AIMSICD really can detect Silent SMS of Type 0 with the A
 
 ![HushSMS](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS.png)
 
-Now press the button "Send PING" and you will be taken to the screen below, through which you can select different types of PING SMS. Select the second option `Use Silent Ping (Type 0)` and send it to your own number. HushSMS will then send out a Silent SMS (but without the generation of a delivery receipt) to your own number. We're working hard on enabling Silent SMS (Type 0) detection.
+Now press the button "Send PING" and you will be taken to the screen below, through which you can select different types of PING SMS. Select the second option `Use Silent Ping (Type 0)` and send it to your own number. HushSMS will then send out a Silent SMS (but without the generation of a delivery receipt) to your own number. We're working hard on enabling Silent SMS detection.
 
 ![HushSMS-Type0](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS-Type0.png)
 
 ##### Class0 / Flash SMS / Popup SMS / Alert SMS
 
-This type of SMS is per standard designed to immediately display to the recipient in a pop-up window. On most phones such messages cannot be saved. This type of SMS is not dangerous and hence we're not up to adding any detection mechanism for this type of SMS which is popping up on your screen anyway.
+This type of SMS is per standard designed to immediately display to the recipient in a pop-up window. On most phones such messages cannot be saved. This type of SMS is not dangerous. Therefore we're adding any detection mechanism for stuff which is popping up on your screen anyway.
