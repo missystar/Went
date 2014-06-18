@@ -32,9 +32,10 @@ You are awesome. Really! :smile_cat:
 
 1. Make yourself comfortable and visit the [DarkCoin-Website](https://www.darkcoin.io/).
 2. Secure your computer and [get started](https://www.darkcoin.io/getstarted.html).
-3. Make your donation to our official donation address: **XxEJvrYtkTZzvMUjtbZwPY34MyCGHSu4ys**
-4. If you have questions regarding DarkCoin, visit the [DarkCoin-Wiki](http://wiki.darkcoin.eu/wiki/Main_Page).
-5. Feel like improving DarkCoin? Be part of the [DarkCoin-Community](https://www.darkcoin.io/getinvolved.html)!
+3. Check the current [DarkCoin Price](http://darkcoinprice.com/) and decide how much you want to donate.
+4. Make your donation to our official donation address: **XxEJvrYtkTZzvMUjtbZwPY34MyCGHSu4ys**
+5. If you have questions regarding DarkCoin, visit the [DarkCoin-Wiki](http://wiki.darkcoin.eu/wiki/Main_Page).
+6. Feel like improving DarkCoin? Be part of the [DarkCoin-Community](https://www.darkcoin.io/getinvolved.html)!
 
 ### What happens to my donation?
 
