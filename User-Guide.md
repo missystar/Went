@@ -184,6 +184,16 @@ Additionally, AIMSICD will show the following notification about the Interceptio
 
 ![SilentSMS-Notification](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/SilentSMS-Notification.png)
 
+##### Self-Test: Sending a Flash SMS (Class 0)
+
+If you would like to test how AIMSICD reacts on receival of a Flash SMS, install the latest version of [HushSMS](http://forum.xda-developers.com/showthread.php?t=1490484) as well as the [HushSMS Xposed Helper Module](https://silentservices.de/HushSMSExposedHelper.apk) and access the main screen of HushSMS as shown below:
+
+![HushSMS](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS.png)
+
+In the upper right corner of HushSMS, click the button named "Send Class 0" and you will see the screen shown below. Type in your own phone number as well as any message you would like and click on "Send Class 0". AIMSICD will instantly react accordingly.
+
+![HushSMS-Class0](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS-Class0.png)
+
 ##### Type0 / Silent SMS / Stealth SMS / Ping SMS
 
 This type of SMS is specified in GSM 03.40 as follows: A short message type 0 indicates that the ME must acknowledge receipt of the short message but may discard its contents. This is type of SMS can be dangerous.
@@ -192,12 +202,8 @@ Law enforcement agencies are very often sending out these "Silent SMS" ([see thi
 
 **When AIMSICD is able to detect Type0 (the dangerous SMS), a description will follow here.**
 
-##### Self-Test through using HushSMS
+##### Self-Test: Sending a Silent SMS (Type 0)
 
-If you would like to test how AIMSICD reacts on receival of a Silent SMS, install the latest version of [HushSMS](http://forum.xda-developers.com/showthread.php?t=1490484) as well as the [HushSMS Xposed Helper Module](https://silentservices.de/HushSMSExposedHelper.apk) and access the main screen of HushSMS as shown below:
+Again, access the main screen of HushSMS and this time press the button "Send PING". You will see the screen below, through which you can select different types of PING SMS. Select the second option `Use Silent Ping (Type 0)` and send it to your own number. AIMSICD is not able to detect it yet.
 
-![HushSMS](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS.png)
-
-In the upper right corner of HushSMS, click the button named "Send Class 0" and you will see the screen shown below. Type in your own phone number as well as any message you would like and click on "Send Class 0". AIMSICD will instantly react accordingly.
-
-![HushSMS-Class0](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS-Class0.png)
+![HushSMS-Type0](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS-Type0.png)
