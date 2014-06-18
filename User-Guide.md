@@ -132,7 +132,7 @@ This menu can be accessed through pressing on the three dots in the upper right 
 
 # Preferences
 
-Here you can fine-tune our App. The preferences are self-explanatory. On the very bottom you can also select the style of the Icons that are displayed by AIMSICD - these can be either a style of "Flat", "Sense" or "White".
+Here you can fine-tune our App. The preferences are self-explanatory. On the very bottom you can also select the style of the Icons that are displayed by AIMSICD.
 
 ![Preferences](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Preferences.png)
 
@@ -140,7 +140,7 @@ Here you can fine-tune our App. The preferences are self-explanatory. On the ver
 
 # Cell Tracking
 
-If you want to track Cell Data, enabling Location Services is required. If disabled, AIMSICD will look like this in your notification bar:
+If you want to track Cell Data, enabling Location Services is required. If disabled, AIMSICD will indicate that it is in Idle-Mode and look like this in your notification bar:
 
 ![Tracking_Disabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Tracking_Disabled.png)
 
@@ -170,11 +170,11 @@ To open the Map Viewer, simply press the world map as shown below:
 
 # Special SMS Interception
 
-I'm sure you already know the normal SMS you receive from friends and family once in a while. But in fact, there is another type of SMS which AIMSICD aims to intercept and warn you about. Here's a short explanation:
+I'm sure you already know the normal SMS you receive from friends and family once in a while. But in fact, there is another type of SMS which AIMSICD aims to intercept and warn you about.
 
 ##### Type0 / Silent SMS / Stealth SMS / Ping SMS
 
-Law enforcement agencies are very often [see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html) sending out so-called "Silent SMS" (also called Stealth SMS / Ping SMS), which is is a **Type0 SMS**. That means that those SMS do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. Reliable detection of silent SMS will be trivial to the usefulness of AIMSICD.
+Law enforcement agencies are very often [see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html) sending out so-called "Silent SMS" (also called Stealth SMS / Ping SMS), which is is a **Type0 SMS**. That means that those SMS do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. AIMSICD aims to reliably detect and warn users of silent SMS.
 
 AIMSICD is not yet able to detect this type of message. You may [help us adding that feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)!
 
@@ -192,10 +192,10 @@ You can easily test if AIMSICD really can detect Silent SMS of Type 0 with the A
 
 ![HushSMS](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS.png)
 
-Now press the button "Send PING" and you will be taken to the screen below, through which you can select different types of PING SMS. Select the second option `Use Silent Ping (Type 0)` and send it to your own number. HushSMS will then send out a Silent SMS (but without the generation of a delivery receipt) to your own number. AIMSICD is not able to detect Silent SMS (Type 0) yet, but we're working hard on it.
+Now press the button "Send PING" and you will be taken to the screen below, through which you can select different types of PING SMS. Select the second option `Use Silent Ping (Type 0)` and send it to your own number. HushSMS will then send out a Silent SMS (but without the generation of a delivery receipt) to your own number. We're working hard on enabling Silent SMS (Type 0) detection.
 
 ![HushSMS-Type0](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS-Type0.png)
 
 ##### Class0 / Flash SMS / Popup SMS / Alert SMS
 
-This type of SMS indicates that this message is to be displayed on the MS immediately and a message delivery report is to be sent back to the SC. The message does not have to be saved in the MS or on the SIM card (unless selected to do so by the mobile user). This type of SMS is not dangerous and hence we're not up to adding any detection mechanism for this type of SMS which is popping up on your screen anyway.
+This type of SMS is per standard designed to immediately display to the recipient in a pop-up window. On most phones such messages cannot be saved. This type of SMS is not dangerous and hence we're not up to adding any detection mechanism for this type of SMS which is popping up on your screen anyway.
