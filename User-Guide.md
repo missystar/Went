@@ -170,13 +170,15 @@ To open the Map Viewer, simply press the world map as shown below:
 
 # Special SMS Interception
 
-I'm sure you already know the normal SMS you receive from friends and family once in a while. But in fact, there are two other types of SMS which AIMSICD aims to intercept and wanr you about. Here's a short explanation:
+I'm sure you already know the normal SMS you receive from friends and family once in a while. But in fact, there is another type of SMS which AIMSICD aims to intercept and warn you about. Here's a short explanation:
 
-##### Class0 / Flash SMS / Popup SMS / Alert SMS
+##### Type0 / Silent SMS / Stealth SMS / Ping SMS
 
-This type of SMS indicates that this message is to be displayed on the MS immediately and a message delivery report is to be sent back to the SC. The message does not have to be saved in the MS or on the SIM card (unless selected to do so by the mobile user). This type of SMS is not necessarily dangerous.
+Law enforcement agencies are very often [see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html) sending out so-called "Silent SMS" (also called Stealth SMS / Ping SMS), which is is a **Type0 SMS**. That means that those SMS do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. Reliable detection of silent SMS will be trivial to the usefulness of AIMSICD.
 
-If AIMSICD intercepts a Flash SMS (Class0), you will immediately see an Alert on your screen:
+AIMSICD is not yet able to detect this type of message. You may [help us adding that feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)!
+
+If AIMSICD intercepts a Flash SMS (Type 0), you will immediately see an Alert on your screen:
 
 ![SilentSMS-Alert](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/SilentSMS-Alert.png)
 
@@ -184,26 +186,16 @@ Additionally, AIMSICD will show the following notification about the Interceptio
 
 ![SilentSMS-Notification](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/SilentSMS-Notification.png)
 
-##### Self-Test: Sending a Flash SMS (Class 0)
+##### Self-Test: Sending a Silent SMS (Type 0)
 
-If you would like to test how AIMSICD reacts on receival of a Flash SMS, install the latest version of [HushSMS](http://forum.xda-developers.com/showthread.php?t=1490484) as well as the [HushSMS Xposed Helper Module](https://silentservices.de/HushSMSExposedHelper.apk) and access the main screen of HushSMS as shown below:
+You can easily test if AIMSICD really can detect Silent SMS of Type 0 with the App [HushSMS](http://forum.xda-developers.com/showthread.php?t=1490484). Buy it [via PayPal](https://www.silentservices.de/products/android-hushsms/) and additionally install the [HushSMS Xposed Helper Module](https://silentservices.de/HushSMSExposedHelper.apk). Then open HushSMS and access the main screen as shown below:
 
 ![HushSMS](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS.png)
 
-In the upper right corner of HushSMS, click the button named "Send Class 0" and you will see the screen shown below. Type in your own phone number as well as any message you would like and click on "Send Class 0". AIMSICD will instantly react accordingly.
-
-![HushSMS-Class0](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS-Class0.png)
-
-##### Type0 / Silent SMS / Stealth SMS / Ping SMS
-
-This type of SMS is specified in GSM 03.40 as follows: A short message type 0 indicates that the ME must acknowledge receipt of the short message but may discard its contents. This is type of SMS can be dangerous.
-
-Law enforcement agencies are very often sending out these "Silent SMS" ([see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html)) which do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. Reliable detection of silent SMS will be trivial to the usefulness of AIMSICD and is still being worked on.
-
-**When AIMSICD is able to detect Type0 (the dangerous SMS), a description will follow here.**
-
-##### Self-Test: Sending a Silent SMS (Type 0)
-
-Again, access the main screen of HushSMS and this time press the button "Send PING". You will see the screen below, through which you can select different types of PING SMS. Select the second option `Use Silent Ping (Type 0)` and send it to your own number. AIMSICD is not able to detect it yet.
+Now press the button "Send PING" and you will be taken to the screen below, through which you can select different types of PING SMS. Select the second option `Use Silent Ping (Type 0)` and send it to your own number. HushSMS will then send out a Silent SMS (but without the generation of a delivery receipt) to your own number. AIMSICD is not able to detect Silent SMS (Type 0) yet, but we're working hard on it.
 
 ![HushSMS-Type0](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS-Type0.png)
+
+##### Class0 / Flash SMS / Popup SMS / Alert SMS
+
+This type of SMS indicates that this message is to be displayed on the MS immediately and a message delivery report is to be sent back to the SC. The message does not have to be saved in the MS or on the SIM card (unless selected to do so by the mobile user). This type of SMS is not dangerous and hence we're not up to adding any detection mechanism for this type of SMS which is popping up on your screen anyway.
