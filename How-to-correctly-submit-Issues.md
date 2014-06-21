@@ -13,6 +13,15 @@
 - **A logcat dump to Pastebin. We recommend to use [CatLog](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat) or [Logcat Extreme](https://play.google.com/store/apps/details?id=scd.lcex)**
 
 ---
+**Are you a command line junkie?**
+Then you can use the following shell function to help you get only relevant logcat entries. 
+Copy and paste the following to your terminal shell:
+```
+alias logrep='logcat -d -v time -b main -b system -b radio|grep -iE $@'
+```
+To use it just write: `logrep AIMSICD`, and you will only get stuff marked with AIMSICD.
+
+---
 
 **HUNGRY FOR SAFETY?** Remove your IMEI, IMSI and phone number from dumps you submit!
 
