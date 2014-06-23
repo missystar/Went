@@ -100,7 +100,14 @@ The Cell Information currently only shows you the number of neighboring cells.
 
 # AT Command Injector
 
-The AT Command Injector is not enabled yet as we are still working hard on figure out how to gain full AT access to the Baseband Processor. :exclamation: You can [help us adding that feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/23)!
+The AT Command Injector is now enabled thanks to the great work of @E3V3A determining how to make this implementation possible  and the funky code of @xLaMbChOpSx! Huge thanks flies out to both of you! :)
+
+:exclamation: **CAUTION: ROOT IS REQUIRED!** Have fun and try not to break anything!
+
+Root terminal methods are used to execute the AT Command Injection so this fragment will check for both ROOT (su binary) and BUSYBOX to confirm both are available on your device. If they are not available, the execution section of the fragment WILL NOT DISPLAY.
+
+If the initial setup works correctly the next step is trying to determine your RIL Serial Device through the system property ril.libargs. If this is successful then you are in business and the AT Command Injection system is available for you to test. This will probably NOT WORK on many devices (such as i9100) but it will provide
+details of the failure if available and display them to the screen but also write them to the file error.txt in the AIMSICD directory of your external storage (we are happy to receive these error reports to improve our App).
 
 ![AT Command Injector](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/AT-Command-Injector.png)
 
