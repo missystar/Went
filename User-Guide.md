@@ -1,29 +1,37 @@
 # User Guide for AIMSICD
 
-Official User Guide to make you understand the functions of our App. This Guide is by far not complete and will most likely change quite a few times. Therefore, please bookmark it and come back once in a while.
+Official User Guide to make you understand the functions of our App. Heavy lifting here!
 
 # Index
 
 * [Installation](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#installation)
 
-#### Screens
+#### Navigation Menus
 
-Navigate to the different screens through swiping to the left or right with your fingers!
+Navigate to the different functions using the following menus:
 
 * [Disclaimer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#disclaimer)
 * [Main Screen](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#main-screen)
-* [Status Icons](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#status-icons)
-* [Cell Information](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#cell-information)
-* [AT Command Injector](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#at-command-injector)
-* [Database Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#database-viewer)
-* [About AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#about-aimsicd)
+* [Main Menu](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#main-menu)
 * [Options Menu](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#options-menu)
 * [Preferences](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#preferences)
 
+#### Status Icons
+
+Pay close attention to the color of the current status Icon!
+
+* [Status Icons](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#status-icons)
+
 #### Functions
 
+These are the places where you can gather all the goodies.
+
+* [Cell Information](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#cell-information)
+* [AT Command Injector](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#at-command-injector)
+* [Database Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#database-viewer)
 * [Cell Tracking](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#cell-tracking)
 * [Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#map-viewer)
+* [About AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#about-aimsicd)
 * [Special SMS Interception](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#special-sms-interception)
 
 ---
@@ -36,7 +44,7 @@ Please see our always up-to-date [Installation Guide](https://github.com/SecUpwN
 
 # Disclaimer
 
-When starting AIMSICD for the first time, it will prompt you to accept our [Disclaimer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DISCLAIMER). If you choose to decline, both the service and activity will be destroyed and you must uninstall the application. With great power comes great responsibility. You've been warned.
+When starting AIMSICD for the first time, it will prompt you to accept our [Disclaimer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DISCLAIMER). If you choose to decline, both the service and activity will be destroyed and you must uninstall the application. **With great power comes great responsibility.** You've been warned.
 
 ![Disclaimer](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Disclaimer.png)
 
@@ -44,7 +52,7 @@ When starting AIMSICD for the first time, it will prompt you to accept our [Disc
 
 # Main Screen
 
-This is the main screen of AIMSICD which you see after accepting the Disclaimer.
+This is the main screen of AIMSICD which appears after accepting the Disclaimer.
 
 ![Device Details](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Device_Details.png)
 
@@ -53,8 +61,7 @@ This is the main screen of AIMSICD which you see after accepting the Disclaimer.
 ##### Device Information
 * **Type**: Your cellular network protocol. Can be **GSM** or **CDMA**
 * **[IMEI](http://en.wikipedia.org/wiki/International_Mobile_Station_Equipment_Identity)**: Your International Mobile Station Equipment Identity
-* **Version**:
-* **Line Number**: Your phone number.
+* **Version**: The version number of your Qualcomm RIL
 
 ##### SIM Information
 * **Country**: The country you are currently located at.
@@ -66,12 +73,12 @@ This is the main screen of AIMSICD which you see after accepting the Disclaimer.
 ##### Network Information
 * **Network Name**: The name of the network you are using.
 * **Network Code**:
-* **Network Type**:
-* **Network LAC**:
+* **Network Type**: The Type of Network you are currently using.
+* **Network LAC**: The Location Code of your current Cell.
+* **[Network CID](https://en.wikipedia.org/wiki/Cell_ID)**: The Location Area Code of your current Cell.
 * **Roaming**: Indicates whether your phone is in roaming mode.
-* **Data Activity**:
-* **Data Status**:
-* **Network CellID**:
+* **Data Activity**: Indicates whether a data connection is active or not.
+* **Data Status**: Indicates whether your phone is in a connected data mode or not.
 
 ---
 
@@ -90,9 +97,17 @@ The Status Icons indicate several threat levels. They are as follows:
 
 ---
 
+# Main Menu
+
+The main menu is located on the top left corner of the App and allows access to the most important features and many more funky things our App has to offer.
+
+![Main Menu](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Main_Menu.png)
+
+---
+
 # Cell Information
 
-The Cell Information currently only shows you the number of neighboring cells.
+The Cell Information reveals the total amount and details of neighboring cells.
 
 ![Cell Information](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Cell_Information.png)
 
@@ -100,9 +115,10 @@ The Cell Information currently only shows you the number of neighboring cells.
 
 # AT Command Injector
 
-The AT Command Injector is now enabled thanks to the great work of @E3V3A determining how to make this implementation possible  and the funky code of @xLaMbChOpSx! Huge thanks flies out to both of you! :)
+:exclamation: **CAUTION: VERY ALPHA! ROOT IS REQUIRED!**
+Have fun and try not to break anything!
 
-:exclamation: **CAUTION: ROOT IS REQUIRED!** Have fun and try not to break anything!
+The AT Command Injector is now enabled thanks to the great work of [E3V3A](https://github.com/E3V3A) determining how to make this implementation possible  and the funky code of [xLaMbChOpSx](https://github.com/xLaMbChOpSx)! Huge thanks flies out to both of you! :)
 
 Root terminal methods are used to execute the AT Command Injection so this fragment will check for both ROOT (su binary) and BUSYBOX to confirm both are available on your device. If they are not available, the execution section of the fragment WILL NOT DISPLAY.
 
@@ -131,7 +147,7 @@ This tab provides a convenient overview with several links to important informat
 
 # Options Menu
 
-This menu can be accessed through pressing on the three dots in the upper right corner of AIMSICD. You can either chose to navigate to the `Preferences`, select between `Database Viewer`, `Backup Database`, `Restore Database`, `Update OpenCellID Data` or `Quit` the App.
+This menu can be accessed through pressing on the three dots in the upper right corner of AIMSICD. You can either chose to `Backup Database`, `Restore Database`, `Update OpenCellID Data` or `Quit` the App.
 
 ![Options Menu](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Options_Menu.png)
 
@@ -139,7 +155,11 @@ This menu can be accessed through pressing on the three dots in the upper right 
 
 # Preferences
 
-Here you can fine-tune our App. The preferences are self-explanatory. On the very bottom you can also select the style of the Icons that are displayed by AIMSICD.
+Here you can fine-tune our App. To get to the Preferences, press the Preferences-Button:
+
+![Preferences-Button](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Preferences_Button.png)
+
+The preferences should be self-explanatory.
 
 ![Preferences](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Preferences.png)
 
