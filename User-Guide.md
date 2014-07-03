@@ -59,9 +59,9 @@ This is the main screen of AIMSICD which appears after accepting the Disclaimer.
 #### Explanation of Device Details
 
 ##### Device Information
-* **Type**: Your cellular network protocol. Can be **GSM** or **CDMA**
-* **[IMEI](http://en.wikipedia.org/wiki/International_Mobile_Station_Equipment_Identity)**: Your International Mobile Station Equipment Identity
-* **Version**: The version number of your Qualcomm RIL
+* **Type**: Your cellular network protocol. Can be **GSM** or **CDMA**.
+* **[IMEI](http://en.wikipedia.org/wiki/International_Mobile_Station_Equipment_Identity)**: Your International Mobile Station Equipment Identity.
+* **Version**: The version number of your Qualcomm RIL.
 
 ##### SIM Information
 * **Country**: The country you are currently located at.
@@ -99,7 +99,7 @@ The Status Icons indicate several threat levels. They are as follows:
 
 # Main Menu
 
-The main menu is located on the top left corner of the App and allows access to the most important features and many more funky things our App has to offer.
+The main menu is located on the top left corner of the App and allows access to all important features and settings as well as many more funky things our App has to offer.
 
 ![Main Menu](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Main_Menu.png)
 
@@ -107,7 +107,7 @@ The main menu is located on the top left corner of the App and allows access to 
 
 # Cell Information
 
-The Cell Information reveals the total amount and details of neighboring cells.
+The Cell Information screen reveals the total amount and details of neighboring cells.
 
 ![Cell Information](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Cell_Information.png)
 
@@ -118,12 +118,11 @@ The Cell Information reveals the total amount and details of neighboring cells.
 :exclamation: **CAUTION: VERY ALPHA! ROOT IS REQUIRED!**
 Have fun and try not to break anything!
 
-The AT Command Injector is now enabled thanks to the great work of [E3V3A](https://github.com/E3V3A) determining how to make this implementation possible  and the funky code of [xLaMbChOpSx](https://github.com/xLaMbChOpSx)! Huge thanks flies out to both of you! :)
+The AT Command Injector is now enabled thanks to the great work of [E3V3A](https://github.com/E3V3A) determining how to make this implementation possible  and the funky code of [xLaMbChOpSx](https://github.com/xLaMbChOpSx)! **THANKS** to both of you! :smiley_cat: 
 
 Root terminal methods are used to execute the AT Command Injection so this fragment will check for both ROOT (su binary) and BUSYBOX to confirm both are available on your device. If they are not available, the execution section of the fragment WILL NOT DISPLAY.
 
-If the initial setup works correctly the next step is trying to determine your RIL Serial Device through the system property ril.libargs. If this is successful then you are in business and the AT Command Injection system is available for you to test. This will probably NOT WORK on many devices (such as i9100) but it will provide
-details of the failure if available and display them to the screen but also write them to the file error.txt in the AIMSICD directory of your external storage (we are happy to receive these error reports to improve our App).
+If the initial setup works correctly the next step is trying to determine your RIL Serial Device through the system property ril.libargs. If this is successful then you are in business and the AT Command Injection system is available for you to test. This will probably NOT WORK on many devices (such as i9100) but it will provide details of the failure if available and display them to the screen but also write them to the file error.txt in the AIMSICD directory of your external storage (we are happy to receive these error reports to improve our App). Use the Timeout drop-down field to allow a certain time for an AT Command response.
 
 ![AT Command Injector](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/AT-Command-Injector.png)
 
@@ -145,11 +144,11 @@ This tab provides a convenient overview with several links to important informat
 
 ---
 
-# Options Menu
+# Settings Menu
 
-This menu can be accessed through pressing on the three dots in the upper right corner of AIMSICD. You can either chose to `Backup Database`, `Restore Database`, `Update OpenCellID Data` or `Quit` the App.
+This menu can be accessed through the main menu of AIMSICD and allows you to furher navigate to the [Preferences](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#preferences), backup the Database or restore your Database.
 
-![Options Menu](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Options_Menu.png)
+![Settings Menu](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Settings_Menu.png)
 
 ---
 
@@ -189,9 +188,7 @@ When Location Services have been enabled, AIMSICD will look like this in the not
 
 The Map Viewer is still a heavy work-in-process. Eventually, it is supposed to show a spider web view of the local towers as well as how your phone changes towers with location and time. See [this comment](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/13#issuecomment-41944295) to get an idea of what we want to accomplish. :exclamation: [Help us coding this feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/13)!
 
-To open the Map Viewer, simply press the world map as shown below:
-
-![Map Viewer](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Map_Viewer.png)
+Pictures will be added as soon as this feature runs on my HTC One.
 
 ---
 
@@ -209,7 +206,7 @@ If AIMSICD intercepts a Flash SMS (Type 0), you will immediately see an Alert on
 
 ![SilentSMS-Alert](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/SilentSMS-Alert.png)
 
-Additionally, AIMSICD will show the following notification about the Interception in your notification bar:
+Additionally, AIMSICD will show the this notification about the Interception in your notification bar:
 
 ![SilentSMS-Notification](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/SilentSMS-Notification.png)
 
