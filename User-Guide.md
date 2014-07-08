@@ -72,7 +72,7 @@ This is the main screen of AIMSICD which appears after accepting the Disclaimer.
 
 ##### Network Information
 * **Network Name**: The name of the network you are using.
-* **Network Code**:
+* **Network Code**: Combined display of Mobile Country Code (MCC) and Mobile Network Code (MNC) 
 * **Network Type**: The Type of Network you are currently using.
 * **Network LAC**: The Location Code of your current Cell.
 * **[Network CID](https://en.wikipedia.org/wiki/Cell_ID)**: The Location Area Code of your current Cell.
@@ -107,7 +107,7 @@ The main menu is located on the top left corner of the App and allows access to 
 
 # Cell Information
 
-The Cell Information screen reveals the total amount and details of neighboring cells.
+The Cell Information screen reveals the total amount and details of neighbouring cells.
 
 ![Cell Information](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Cell_Information.png)
 
@@ -146,7 +146,7 @@ This tab provides a convenient overview with several links to important informat
 
 # Settings Menu
 
-This menu can be accessed through the main menu of AIMSICD and allows you to furher navigate to the [Preferences](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#preferences), backup the Database or restore your Database.
+This menu can be accessed through the main menu of AIMSICD and allows you to further navigate to the [Preferences](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#preferences), backup the Database or restore your Database.
 
 ![Settings Menu](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Settings_Menu.png)
 
