@@ -205,7 +205,7 @@ That means that those SMS do not show up on a display of a target device, nor tr
 
 :exclamation: AIMSICD is not yet able to detect this type of message. You may [help us adding that feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)!
 
-If AIMSICD intercepts a Flash SMS (Type 0), you will immediately see an Alert on your screen:
+If AIMSICD intercepts Silent SMS (Type 0), you will immediately see an Alert on your screen:
 
 ![SilentSMS-Alert](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/SilentSMS-Alert.png)
 
@@ -222,6 +222,7 @@ You can easily test if AIMSICD really can detect Silent SMS of Type 0 with the A
 Now press the button "Send PING" and you will be taken to the screen below, through which you can select different types of PING SMS. Select the second option `Use Silent Ping (Type 0)` and send it to your own number. HushSMS will then send out a Silent SMS (but without the generation of a delivery receipt) to your own number. We're working hard on enabling Silent SMS detection.
 
 ![HushSMS-Type0](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS-Type0.png)
+
 
 ##### Class0 / Flash SMS / Popup SMS / Alert SMS
 
