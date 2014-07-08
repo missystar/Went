@@ -198,7 +198,10 @@ I'm sure you already know the normal SMS you receive from friends and family onc
 
 ##### Type0 / Silent SMS / Stealth SMS / Ping SMS
 
-Law enforcement agencies are very often [see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html) sending out so-called "Silent SMS" (also called Stealth SMS / Ping SMS), which is is a **Type0 SMS**. That means that those SMS do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. AIMSICD aims to detect and warn users of these.
+Law enforcement agencies are very often [see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html) sending out so-called "Silent SMS" (also called Stealth SMS / Ping SMS), which is is a **Type0 SMS**. This type of SMS is specified in GSM 03.40 as follows:
+>A short message type 0 indicates that the ME must acknowledge receipt of the short message but may discard its contents.
+
+That means that those SMS do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. AIMSICD aims to detect and warn users of these.
 
 :exclamation: AIMSICD is not yet able to detect this type of message. You may [help us adding that feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)!
 
@@ -222,4 +225,7 @@ Now press the button "Send PING" and you will be taken to the screen below, thro
 
 ##### Class0 / Flash SMS / Popup SMS / Alert SMS
 
-This type of SMS is per standard designed to immediately display to the recipient in a pop-up window. On most phones such messages cannot be saved. This type of SMS is not dangerous. We're **NOT** adding any detection mechanism for stuff which is popping up on your screen anyway.
+This type of SMS is per standard designed to immediately display to the recipient in a pop-up window.
+>A short message of class 0 indicates that this message is to be displayed on the MS immediately and a message delivery report is to be sent back to the SC. The message does not have to be saved in the MS or on the SIM card (unless selected to do so by the mobile user).
+
+On most phones such messages cannot be saved. This type of SMS is not dangerous. We're **NOT** adding any detection mechanism for stuff which is popping up on your screen anyway.
