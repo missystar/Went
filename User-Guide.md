@@ -224,6 +224,7 @@ Now press the button "Send PING" and you will be taken to the screen below, thro
 ![HushSMS-Type0](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS-Type0.png)
 
 
+
 ##### Class0 / Flash SMS / Popup SMS / Alert SMS
 
 This type of SMS is per standard designed to immediately display to the recipient in a pop-up window.
