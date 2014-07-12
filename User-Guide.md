@@ -76,6 +76,7 @@ This is the main screen of AIMSICD which appears after accepting the Disclaimer.
 * **Network Type**: The Type of Network you are currently using.
 * **Network LAC**: The Location Code of your current Cell.
 * **[Network CID](https://en.wikipedia.org/wiki/Cell_ID)**: The Location Area Code of your current Cell.
+* **Primary Scrambling Code**: Code to identify the Cell on the downlink.
 * **Roaming**: Indicates whether your phone is in roaming mode.
 * **Data Activity**: Indicates whether a data connection is active or not.
 * **Data Status**: Indicates whether your phone is in a connected data mode or not.
