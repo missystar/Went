@@ -87,7 +87,7 @@ This is the main screen of AIMSICD which appears after accepting the Disclaimer.
 
 The Status Icons indicate several threat levels. They are as follows:
 
-|  CODE  | ICON | THREAT LEVEL |           EXPLANATION          |
+|  CODE  | ICON | THREAT-LEVEL |           EXPLANATION          |
 |:------:|:----:|:------------:|:------------------------------:|
 | Grey   | ![IDLE](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_idle.png)     | LOADING      | App is loading. Stay tuned.    |
 | Green  | ![OK](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_ok.png)     | NORMAL       | No threats detected or found.   |
