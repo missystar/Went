@@ -18,9 +18,9 @@ Navigate to the different functions using the following menus:
 
 #### Status Icons
 
-Pay close attention to the color of the current status Icon!
+Pay close attention to the color of the current Status Icon!
 
-* [Status Icons](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#status-icons)
+* [Status Icons](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide#status-icons-and-threat-levels)
 
 #### Functions
 
@@ -83,11 +83,11 @@ This is the main screen of AIMSICD which appears after accepting the Disclaimer.
 
 ---
 
-# Status Icons
+# Status Icons and Threat Levels
 
 The Status Icons indicate several threat levels. They are as follows:
 
-|  CODE  | ICON | THREAT-LEVEL |           EXPLANATION          |
+|  CODE  | ICON | THREAT LEVEL |           EXPLANATION          |
 |:------:|:----:|:------------:|:------------------------------:|
 | Grey   | ![IDLE](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_idle.png)     | LOADING      | App is loading. Stay tuned.    |
 | Green  | ![OK](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_ok.png)     | NORMAL       | No threats detected or found.   |
