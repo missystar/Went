@@ -1,4 +1,8 @@
-Welcome to the Android-IMSI-Catcher-Detector wiki!
+# **Welcome to the AIMSICD wiki!**
+
+![AIMSICD-Status](http://fs1.d-h.st/view/h1q/00133/AIMSICD-Status_Small.png)
+
+The [Android-IMSI-Catcher-Detector](http://secupwn.github.io/Android-IMSI-Catcher-Detector) (short: AIMSICD) is an Android open-source based project to detect and (hopefully one day) avoid fake base stations (IMSI-Catchers) or other base-stations (mobile antennas) with poor/no encryption. This project aims to warn users if the ciphering is turned off and also enables several other protection-mechanisms. Since it is under constant development, we constantly search for testers and security-enthusiastic developers with balls. Don't be shy, feel free to contribute in any way you can on [GitHub](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector) and [XDA](https://forum.xda-developers.com/showthread.php?t=1422969)!
 
 * **[User Guide](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/User-Guide) (read thoroughly)** :fire: 
 * [How to build the AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/How-to-build-the-AIMSICD)
