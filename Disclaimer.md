@@ -1,0 +1,3 @@
+When starting AIMSICD for the first time, it will prompt you to accept our [Disclaimer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DISCLAIMER). If you choose to decline, both the service and activity will be destroyed and you must uninstall the application. **With great power comes great responsibility.** You've been warned.
+
+![Disclaimer](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Disclaimer.png)
