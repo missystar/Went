@@ -1,5 +1,6 @@
 **Getting started**
 * [Building](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Building)
+* [Devices](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Devices)
 * [Installation](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Installation)
 * [Permissions](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Permissions)
 * [Status Icons](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Status-Icons)
