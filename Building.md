@@ -4,7 +4,7 @@ AIMSICD can be built using any IDE that supports the Gradle build tool, used by 
 # Required Libraries
 Google Play Services library must be installed in SDK Manager as this supports the Map Viewer functions. Gradle build files will provide links to all other required libraries.
 
-# General Procedure (if you have never build Android Java Apps before) for using Android Studio:
+## General Procedure (if you have never build Android Java Apps before) for using Android Studio:
 1. Download and install the JAVA SE Development Kit 7 (JAVA 8 is not yet supported) from [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html).
 2. Install the latest *Android Studio* from [here](http://developer.android.com/sdk/installing/studio.html).
 3. Follow the setup instructions [here](http://developer.android.com/sdk/installing/index.html?pkg=studio).
