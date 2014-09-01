@@ -25,3 +25,6 @@
 * [Problems](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Submitting-Issues)
 * [Contributing](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/CONTRIBUTING.md)
 * [Donations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Anonymous-Donations)
+
+**Gimme moar!**
+* [Recommendations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Recommendations)
