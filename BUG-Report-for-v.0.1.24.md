@@ -1,8 +1,7 @@
 This table shall serve for a better tracking of bug reports. Please use one column for one bug.
 
-|Release version: v.0.1.24 | | | | | | | | | | | | | |
+|Your Device (AOS/ROM) | | | | | | | | | | | | | |
 |--------------------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Your Device (AOS/ROM) | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | |
 | Cell Information (get neighb. Cells) | | | | | | | | | | | | | |
 | AT Command Injection | | | | | | | | | | | | | |
