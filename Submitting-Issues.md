@@ -1,10 +1,12 @@
 # Trouble? Help us squashing bugz!
 
-1. Make sure to ALWAYS use the [latest WIP-Release](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases). **NO SUPPORT for older versions.**
+Please have a look at our [TODO](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/TODO) to see which bugs we're currently squashing.
+
+1. ALWAYS use the [latest WIP-Release](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases). **NO SUPPORT for older versions.**
 2. If you use [Xprivacy](https://github.com/M66B/XPrivacy) read and understand [THIS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Permissions) first! Give it another try after reading.
 3. App still mocking around? Click [HERE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues) to open a new Issue. Name it appropriately.
 4. On the top of the page, use the search bar to verify your Issue does not exist yet.
-5. Please describe your Issue as thoroughly as possible. You **MUST** include the following:
+5. Describe your Issue as thoroughly as possible. You **MUST** include the following:
 
 - **AIMSICD version (see the About-Tab within our App)**
 - **Your exact FW specification (ROM, AOS API, etc.)**
@@ -23,9 +25,9 @@ To use it just write: `logrep AIMSICD`, and you will only get stuff marked with 
 
 ---
 
-**HUNGRY FOR SAFETY?** Remove your IMEI, IMSI and phone number from dumps you submit!
+:exclamation: **SAFETY FIRST:** Remove your IMEI, IMSI and phone number from dumps you submit!
 
 ---
 
-* Please **BE PATIENT**. Our developers also have a private live and family, as well as jobs!
+* Please **BE PATIENT**. Our developers have a real live, family, and jobs!
 * If you'd like our project, feel free to submit code or find more developers. Thank you.
