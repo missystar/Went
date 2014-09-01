@@ -1,8 +1,8 @@
-This table shall serve for a better tracking of bug reports. Edit as necessary.
+This table shall serve for a better tracking of bug reports. Please use one column for one bug.
 
-| Release version: | | | | | | | | | | | | | |
+|Release version: v.0.1.24 | | | | | | | | | | | | | |
 |--------------------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Device (AOS vers./ ROM) | | | | | | | | | | | | | |
+| Your Device (AOS/ROM) | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | |
 | Cell Information (get neighb. Cells) | | | | | | | | | | | | | |
 | AT Command Injection | | | | | | | | | | | | | |
@@ -18,8 +18,8 @@ This table shall serve for a better tracking of bug reports. Edit as necessary.
 | Other Problems | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | |
 | Bug-No. | | | | | | | | | | | | | |
-| Issue on GitHub | | | | | | | | | | | | | |
-| Bug-No. short description & | | | | | | | | | | | | | |
-| Steps to reproduce the bug(s) | | | | | | | | | | | | | |
+| Link Issue on GitHub | | | | | | | | | | | | | |
+| Short description  | | | | | | | | | | | | | |
+| Steps to reproduce the bug | | | | | | | | | | | | | |
 | Other Problems | | | | | | | | | | | | | |
 | Date and Tester | | | | | | | | | | | | |
