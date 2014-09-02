@@ -1,7 +1,5 @@
 # Trouble? Help us squashing bugz!
 
-Please have a look at our [TODO](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/TODO) to see which bugs we're currently squashing.
-
 1. ALWAYS use the [latest WIP-Release](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases). **NO SUPPORT for older versions.**
 2. If you use [Xprivacy](https://github.com/M66B/XPrivacy) read and understand [THIS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Permissions) first! Give it another try after reading.
 3. App still mocking around? Click [HERE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues) to open a new Issue. Name it appropriately.
