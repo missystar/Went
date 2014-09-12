@@ -2,7 +2,7 @@ This is the "testers table" with the phones we're currently testing onv and whic
 
 **Developers**: Just copy the previous line and edit the relevant info.
 
-|           Phone Model           |   Application Processor, Baseband Processor   |               FW/ROM              |     AOS    | API |  SEL Mode  | DevName |
+|           Phone Model           |   Application Processor, Baseband Processor   |               FW/ROM              |     AOS    | API |  SEL Mode  | DEV |
 |:-------------------------------:|:---------------------------------------------:|:---------------------------------:|:----------:|:---:|:----------:|:-------:|
 | Samsung Galaxy S4 Mini GT-I9195 |               MSM8930AB, [same]               |              *Stock*              |  JB 4.2.2  |  17 |  Enforced  |  E:V:A  |
 |    Samsung Galaxy S2 GT-I9100   |                Exynos, XMM 6260               |              SlimKat              | KK 4.4.2b4 |  19 | Permissive |  E:V:A  |
