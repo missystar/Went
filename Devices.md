@@ -1,6 +1,6 @@
-This is the "testers table" with the phones we're currently testing on and which one of us is using it. Table columns are: Phone Model, **A**pplication **P**rocessor & **B**aseband **P**rocessor, FW ROM, AOS, API Version, *SELinux* Mode, Developer Name
+This is the "testers table" with the phones we're currently testing on and which one of us is using it. Table columns are: `Phone Model, Application Processor (AP) / Baseband Processor (BP), FW/ROM, AOS, API Version, *SELinux* Mode, Developer Name`
 
-**Developers**: Just copy the previous line and edit the relevant info.
+**Developers**: *Just copy the previous line and edit the relevant info.*
 
 |           Phone Model           |   Application Processor, Baseband Processor   |               FW/ROM              |     AOS    | API |  SEL Mode  | DEV |
 |:-------------------------------:|:---------------------------------------------:|:---------------------------------:|:----------:|:---:|:----------:|:-------:|
