@@ -1,7 +1,7 @@
 Here is a list of the devices we use to develop and test on, and which one of us is using it.
 Table columns are: `Manufacturer, Model, Type-number, FW ROM, AOS, API Version, *SELinux* mode, Developer Name`
 
-Developers: *Just copy the previous line and edit the relevant info.
+**Developers:** *Just copy the previous line and edit the relevant info.*
 
 | Manufacturer | Model    | Type-number | FW/ROM | AOS | API | SEL Mode | DevName |
 |:------------ |:-------- |:----------- |:------ |:--- | --- |:-------- |:------- |
