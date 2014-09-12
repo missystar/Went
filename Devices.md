@@ -16,8 +16,8 @@ This is the "testers table" with the phones we're currently testing on and which
 
 I Propose this...
 
-| Manufacturer/Model    | Type-number | AP | BP | FW/ROM | AOS | API | SELmode | Dev |
-|:--------------------- |:----------- | -- | -- |:------ |:--- | --- |:------- |:--- |
+| Manufacturer/Model    | Type-number | AP  | BP  | FW/ROM | AOS | API | SELmode | Dev |
+|:--------------------- |:----------- | --- | --- |:------ |:--- | --- |:------- |:--- |
 Samsung S2 | GT-I9100 | Exynos | XMM6260 | SlimKat | KK4.4.2b4 | 19 | Permissive | E:V:A
 Samsung S4mini | GT-I9195 | ??? | ??? | *stock* | JB4.2.2 | 17 | Enforcing | E:V:A
 HTC One | M7 | ??? | ??? | AOKP | KK4.4.4 | 19 | Permissive | SecUpwN
