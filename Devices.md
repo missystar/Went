@@ -19,8 +19,8 @@ I Propose this...
 | Manufacturer/Model    | Type-number | AP  | BP  | FW/ROM | AOS | API | SELmode | Dev |
 |:--------------------- |:----------- | --- | --- |:------ |:--- | --- |:------- |:--- |
 Samsung S2 | GT-I9100 | Exynos | XMM6260 | SlimKat | KK4.4.2b4 | 19 | Permissive | E:V:A
-Samsung S4mini | GT-I9195 | ??? | ??? | *stock* | JB4.2.2 | 17 | Enforcing | E:V:A
-HTC One | M7 | ??? | ??? | AOKP | KK4.4.4 | 19 | Permissive | SecUpwN
-HTC Wildfire S | A510e | ??? | ??? | | | | He3556 |
-Wiko Darkmoon | ? | MT6582 | SoC | *stock* | JB4.2.2 | | Permissive | andr3jx |
+Samsung S4mini | GT-I9195 | MSM8930AB | *SoC* | *stock* | JB4.2.2 | 17 | Enforcing | E:V:A
+HTC One | M7 | - | - | AOKP | KK4.4.4 | 19 | Permissive | SecUpwN
+HTC Wildfire S | A510e | - | - | | | | | He3556 |
+Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB4.2.2 | | Permissive | andr3jx |
 
