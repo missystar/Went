@@ -11,3 +11,4 @@ HTC Wildfire S | A510e | - | - | | | | | He3556 |
 Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB 4.2.2 | | *NE*| andr3jx |
 
 "NE" = Not Enabled/Implemented
+"SoC" = System on a Chip, which means that the BP is integrated into the same chip as the AP
