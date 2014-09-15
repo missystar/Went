@@ -7,7 +7,7 @@ This is the "testers table" with the phones we're currently testing on and which
 Samsung S2 | GT-I9100 | Exynos | XMM6260 | SlimKat | KK4.4.2b4 | 19 | Permissive | E:V:A
 Samsung S4mini | GT-I9195 | MSM8930AB | *SoC* | *stock* | JB4.2.2 | 17 | Enforcing | E:V:A
 HTC One | M7 | MSM8960 | *SoC* | AOKP | KK4.4.4 | 19 | Permissive | SecUpwN
-HTC Wildfire S | A510e | - | - | | | | | He3556 |
+HTC Wildfire S | A510e | MSM7227T | - | | | | | He3556 |
 Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB4.2.2 | | *NE*| andr3jx |
 
 "NE" = Not Enabled/Implemented
