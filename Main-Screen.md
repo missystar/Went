@@ -5,9 +5,9 @@ This is the main screen of AIMSICD which appears after accepting the Disclaimer.
 #### Explanation of Device Details
 
 ##### Device Information
-* **Type**: Your cellular network protocol. Can be **GSM** or **CDMA**.
+* **Phone Type**: Your cellular network protocol. Can be **GSM** or **CDMA**.
 * **[IMEI](http://en.wikipedia.org/wiki/International_Mobile_Station_Equipment_Identity)**: Your International Mobile Station Equipment Identity.
-* **Version**: The version number of your Qualcomm RIL.
+* **RIL Version**: The version number of your (Qualcomm) RIL.
 
 ##### SIM Information
 * **Country**: The country you are currently located at.
