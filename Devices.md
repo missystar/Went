@@ -11,6 +11,8 @@ Sony Xperia Z | C6603 | MSM8960 | *SoC* | *stock* | KK4.4.4 | 19 | Enforcing | x
 HTC One | M7 | MSM8960 | *SoC* | AOKP | KK4.4.4 | 19 | Permissive | SecUpwN
 HTC Wildfire S | A510e | MSM7227T | *SoC* | CM10.1 | JB4.2.2 | 17 | *NE* | He3556
 Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB4.2.2 | 17 | *NE*| andr3jx
+Huawei Ascend P1 | U9200 | ? | ? | CyanogenMod 11 | KK4.4.4 | 19 | *NE* | tobykurien
+
 
 "NE" = Not Enabled/Implemented
 
