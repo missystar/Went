@@ -6,7 +6,7 @@ A: This is a work in progress (WIP) and that is exactly the reason why we are fu
 
 **Q: What role do you want me to play ?**
 
-A: That depends on your capabilities, time and mindset. In an ideal world, you'd be primarily solving the Issues on our GitHub, contribute code through pull requests, test our App thoroughly and tell your friends. But honestly speaking, noone of our project wants to force you doing anything. You can also just lurk around and complain that nothing is working.
+A: That solely depends on your capabilities, time and mindset. In an ideal world, you'd be primarily solving the Issues on our GitHub, contribute code through pull requests, test our App thoroughly and tell your friends. But honestly speaking, noone wants to force you doing anything. You can also just lurk around and complain that nothing is working.
 
 **Q: In what way will you compensate the work?**
 
