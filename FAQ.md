@@ -6,7 +6,7 @@ A: This is a work in progress (WIP) and that is exactly the reason why we are fu
 
 **Q: What role do you want me to play ?**
 
-A: That solely depends on your capabilities, time and mindset. In an ideal world, you'd be primarily solving the Issues on our GitHub, contribute code through pull requests, test our App thoroughly and tell your friends. But honestly speaking, noone of our project wants to force you doing anything. You can also just lurk around and complain that nothing is working.
+A: That depends on your capabilities, time and mindset. In an ideal world, you'd be primarily solving the Issues on our GitHub, contribute code through pull requests, test our App thoroughly and tell your friends. But honestly speaking, noone of our project wants to force you doing anything. You can also just lurk around and complain that nothing is working.
 
 **Q: In what way will you compensate the work?**
 
@@ -18,6 +18,6 @@ A: If we did contact you, it very likely did not happen through a clear name, ma
 
 **Q: Is what you are doing illegal?**
 
-YES, TOTALLY! Honestly? NO. We are not doing anything illegal since we are not destroying anything and are not even manipulating IMSI-Catchers remotely. We are merely constructing an App that reads certain values of your phone and its network, which helps people detect an attack on their privacy. Everyone has the right to know if they're being attacked or not. Have a look at the most trivial thing, the Ciphering Indicator, which displays if your connection is encrypted or not. What, you never saw it on your Android phone? Well, what a surprise: Google never implemented it, although it is required and has been [requested since 2009](https://code.google.com/p/android/issues/detail?id=5353). And because even basic security features are missing, we are here.
+YES, TOTALLY! Honestly? NO. We are not doing anything illegal since we are not destroying anything and are not even manipulating IMSI-Catchers remotely. We are merely constructing an App that reads certain values of your phone and its network, which helps people detect an attack on their privacy. Everyone has the right to know if they're being attacked or not. Have a look at the most trivial thing, the Ciphering Indicator, which displays if your connection is encrypted or not. What, you never saw it on your Android phone? Well, what a surprise: Google never implemented it, although it is required and has been [requested since 2009](https://code.google.com/p/android/issues/detail?id=5353). And this is one of the reasons we are here.
 
 That being said, make up your mind if you'd like to join us to make this world a better place.
