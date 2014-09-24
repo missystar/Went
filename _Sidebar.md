@@ -1,5 +1,5 @@
 **General Information**
-* [General Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview)
+* [General Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/General-Overview)
 * [Technical Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview)
 
 **Getting started**
