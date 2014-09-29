@@ -1,6 +1,6 @@
 **General Information**
 * [Requirements](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Requirements)
-* [Devices](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Devices)
+* [Testing Devices](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Testing-Devices)
 * [General Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/General-Overview)
 * [Technical Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview)
 
