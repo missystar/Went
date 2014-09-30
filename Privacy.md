@@ -10,6 +10,7 @@ If you've reached this page, we value you as a privacy-minded individual.
 
 **Privacy while contributing to our project on GitHub:**
 
+* Don't be scared to contribute - you will get be arrested developing an open-source App.
 * Feel free to use a VPN and/or any other protection like a [TOR](https://www.torproject.org) connection
 * If you feel paranoid, use [TAILS](https://tails.boum.org/) and a GitHub account especially for this project
 
