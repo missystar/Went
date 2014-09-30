@@ -18,5 +18,5 @@ If you've reached this page, we value you as a privacy-minded individual.
 
 **Privacy of the Android IMSI-Catcher Detector:**
 
-* Our App will not collect, nor submit any private data. EVER.
+* Our App will not collect, nor submit any private data without notice.
 * If you discover any possible security risk, submit an Issue!
