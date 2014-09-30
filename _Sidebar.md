@@ -5,6 +5,7 @@
 * [Technical Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview)
 
 **Getting started**
+* [Privacy](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Privacy)
 * [Building](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Building)
 * [Installation](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Installation)
 * [Permissions](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Permissions)
