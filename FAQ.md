@@ -4,6 +4,20 @@ Welcome to the place of questions asked a million times! Get your answer here. A
 
 A: This is a work in progress (WIP) and that is exactly the reason why we are fully open source. It is a difficult task to reach our desired goals. If it was fully functional already, we would probably not have invited you to develop with us. But that does not mean you cannot already test it - grab the [latest WIP-Release](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases) or compile it yourself.
 
+**Q: Who are you guys?**
+
+A: Contrary to some of our competitor opinion, we're **not** *M3g4G4lacticEl33tHAxor5*, we're just a collection of ordinary and slightly above average tech savvy concerned citizens, who has a strong belief that individual privacy should be a basic human right and a personal choice, and not something your government can suddenly dispose of at any whim of an impulse.
+
+**Q: Why are you anonymous?**
+
+A: Not all of us are anonymous, but we respect the fact that some of us would like to remain that way. This answer is probably slightly different for all of us. For example, E:V:A thinks as follows. 
+
+Personally I have no problem of going public on this. I don't think anyone would come after me, at least not for something bad, but probably more to ask me to work for 'them'. However, there are mainly 3 reasons I choose not to.
+1. I have a company in a completely different field, and I do not wish to associate my hobby with that company. 
+2. I'm also doing it out of principle. The principle that people should be able to stay anonymous without repercussions. Privacy should be the norm, not the other way around. 
+3. The project is still in Alpha stage, so it would be wrong to start making public presentations for something that only partially works on a few selected devices. 
+
+
 **Q: What role do you want me to play ?**
 
 A: That solely depends on your capabilities, time and mindset. In an ideal world, you'd be primarily solving the Issues on our GitHub, contribute code through pull requests, test our App thoroughly and tell your friends. But honestly speaking, noone wants to force you doing anything. You can also just lurk around and complain that nothing is working.
@@ -22,6 +36,6 @@ A: Let me clarify some of the use of GPS on mobile phones: Ever since the first 
 
 **Q: Is what you are doing illegal?**
 
-YES, TOTALLY! Honestly? NO. We are not doing anything illegal since we are not destroying anything and are not even manipulating IMSI-Catchers remotely. We are merely constructing an App that reads certain values of your phone and its network, which helps people detect an attack on their privacy. Everyone has the right to know if they're being attacked or not. Have a look at the most trivial thing, the Ciphering Indicator, which displays if your connection is encrypted or not. What, you never saw it on your Android phone? Well, what a surprise: Google never implemented it, although it is required and has been [requested since 2009](https://code.google.com/p/android/issues/detail?id=5353). And this is one of the reasons we are here.
+NO. We are not doing anything illegal since we are not destroying anything and are not even manipulating IMSI-Catchers remotely. We are merely constructing an App that reads certain values of your phone and its network, which helps people detect an attack on their privacy. Everyone has the right to know if they're being attacked or not. Have a look at the most trivial thing, the Ciphering Indicator, which displays if your connection is encrypted or not. What, you never saw it on your Android phone? Well, what a surprise: Google never implemented it, although it is required and has been [requested since 2009](https://code.google.com/p/android/issues/detail?id=5353). And this is one of the reasons we are here.
 
 Feel free to join us to making this world a better place.
