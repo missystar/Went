@@ -1,15 +1,14 @@
 Spread the word about our project everywhere possible, make developers curious! :smile_cat:
 
-![AIMSICD-Status](http://fs1.d-h.st/view/h1q/00133/AIMSICD-Status_Small.png)
+![AIMSICD-Banner](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/PROMOTION/AIMSICD-Banner_Small.png)
 
-* [Project Goals](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#goals-please-read-carefully)
-* [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#development-roadmap)
-* [Screenshots](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/tree/master/SCREENSHOTS)
-* [WIP-Releases](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases)
-* [Press Releases](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Press-Releases)
-* [General Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/General-Overview)
-* [Technical Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview)
-* [Research Papers](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/tree/master/PAPERS)
-* [WIKI](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki)
-
-**[Complete Media Package]** (Link will follow as soon as all media material is prepared)
+* Banners, QR-Codes, Stickers and Icons: [Promotion Material](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/tree/master/PROMOTION)
+* What we want to accomplish here: [Project Goals](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#goals-please-read-carefully)
+* Our rough plan of getting there: [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#development-roadmap)
+* Pictures of our beautiful App: [Screenshots](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/tree/master/SCREENSHOTS)
+* Test our App on your smartphone: [WIP-Releases](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases)
+* Check out our very own WIKI for this project: [WIKI](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki)
+* Where we have been mentioned already: [Press Releases](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Press-Releases)
+* Non-geek description of how our App works: [General Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/General-Overview)
+* Geeky description of technical App internals: [Technical Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview)
+* Interesting papers, thesis and professional work: [Research Papers](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/tree/master/PAPERS)
