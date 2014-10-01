@@ -29,7 +29,7 @@ A: Well, great question. First of all, we are a fully open-source project and as
 
 **Q: Why did you contact me via an anonymous E-Mail address?**
 
-A: If we did contact you, it very likely did not happen through a clear name, mail or address. Even a phone call or personal meeting will be highly unlikely. Why? Simply because the whole purpose of this project is to defend peoples right to privacy. And we all know what happens to people who hand out their clear data and stand up to fight for something the state or law enforcement agencies don't want. That does not mean you have to be scared to contribute now. But feel free to take any security measures.
+A: If we did contact you, it very likely did not happen through a clear name, mail or address. Even a phone call or personal meeting will be highly unlikely. Why? Simply because the whole purpose of this project is to defend peoples right to privacy. And we all know what happens to people who hand out their clear data and stand up to fight for something the state or law enforcement agencies don't want. That does not mean you have to be scared to contribute now. But feel free to take any security measures, you may find some [here](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Privacy).
 
 **Q: I noticed that your App uses GPS. Isn't that dangerous?**
 
