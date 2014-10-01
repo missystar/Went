@@ -2,6 +2,7 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 
 **English**
 * Wikipedia: [IMSI-Catcher Detection and Counter Measures](http://en.m.wikipedia.org/wiki/IMSI-catcher#Detection_and_counter_measures)
+* Prism-Break: [Android IMSI-Catcher Detector (AIMSICD)](http://prism-break.org/en/projects/android-imsi-catcher-detector-aimsicd/)
 
 **German:**
 * Kuketz IT-Security Blog: [IMSI-Catcher Erkennung für Android – AIMSICD](http://www.kuketz-blog.de/imsi-catcher-erkennung-fuer-android-aimsicd/)
