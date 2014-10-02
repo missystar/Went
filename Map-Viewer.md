@@ -18,4 +18,6 @@ To make your choice easier, have a look at the current styles:
 
 ![MapStyle_Satellite](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/MapStyle_Satellite.png)
 
+**Terrain**
+
 ![MapStyle_Terrain](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/MapStyle_Terrain.png)
