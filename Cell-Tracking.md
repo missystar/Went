@@ -10,6 +10,10 @@ To start monitoring and/or tracking Cell Data, just press the Tracking Buttons s
 
 ![Tracking Buttons](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Tracking_Buttons.png)
 
-When Location Services have been enabled, AIMSICD will look like this in the notification bar:
+When Location Services have been enabled, the notification bar will look like this:
 
 ![Tracking_Enabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Tracking_Enabled.png)
+
+If you just enabled "Monitoring Cell Details" for protection, it looks like this:
+
+![Monitoring_Enabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Monitoring_Enabled.png)
