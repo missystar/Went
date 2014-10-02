@@ -4,11 +4,11 @@ If you want to track Cell Data, enabling Location Services is required. If disab
 
 Furthermore, you will be prompted to enable Location Services:
 
-![LocationServices-Disabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/LocationServices-Disabled.png)
+![LocationServices-Disabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/LocationServices_Disabled.png)
 
-To start tracking Cell Data, just press the Tracking Button shown here:
+To start monitoring and/or tracking Cell Data, just press the Tracking Buttons shown here:
 
-![Tracking Button](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Tracking_Button.png)
+![Tracking Buttons](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Tracking_Buttons.png)
 
 When Location Services have been enabled, AIMSICD will look like this in the notification bar:
 
