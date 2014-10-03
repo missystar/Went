@@ -7,7 +7,7 @@ Basic requirements and recommendations to ensure a better AIMSICD experience:
 * Stock AOS (many ROMs lack or have modified system locations we depend on)
 * ROOT (our App should work without it, but for *Alpha*-testing root is preferred)
 * Time and patience (since we're still in Alpha stage)
-* Due to use of *Intel XMM* based modems and it's *ServiceMode* items, ideal devices are: 
+* Due to use of *Intel XMM* based modems and *ServiceMode* items, ideal devices are: 
 
 | Shop-Name | Manufacturer Model | Comments |
 |:--------- |:------------------ |:-------- |
