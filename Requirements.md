@@ -9,10 +9,12 @@ Here are the basic requirements and recommendations to ensure a better AIMSICD e
 * Time and patience (since we're still in Alpha stage)
 * Due to use of *Intel XMM* based modems and it's *ServiceMode* items, the ideal devices are: 
 
- - Samsung Galaxy S4     GT-I9500 (without LTE)
- - Samsung Galaxy S3     GT-I9300
- - Samsung Galaxy Nexus  GT-I9250 
- - Samsung Galaxy S2     GT-I9100
- - Samsung Galaxy Note 2 GT-N7100
+| Shop-Name | Manufacturer Model | Comments |
+|:--------- |:------------------ |:-------- |
+ Samsung Galaxy S4 |    GT-I9500 | (without LTE)
+ Samsung Galaxy S3 |    GT-I9300 |
+ Samsung Galaxy Nexus | GT-I9250 |
+ Samsung Galaxy S2 | GT-I9100 |
+ Samsung Galaxy Note 2 | GT-N7100 |
 
 However, ultimately our goal is to make our App as hardware independent as possible to let it run on as many devices as we can. Therefore, we are using these [Testing Devices](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Testing-Devices). Join development to add support for your phone, let us know if anything doesn't work!
