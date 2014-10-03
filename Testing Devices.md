@@ -14,7 +14,8 @@ Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB4.2.2 | 17 | *NE*| andr3jx |
 Huawei Ascend P1 | U9200 | OMAP4460 | XMM6260 | CM11 | KK4.4.4 | 19 | *NE* | tobykurien | 
 Nexus 7 3G (2012) | ? | Tegra3 | XMM6260 | *stock* | KK4.4.4 | 19 | Enforcing| andr3jx | 
 
-
-"NE" = Not Enabled/Implemented
-"SIPCv2.0" = Samsung RIL (IPC) v2.0
-"SoC" = System on a Chip, which means that the BP is integrated into the same chip as the AP
+| Notes | Description |
+|:----- |:----------- |
+"NE" | Not Enabled/Implemented
+"SIPCv2.0" | Samsung RIL (IPC) v2.0
+"SoC" | System on a Chip, which means that the BP is integrated into the same chip as the AP
