@@ -8,7 +8,7 @@ Samsung S2 | GT-I9100 | Exynos | XMM6260 | SlimKat | KK4.4.2b4 | 19 | Permissive
 Samsung S2 | GT-I9100 | Exynos | XMM6260 | Carbon | KK4.4.4 | 19 | Permissive | xLaMbChOpSx | 
 Samsung S4 mini | GT-I9195 | MSM8930AB | *SoC* | *stock* | JB4.2.2 | 17 | Enforcing | E:V:A | QRIL1.0 |
 Sony Xperia Z | C6603 | MSM8960 | *SoC* | *stock* | KK4.4.4 | 19 | Enforcing | xLaMbChOpSx | 
-HTC One | M7 | MSM8960 | *SoC* | AOKP | KK4.4.4 | 19 | Permissive | SecUpwN | 
+HTC One | M7 | MSM8960 | *SoC* | AOKP | KK4.4.4 | 19 | Permissive | SecUpwN | QRIL1.0
 HTC Wildfire S | A510e | MSM7227T | *SoC* | CM10.1 | JB4.2.2 | 17 | *NE* | He3556 | 
 Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB4.2.2 | 17 | *NE*| andr3jx | 
 Huawei Ascend P1 | U9200 | OMAP4460 | XMM6260 | CM11 | KK4.4.4 | 19 | *NE* | tobykurien | 
