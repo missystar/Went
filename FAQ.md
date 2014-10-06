@@ -12,11 +12,11 @@ A: Contrary to some of our competitor opinion, we're **not** *M3g4G4lacticEl33tH
 
 A: Not all of us are anonymous, but we respect the fact that some of us would like to remain that way. This answer is probably slightly different for all of us. For example, E:V:A thinks:
 
-Personally I have no problem of going public on this. I don't think anyone would come after me, at least not for something bad, but probably more to ask me to work for 'them'. However, there are mainly 3 reasons I choose not to.
-
-1. I have a company in a completely different field, and I do not wish to associate my hobby with that company. 
-2. I'm also doing it out of principle. The principle that people should be able to stay anonymous without repercussions. Privacy should be the norm, not the other way around. 
-3. The project is still in **ALPHA stage**, so it would be wrong to start making public presentations for something that only partially works on a few selected devices. 
+> Personally I have no problem of going public on this. I don't think anyone would come after me, at least not for something bad, but probably more to ask me to work for 'them'. However, there are mainly 3 reasons I choose not to.
+> 
+> 1. I have a company in a completely different field, and I do not wish to associate my hobby with that company. 
+> 2. I'm also doing it out of principle. The principle that people should be able to stay anonymous without repercussions. Privacy should be the norm, not the other way around. 
+> 3. The project is still in **ALPHA stage**, so it would be wrong to start making public presentations for something that only partially works on a few selected devices. 
 
 
 **Q: What role do you want me to play ?**
