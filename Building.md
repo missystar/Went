@@ -17,7 +17,11 @@ The *Google Play Services* library must be installed in SDK Manager as this supp
 8. If (7) copiles without errors, you can now build your own APK by clicking on the menu items: **Build >> Generate Signed APK**. This will ask you for 3 new passwords to be used in your "KeyStore" (1 master, 1 file, 1 APK alias).
 9. Push App to your device and run.
 
+---
+
 :exclamation: * JAVA 8 is not yet supported. Use a supported JavaVersion (class -> dex conversion can't handle 1.8 right now). VERSION is unrelated to your JDK. The JDK has to be >= VERSION.
+
+---
 
 1. Import the project into your IDE
 2. Build project 
