@@ -25,3 +25,8 @@ SIPCv2.0 | "Samsung RIL (IPC) v2.0"
 QRIL1.0 | "Qualcomm RIL 1.0"
 XRIL1.0 | "android infineon xgold-ril 1.0"
 MRIL1.0 | "android moto-ril 1.0"
+
+| Chip | AT access path |
+|:---- |:-------------- |
+MT6582  | /dev/radio/atci1
+MSM8930 | /dev/smd0
