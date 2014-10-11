@@ -20,7 +20,7 @@ Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB4.2.2 | 17 | *NE*| andr3jx |
 | Notes | Description |
 |:----- |:----------- |
 *NE* | Not Enabled or Implemented
-*SoC* | System on a Chip, which means that the BP is integrated into the same chip as the AP
+*SoC* | System on a Chip, which means that the Baseband Processor (BP) is integrated into the same chip as the Application Processor (AP)
 SIPCv2.0 | Samsung RIL (IPC) v2.0
 QRIL1.0 | Qualcomm RIL 1.0
 SE4RIL | SamsungExynos4RIL (???)
