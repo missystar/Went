@@ -30,3 +30,4 @@ MRIL1.0 | "android moto-ril 1.0"
 |:---- |:-------------- |
 MT6582  | /dev/radio/atci1
 MSM8930 | /dev/smd0
+MSM8960 | /dev/smd0
