@@ -5,22 +5,23 @@ This is the "testers table" with the phones we're currently testing on and which
 | Manufacturer/Model    | Type-Number | AP  | BP  | FW/ROM | AOS | API | SELmode | DEV | ril-impl |
 |:--------------------- |:----------- | --- | --- |:------ |:--- | --- |:------- |:--- |:-------- |
 HTC One | M7 | MSM8960 | *SoC* | AOKP | KK4.4.4 | 19 | Permissive | SecUpwN | QRIL1.0
-HTC Wildfire S | A510e | MSM7227T | *SoC* | CM10.1 | JB4.2.2 | 17 | *NE* | He3556 | 
-Huawei Ascend P1 | U9200 | OMAP4460 | XMM6260 | CM11 | KK4.4.4 | 19 | *NE* | tobykurien |
-Motorola ?? | MB525 | | | | KK4.4.4 | 19 | | tobykurien | ? |
-Nexus 7 3G (2012) | ? | Tegra3 | XMM6260 | *stock* | KK4.4.4 | 19 | Enforcing| andr3jx | 
-Samsung S2 | GT-I9100 | Exynos | XMM6260 | SlimKat | KK4.4.2b4 | 19 | Permissive | E:V:A | SIPCv2.0 |
-Samsung S2 | GT-I9100 | Exynos | XMM6260 | Carbon | KK4.4.4 | 19 | Permissive | xLaMbChOpSx | 
-Samsung S4 mini | GT-I9195 | MSM8930AB | *SoC* | *stock* | JB4.2.2 | 17 | Enforcing | E:V:A | QRIL1.0 |
-Samsung Note 1 | ??? | | | | KK4.4.4 | 19 | | tobykurien | ? |
-Sony Xperia Z | C6603 | MSM8960 | *SoC* | *stock* | KK4.4.4 | 19 | Enforcing | xLaMbChOpSx | 
-Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB4.2.2 | 17 | *NE*| andr3jx | 
+HTC Wildfire S | A510e | MSM7227T | *SoC* | CM10.1 | JB4.2.2 | 17 | *NE* | He3556 | ?
+Huawei Ascend P1 | U9200 | OMAP4460 | XMM6260 | CM11 | KK4.4.4 | 19 | *NE* | tobykurien | XRIL1.0
+Motorola ?? | MB525 | | | | KK4.4.4 | 19 | | tobykurien | MRIL1.0 
+Nexus 7 3G (2012) | ? | Tegra3 | XMM6260 | *stock* | KK4.4.4 | 19 | Enforcing| andr3jx | ?
+Samsung S2 | GT-I9100 | Exynos | XMM6260 | SlimKat | KK4.4.2b4 | 19 | Permissive | E:V:A | SIPCv2.0 
+Samsung S2 | GT-I9100 | Exynos | XMM6260 | Carbon | KK4.4.4 | 19 | Permissive | xLaMbChOpSx | SIPCv2.0? 
+Samsung S4 mini | GT-I9195 | MSM8930AB | *SoC* | *stock* | JB4.2.2 | 17 | Enforcing | E:V:A | QRIL1.0 
+Samsung Note 1 | ??? | | | | KK4.4.4 | 19 | | tobykurien | ? 
+Sony Xperia Z | C6603 | MSM8960 | *SoC* | *stock* | KK4.4.4 | 19 | Enforcing | xLaMbChOpSx | ? 
+Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB4.2.2 | 17 | *NE*| andr3jx | ? 
 
 
 | Notes | Description |
 |:----- |:----------- |
 *NE* | Not Enabled or Implemented
 *SoC* | System on a Chip, which means that the Baseband Processor (BP) is integrated into the same chip as the Application Processor (AP)
-SIPCv2.0 | Samsung RIL (IPC) v2.0
-QRIL1.0 | Qualcomm RIL 1.0
-SE4RIL | SamsungExynos4RIL (???)
+SIPCv2.0 | "Samsung RIL (IPC) v2.0"
+QRIL1.0 | "Qualcomm RIL 1.0"
+XRIL1.0 | "android infineon xgold-ril 1.0"
+MRIL1.0 | "android moto-ril 1.0"
