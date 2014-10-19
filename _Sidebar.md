@@ -22,7 +22,7 @@
 **Important Functions**
 * [Cell Tracking](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Tracking)
 * [Cell Information](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Information)
-* [AT Command Processor](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/AT-Command-Injector)
+* [AT Command Processor](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/AT-Command-Processor)
 * [Database Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Database-Viewer)
 * [Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Map-Viewer)
 * [Special SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Special-SMS)
