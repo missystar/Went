@@ -9,6 +9,7 @@ This is our collection of recommended articles and sites. Check out our [PAPERS]
 
 ### Websites about security worth checking out
 
+* [Xprivacy](https://github.com/M66B/XPrivacy) - The ultimate, yet easy to use, privacy manager
 * [Smartphone Attack Vector](http://smartphone-attack-vector.de/) - Smartphone flaws and countermeasures
 * [Kuketz IT-Security Blog](http://www.kuketz-blog.de/) - Great Security Reviews and Guides (written in German)
 * [PRISM Break](https://prism-break.org/) - Alternatives to opt out of global data surveillance programs
