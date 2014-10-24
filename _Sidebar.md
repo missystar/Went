@@ -26,14 +26,14 @@
 * [Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Map-Viewer)
 * [Special SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Special-SMS)
 
-**Support**
-* [Problems](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Submitting-Issues)
-* [Donations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Anonymous-Donations)
-
 **Developers**
 * [Contributing](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/CONTRIBUTING.md)
 * [Testing Devices](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Testing-Devices)
 * [Ressources](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Ressources)
+
+**Support**
+* [Problems](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Submitting-Issues)
+* [Donations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Anonymous-Donations)
 
 **Gimme moar!**
 * [FAQ](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ)
