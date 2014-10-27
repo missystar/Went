@@ -2,9 +2,14 @@ If you've reached this page, we value you as a privacy-minded individual.
 
 **Remove any metadata from all your submitted files and pull requests!**
 
-* This command will remove all metadata from the files in a folder:
+* To remove all metadata from files in a folder, use [PDFMtEd Inspector](https://github.com/Glutanimate/PDFMtEd/raw/master/pdfmted-inspector).
 
-`~$ exiftool -r -overwrite_original -P -all= <UPLOAD_FOLDER>`
+```
+PDFMtEd Inspector is a general purpose metadata viewer and cleaner.
+Aside from granting a quick and easy insight into the meta information
+stored in your files, it also allows you to quickly and effectively
+purge all metadata. It is a more secure solution than exiftool alone.
+```
 
 ---
 
