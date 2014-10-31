@@ -13,7 +13,8 @@ Samsung S2 | GT-I9100 | Exynos | XMM6260 | SlimKat | KK4.4.2b4 | 19 | Permissive
 Samsung S2 | GT-I9100 | Exynos | XMM6260 | Carbon | KK4.4.4 | 19 | Permissive | xLaMbChOpSx | SIPCv2.0
 Samsung S4 mini | GT-I9195 | MSM8930AB | *SoC* | *stock* | JB4.2.2 | 17 | Enforcing | E:V:A | QRIL1.0 
 Samsung G.Note | GT-N7000 |Exynos4210| XMM6260 |  | KK4.4.4 | 19 |  | tobykurien | SIPCv2.0
-Sony Xperia Z | C6603 | MSM8960 | *SoC* | *stock* | KK4.4.4 | 19 | Enforcing | xLaMbChOpSx | ? 
+Sony Xperia Z | C6603 | MSM8960 | *SoC* | *stock* | KK4.4.4 | 19 | Enforcing | xLaMbChOpSx | ?
+Sony Xperia Z1 Compact | MSM8974 | *SoC* |  |  |  |  | scintill | QCRIL1.0
 Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB4.2.2 | 17 | *NE*| andr3jx | ? 
 
 
