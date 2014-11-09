@@ -1,0 +1,2 @@
+This is the **current** Development Status of our Android IMSI-Catcher Detector.
+* [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#development-roadmap) with [ALPHA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#alpha-stage), [BETA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#beta-stage) and [GOLDEN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#golden-stage) stage.
