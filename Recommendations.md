@@ -17,6 +17,7 @@ This is our collection of recommended articles and sites. Check out our [PAPERS]
 * [Security Research Labs](https://srlabs.de/) - Stunning Security Revelations discovered in Berlin
 * [The Surveillance Self-Defense Project](https://ssd.eff.org/) - Defend against the threat of surveillance
 * [Electronic Frontier Foundation](https://www.eff.org/) - Nonprofit defending your rights in the digital world
+* [Secure Messaging Scorecard](https://www.eff.org/de/secure-messaging-scorecard) - Which apps and tools actually keep your messages safe?
 * [Privacy International](https://www.privacyinternational.org/) - Charity fighting for the right to privacy across the world
 * [TextSecure](https://github.com/WhisperSystems/TextSecure) - Secure text messaging application for Android (replace WhatsApp)
 * [RedPhone](https://github.com/WhisperSystems/RedPhone) - Encrypted calls for Android
