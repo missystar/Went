@@ -30,8 +30,8 @@ XRIL1.18 | "android xgold-ril 1.18"
 MRIL1.0 | "android moto-ril 1.0"
 MTG1.0 | "mtk gemini ril 1.0"
 
-| Chip | AT access path |
-|:---- |:-------------- |
-MT6582  | /dev/radio/atci1
-MSM8930 | /dev/smd0
-MSM8960 | /dev/smd0
+| Chip | AT access path | UART/cmdline |
+|:---- |:-------------- |:------------ |
+MT6582  | /dev/radio/atci1 | /dev/ttyMTo
+MSM8930 | /dev/smd0 |
+MSM8960 | /dev/smd0 |
