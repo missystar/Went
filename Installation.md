@@ -11,4 +11,4 @@ AIMSICD recently has been improved to enable universal compatibility on all devi
 
 1. Send a [Request to obtain an OpenCellID API key](http://opencellid.org/#action=database.requestForApiKey).
 2. Plug your own key into AIMSICD into the `OpenCellID Settings` in our `Preferences`.
-4. Tick the checkbox `Contribute Cell Data` and rock two Open Source projects at once!
+4. Tick the checkbox `Contribute Cell Data` to rock two Open Source projects at once!
