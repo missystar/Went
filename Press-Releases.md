@@ -5,6 +5,7 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 * Prism-Break: [Android IMSI-Catcher Detector (AIMSICD)](http://prism-break.org/en/projects/android-imsi-catcher-detector-aimsicd/)
 * GitHub Showcases: [Projects with great Wikis](https://github.com/showcases/projects-with-great-wikis)
 * Hacker News: [Fight against spying on your Smartphone!](https://news.ycombinator.com/item?id=8581086)
+* Vocativ: [New App Lets You Know When the Government Is Spying on You](http://www.vocativ.com/usa/nat-sec/aimsicd/)
 
 **German:**
 * Piratenpartei: [Digitale Selbstverteidigung: Mit dem Handy gegen IMSI-Catcher](https://www.piratenpartei.de/2014/11/15/digitale-selbstverteidigung-mit-dem-handy-gegen-imsi-catcher/)
