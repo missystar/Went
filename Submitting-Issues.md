@@ -4,7 +4,12 @@
 2. If you use [Xprivacy](https://github.com/M66B/XPrivacy) read and understand [THIS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Permissions) first! Give it another try after reading.
 3. App still mocking around? Click [HERE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues) to open a new Issue. Name it appropriately.
 4. On the top of the page, use the search bar to verify your Issue does not exist yet.
-5. Describe your Issue as thoroughly as possible. You **MUST** include the following:
+5. Describe your Issue as thoroughly as possible, let us reproduce it.
+6. Maintain your filed Issues! If you don't respond within 7 days, we will **CLOSE** it!
+
+---
+
+In all cases, you **MUST** include the following:
 
 - **AIMSICD version (see the About-Tab within our App)**
 - **Your exact FW specification (ROM, AOS API, etc.)**
@@ -14,6 +19,7 @@
 - **Feel free to attach any other logs made by [CatLog](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat) or [Logcat Extreme](https://play.google.com/store/apps/details?id=scd.lcex)**
 
 ---
+
 **Are you a command line junkie?**
 Then you can use the following shell function to help you get only relevant logcat entries. 
 Copy and paste the following to your terminal shell:
