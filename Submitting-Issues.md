@@ -35,4 +35,4 @@ To use it just write: `logrep AIMSICD`, and you will only get stuff marked with 
 ---
 
 * Please **BE PATIENT**. Our developers have a real live, family, and jobs!
-* If you'd like our project, feel free to submit code or find more developers. Thank you.
+* If you like our project, feel free to submit code or find more developers. Thank you.
