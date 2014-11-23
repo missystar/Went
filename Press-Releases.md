@@ -1,6 +1,7 @@
 Welcome to our page of press releases and articles about us. Enjoy reading!
 
 **English**
+* XDA-Developers: [Detect, Avoid IMSI-Catcher Attacks with Android IMSI-Catcher Detector](http://www.xda-developers.com/android/detect-avoid-imsi-catcher-attacks-with-imsi-catcher-detector/)
 * Wikipedia: [IMSI-Catcher Detection and Counter Measures](http://en.m.wikipedia.org/wiki/IMSI-catcher#Detection_and_counter_measures)
 * Prism-Break: [Android IMSI-Catcher Detector (AIMSICD)](http://prism-break.org/en/projects/android-imsi-catcher-detector-aimsicd/)
 * GitHub Showcases: [Projects with great Wikis](https://github.com/showcases/projects-with-great-wikis)
