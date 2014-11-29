@@ -15,3 +15,4 @@ This documentation is especially for developers who wants to join the project an
 **OPENCEllID_TABLE:** Downloaded DB from OpenCellID.
 **LOCATION_TABLE:** Data is collected by the Phone. The location (lat/lng) of the phone and the Cell-ID it is connected to + timestamp.
 **SILENT_SMS_TABLE:** Protocol of incoming messages
+
