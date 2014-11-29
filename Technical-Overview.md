@@ -1,10 +1,12 @@
 This documentation is especially for developers who wants to join the project and for everybody else who wants to know how AIMSICD detects IMSI-Catchers, silent SMS and other threats. 
 
+***
+
 **Basic Modules and I/O:**
 
 ![Program Modules](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DOCUMENTATION/Program_Modules.png)
 
-
+***
 
 **Database Tables:**
 ![Database Tables](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DOCUMENTATION/aimsicd_myCellInfo_ER_2.png)
