@@ -6,6 +6,7 @@ This is our collection of recommended articles and sites. Check out our [PAPERS]
 * [Wie IMSI-Catcher unauffällig legalisiert wurden](http://www.heise.de/ct/heft/2014-9-Wie-IMSI-Catcher-unauffaellig-legalisiert-wurden-2166054.html)
 * [Digitale Selbstverteidigung mit dem IMSI-Catcher-Catcher](http://www.heise.de/ct/artikel/Digitale-Selbstverteidigung-mit-dem-IMSI-Catcher-Catcher-2303215.html)
 * [IMSI-Catcher: Gegen-Überwachung gegen die Überwacher](http://www.heise.de/security/meldung/IMSI-Catcher-Gegen-Ueberwachung-gegen-die-Ueberwacher-2302870.html)
+* [IMSI-Catcher: Wanzen für Handys](http://hp.kairaven.de/miniwahr/imsi.html)
 
 ### Websites about security worth checking out
 
