@@ -5,7 +5,8 @@
 3. App still mocking around? Click [HERE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues) to open a new Issue. Name it appropriately.
 4. On the top of the page, use the search bar to verify your Issue does not exist yet.
 5. Describe your Issue as thoroughly as possible, let us reproduce it.
-6. Maintain your filed Issues! If you don't respond within 7 days, we will **CLOSE** it!
+6. :skull: **NEVER** post your own unrelated stuff in existing Issues - it will piss us off!
+7. Maintain your filed Issues! If you don't respond within 7 days, we will **CLOSE** it!
 
 ---
 
