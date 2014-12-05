@@ -1,6 +1,7 @@
 AIMSICD recently has been improved to enable universal compatibility on all devices.
 
-* Enable "Unknown sources" in your settings.
+* Temporarily enable "Unknown sources" in your settings.
+* Don't be afraid, you may **disable** it again after installation.
 
 ![Unknown sources](https://developer.android.com/images/publishing/publishing_unknown_sources_sm.png)
 
