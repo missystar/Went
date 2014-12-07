@@ -1,33 +1,35 @@
 This is the **current** Development Status of our Android IMSI-Catcher Detector.
-* :warning: [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#development-roadmap) with [ALPHA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#alpha-stage), [BETA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#beta-stage) and [GOLDEN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#golden-stage) stage.
+* :warning: [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#development-roadmap) with [ALPHA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#alpha-stage) & [BETA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#beta-stage) stage as well as [GOLDEN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#golden-age) age.
 
 ---
 
 ### Already accomplished
-Views (short explentation of the main views):
-* Information about Device, Network and SIM-Card
-* Cell Information: Shows relevant variables using public AOS API calls (LAC, CID, Signal Strength)
-* Database Viewer: Shows data collected by the phone and data from public database of Cell Towers
-* Map-Viewer: Shows Cell-Towers from the public database that are in your area
+Views (short explantation of the main views):
+* [Main Screen](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Main-Screen): Information about Device, Network and SIM-Card
+* [Cell Information](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Information): Relevant variables using public AOS API calls (LAC, CID, Signal Strength)
+* [Database Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Database-Viewer): Data collected by the phone and from public DB of Cell Towers
+* [Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Map-Viewer): Shows Cell-Towers from the public database that are in your area
 
 Functions:
-* Cell-Monitoring: collecting information about the cell towers you are/were  connected to and save it in the local database
-* Cell-Tracking: Tracks your position while you are connected to the cell-tower and save it with cell data in the local database
-* Download data from public cell-tower database (right now only from OpenCellID)
+* Cell-Monitoring: Collects information about the cell towers you are/were  connected to and saves it in the local database
+* [Cell Tracking](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Tracking): Tracks your position while you are connected to the cell-tower and saves it with cell data in the local database
+* Download data from public cell-tower database (right now only from [OpenCellID](http://opencellid.org/))
 * Position Tracking: Using the GPS-Sensor and Google Location Service
 
 Detection:
-* Changing LAC: Check if the LAC of a Cell-ID is changing ([more details](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/91))
+* [Changing LAC](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/91): Check if the LAC of a Cell-ID is changing
 
 ---
 
 ### Working on right now
-* Check Cell-ID’s collected by the phone agains public Cell-Tower Database
-* Neighbouring Cell Info: https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/100
-* AT-Command Injector: Send AT-Commands to the Baseband Processor ([more details](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/23))
-* Detection of Silent-SMS: https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69
+* Check Cell-ID’s collected by the phone against public Cell-Tower Database
+* Neighboring Cell Info: [#100](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/100)
+* AT-Command Processor:
+Send AT-Commands to the Baseband Processor [#23](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/23)
+* Detection of Silent SMS (Type-0): [#69](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)
 * Specifications of code modularization (for development clarity)
 * Restructuring of DB to allow for more Network variables (for development clarity)
+* Separate DEbugging menu with much better way to create useable logcats: [#164](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/164)
 
 ---
 
