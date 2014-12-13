@@ -14,6 +14,6 @@ AIMSICD recently has been improved to enable universal compatibility on all devi
 
 :cherries: **If you want to support [OpenCellID](http://wiki.opencellid.org/wiki/Main_Page), contribute your cell tower data!** :cherries: 
 
-1. Send a [Request to obtain an OpenCellID API key](http://opencellid.org/#action=database.requestForApiKey).
-2. Plug your own key into AIMSICD into the `OpenCellID Settings` in our `Preferences`.
-4. Tick the checkbox `Contribute Cell Data` to rock two Open Source projects at once!
+1. Click `Request API Key` in the `PREFERENCES` of AIMSICD to obtain an OpenCellID API key.
+2. Tick the checkbox `Contribute Cell Data` to enable contribution of collected Cell Towers.
+3. Restart AIMSICD and verify that your OpenCellID API Key is set in `OpenCellID Settings`.
