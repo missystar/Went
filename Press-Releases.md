@@ -1,6 +1,8 @@
 Welcome to our page of press releases and articles about us. Enjoy reading!
 
 **English**
+
+* International Business Times: [Espionage on phones of norwegian politicians](http://www.ibtimes.co.uk/newspaper-discovers-someone-listening-norwegian-politicians-phone-calls-1479385)
 * XDA: [Detect, Avoid IMSI-Catcher Attacks with Android IMSI-Catcher Detector](http://www.xda-developers.com/android/detect-avoid-imsi-catcher-attacks-with-imsi-catcher-detector/)
 * Wikipedia: [IMSI-Catcher Detection and Counter Measures](http://en.m.wikipedia.org/wiki/IMSI-catcher#Detection_and_counter_measures)
 * Prism-Break: [Android IMSI-Catcher Detector (AIMSICD)](http://prism-break.org/en/projects/android-imsi-catcher-detector-aimsicd/)
@@ -10,6 +12,7 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 * Vocativ: [New App Lets You Know When the Government Is Spying on You](http://www.vocativ.com/usa/nat-sec/aimsicd/)
 
 **German:**
+
 * Piratenpartei: [Digitale Selbstverteidigung: Mit dem Handy gegen IMSI-Catcher](https://www.piratenpartei.de/2014/11/15/digitale-selbstverteidigung-mit-dem-handy-gegen-imsi-catcher/)
 * Kuketz IT-Security Blog: [IMSI-Catcher Erkennung für Android – AIMSICD](http://www.kuketz-blog.de/imsi-catcher-erkennung-fuer-android-aimsicd/)
 * Zeit Online: [Achtung, Handyfänger](http://www.zeit.de/digital/mobil/2014-09/mobilfunk-imsi-catcher-handy/) (wir sind auf [Seite 3](http://www.zeit.de/digital/mobil/2014-09/mobilfunk-imsi-catcher-handy/seite-3))
