@@ -8,12 +8,18 @@ This documentation is especially for developers who want to join our project and
 
 ---
 
-**Database Tables:**
+**Database Tables:** (Current Behavior)
 
 ![Database Tables](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DOCUMENTATION/aimsicd_myCellInfo_ER_2.png)
 * **DEFAULT_MCC_TABLE:** (Mobile Country Code): This table holds data to identify your service provider (carrier) and country.
-* **CELL_TABLE:** Data collected by the phone when it is connected to a cell. (not from the table neighboring cells).
+* **CELL_TABLE:** These are the *unique* BTS towers as collected by the phone, once it has connected to it (ignoring neighboring cells).
+* **LOCATION_TABLE:** These are the individual measurements as collected when in `Tracking Cell Details` mode. The location (Lat/Lng) of the phone and the Cell-ID it is connected to + timestamp.
 * **OPENCEllID_TABLE:** Downloaded DB from [OpenCellID](http://opencellid.org/).
-* **LOCATION_TABLE:** Data collected by the phone. The location (Lat/Lng) of the phone and the Cell-ID it is connected to + timestamp.
 * **SILENT_SMS_TABLE:** Protocol of incoming messages.
 
+**Database Tables:** (Wanted Behavior)
+
+###TO BE UPDATED 
+
+* **CELL_TABLE:** Data collected by the phone when it is connected to a cell. (not from the table neighboring cells).
+* **LOCATION_TABLE:** These are the individual measurements as collected when in `Tracking Cell Details` mode. The location (Lat/Lng) of the phone and the Cell-ID it is connected to + timestamp.
