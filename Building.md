@@ -15,6 +15,9 @@ The *Google Play Services* library must be installed in SDK Manager as this supp
 6. For more details follow the setup instructions [here](http://developer.android.com/sdk/installing/index.html?pkg=studio).
 7. Now click on the sideways *Gradle* tab, on the right side of the IDE. This will open a new window, once in it, double click on *assembleRelease*. Check for build errors in the lower screen log window.
 8. If (7) copiles without errors, you can now build your own APK by clicking on the menu items: **Build >> Generate Signed APK**. This will ask you for 3 new passwords to be used in your "KeyStore" (1 master, 1 file, 1 APK alias).
+
+
+
 9. Push App to your device and run.
 
 ---
