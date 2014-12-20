@@ -23,6 +23,7 @@ This documentation is especially for developers who want to join our project and
 
 ![aimsicd2_er_3](https://cloud.githubusercontent.com/assets/194392/5464876/13483c7e-8597-11e4-8294-c0ab739e1f7a.png)
 
+---
 
 ###TO BE UPDATED 
 
