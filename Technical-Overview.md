@@ -17,6 +17,7 @@ This documentation is especially for developers who want to join our project and
 * **OPENCELLID_TABLE:** Downloaded DB from [OpenCellID](http://opencellid.org/).
 * **SILENT_SMS_TABLE:** Protocol of incoming messages.
 
+---
 
 **Database Tables:** (New Proposal)
 
