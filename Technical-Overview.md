@@ -29,3 +29,7 @@ This documentation is especially for developers who want to join our project and
 
 * **CELL_TABLE:** Data collected by the phone when it is connected to a cell. (not from the table neighboring cells).
 * **LOCATION_TABLE:** These are the individual measurements as collected when in `Tracking Cell Details` mode. The location (Lat/Lng) of the phone and the Cell-ID it is connected to + timestamp.
+
+Display the Neighboring Cell information in two ways (saved it in an Array):
+1. through telephony manager methods which does not work on Samsung Devices
+2. a fallback is available through the methods developed by Alexey
