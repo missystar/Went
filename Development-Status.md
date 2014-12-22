@@ -39,3 +39,4 @@ Send AT-Commands to the Baseband Processor [#23](https://github.com/SecUpwN/Andr
 * Detection of changing Signal Strength: Besides implementation, this needs lot’s of research and testing, if this is a possible way for detection and how it works on different phones (measurement of signal strength) ([more details](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/97))
 * Switch from Google Location Service (Google Play Service) to another API
 * Implement the use of other public Cell-Tower Databases API‘s
+* We are preparing further working packages of this [Detection List](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/230) As soon as they are ready, we will add them to this list.
