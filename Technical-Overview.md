@@ -2,13 +2,13 @@ This documentation is especially for developers who want to join our project and
 
 ***
 
-**Basic Modules and I/O:**
+* **Basic Modules and I/O:**
 
 ![Program Modules](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DOCUMENTATION/Program_Modules.png)
 
 ---
 
-**Database Tables:** (Current Behavior)
+* **Database Tables:** (Current Behavior)
 
 ![Database Tables](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DOCUMENTATION/aimsicd_myCellInfo_ER_2.png)
 * **DEFAULT_MCC_TABLE:** (Mobile Country Code): This table holds data to identify your service provider (carrier) and country.
@@ -30,6 +30,15 @@ This documentation is especially for developers who want to join our project and
 * **CELL_TABLE:** Data collected by the phone when it is connected to a cell. (not from the table neighboring cells).
 * **LOCATION_TABLE:** These are the individual measurements as collected when in `Tracking Cell Details` mode. The location (Lat/Lng) of the phone and the Cell-ID it is connected to + timestamp.
 
-Display the Neighboring Cell information in two ways (saved it in an Array):
+
+* **other important Details:** 
+
+Display the Neighboring Cell information in two ways:
 1. through telephony manager methods which does not work on Samsung Devices
 2. a fallback is available through the methods developed by Alexey
+(Data is saved in an Array not in an table)
+
+
+**Further information about the actual status and prepared working packages to be picked up by an developer:
+
+https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status
