@@ -23,16 +23,15 @@ This documentation is especially for developers who want to join our project and
 
 ![aimsicd2_er_3](https://cloud.githubusercontent.com/assets/194392/5464876/13483c7e-8597-11e4-8294-c0ab739e1f7a.png)
 
----
 
-###TO BE UPDATED 
+**To be updated 
 
 * **CELL_TABLE:** Data collected by the phone when it is connected to a cell. (not from the table neighboring cells).
 * **LOCATION_TABLE:** These are the individual measurements as collected when in `Tracking Cell Details` mode. The location (Lat/Lng) of the phone and the Cell-ID it is connected to + timestamp.
 
 ***
 
-##**other important Details:** 
+**Other important details:** 
 
 Display the Neighboring Cell information in two ways:
 1. through telephony manager methods which does not work on Samsung Devices
@@ -41,6 +40,6 @@ Display the Neighboring Cell information in two ways:
 
 ***
 
-##**Further information about the actual status and prepared working packages to be picked up by an developer:
+**Further information about the actual status and prepared working packages to be picked up by an developer:**
 
 https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status
