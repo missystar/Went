@@ -35,7 +35,7 @@ This documentation is especially for developers who want to join our project and
 
 **Other important details:** 
 
-Display the Neighboring Cell information in two ways:   
+We display the Neighboring Cell information in two ways:   
 1. through telephony manager methods which does not work on Samsung Devices   
 2. a fallback is available through the methods developed by Alexey
 (Data is saved in an Array not in an table)
