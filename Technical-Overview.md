@@ -24,7 +24,7 @@ This documentation is especially for developers who want to join our project and
 ![aimsicd2_er_3](https://cloud.githubusercontent.com/assets/194392/5464876/13483c7e-8597-11e4-8294-c0ab739e1f7a.png)
 
 
-**To be updated 
+**To be updated** 
 
 * **CELL_TABLE:** Data collected by the phone when it is connected to a cell. (not from the table neighboring cells).
 * **LOCATION_TABLE:** These are the individual measurements as collected when in `Tracking Cell Details` mode. The location (Lat/Lng) of the phone and the Cell-ID it is connected to + timestamp.
