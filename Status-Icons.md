@@ -1,15 +1,19 @@
-The Status Icons indicate several threat levels. They are as follows:
+The Status Icons indicate several threat levels. 
+
+As we're still working on implementing them all, we're still discussing them in issue 214, [here](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/214)
+
+They are as follows:
 
 **Short Explanations**
 
 |  CODE  | ICON | THREAT-LEVEL |       SHORT EXPLANATION        |
 |:------ |:----:|:------------ |:------------------------------ |
-| Grey   | ![IDLE](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_idle.png)     | IDLE      | App is idling or loading. Stay tuned.    |
-| Green  | ![OK](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_ok.png)     | NORMAL       | No threats detected or found.   |
-| Yellow | ![MEDIUM](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_medium.png)     | MEDIUM       | Hostile Service Area: One or more FBTS are in operation in this vicinity.                               |
-| Orange | ![HIGH](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_high.png)     | HIGH         | Hostile Service Actions Detected: An FBTS is actively tracking users.                               |
-| Red    | ![DANGER](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_danger.png)     | DANGEROUS    | Hostile Tracking Detected: An FBTS is actively tracking YOU.                               |
-| Black  | ![SKULL](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_skull.png)     | RUN!         | Hostile Manipulation: Someone is trying to remotely manipulate your handset. |
+| Grey   | ![IDLE](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_idle.png)    | IDLE      | App is idling or loading. Stay tuned. |
+| Green  | ![OK](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_ok.png)      | NORMAL       | No threats detected or found. |
+| Yellow | ![MEDIUM](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_medium.png)  | MEDIUM       | Insecure Service Area: At least 1 new or unknown BTS, is in operation in this vicinity, or using encryption *<*A5/3  |
+| Orange | ![HIGH](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_high.png)    | HIGH         | Hostile Service Actions Detected: An IMSI-Catcher is actively tracking users. |
+| Red    | ![DANGER](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_danger.png)   | DANGEROUS    | Hostile Tracking Detected: An FBTS is actively tracking YOU. |
+| Black  | ![SKULL](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-hdpi/sense_skull.png)    | RUN!         | Hostile Manipulation: Someone is trying to remotely manipulate your handset. |
 
 ---
 
