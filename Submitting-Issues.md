@@ -22,12 +22,25 @@ In all cases, you **MUST** include the following:
 ---
 
 **Are you a command line junkie?**
-Then you can use the following shell function to help you get only relevant logcat entries. 
-Copy and paste the following to your terminal shell:
+
+Then you can use the following commands that will:
+
+ 1. Create a log directory in: `/sdcard/aimsicd_log/`
+ 2. cd into that directory 
+ 3. Clear all the logcat's. 
+ 4. Run AIMSICD and wait for a key press to kill it.
+ 5. Save a full *logcat*, excluding that from *radio*, into the file `/sdcard/aimsicd_log/aimdump.log`.
+
+Copy and paste the following to your android rooted shell.  
+```bash
+alias cdaim='mkdir /sdcard/aimsicd_log; cd /sdcard/aimsicd_log'
+alias logclr='logcat -c -b main -b system -b radio -b events' 
+alias logdmp='logcat -d -v threadtime -b main -b system -b events -f /sdcard/aimsicd_log/aimdump.log'
+export DUMTXT="When bug occurs, press any key to kill app and dump logcat to file..."
+alias aimrun='cdaim; logclr; am start -n com.SecUpwN.AIMSICD/.AIMSICD; read dummy?"${DUMTXT}"; am force-stop com.SecUpwN.AIMSICD; logdmp;'
 ```
-alias logrep='logcat -d -v time -b main -b system -b radio|grep -iE $@'
-```
-To use it just write: `logrep AIMSICD`, and you will only get stuff marked with AIMSICD.
+To run it, just type: `aimrun`.
+If you want to also supply *radio* logcat, add `-b radio` somewhere in the `logdmp` alias, but know that your GPS location and cell info may be included when you do that.
 
 ---
 
