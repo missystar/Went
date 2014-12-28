@@ -40,3 +40,4 @@
 * [Media Material](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Media-Material)
 * [Press Releases](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Press-Releases)
 * [Recommendations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Recommendations)
+* [Similar Projects](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Similar-Projects)
