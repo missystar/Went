@@ -14,7 +14,7 @@ A: This is a work in progress (WIP) and that is exactly the reason why we are fu
 
 **Q: Sounds cool, where is this for my iPhone?**
 
-A: Sorry bro, but the iPhone will never be supported. Even though you could jailbreak your iPhone, we could never digg deep enough into iPhone internals due to the closed source APIs. In fact, the whole iOS is closed source (but has many creative [backdoors](http://www.zdziarski.com/blog/?p=3522). But hey, the [NSA has total access](http://www.forbes.com/sites/erikkain/2013/12/30/the-nsa-reportedly-has-total-access-to-your-iphone/)) to it! You you really should get a shiny new Android phone and [root it](http://www.xda-developers.com/root/).
+A: Sorry bro, but the iPhone will never be supported. Even though you could jailbreak your iPhone, we could never digg deep enough into iPhone internals due to the closed source APIs. In fact, the whole iOS is closed source (but has many creative [backdoors](http://www.zdziarski.com/blog/?p=3522). But hey, the [NSA has total access](http://www.forbes.com/sites/erikkain/2013/12/30/the-nsa-reportedly-has-total-access-to-your-iphone/)) to it! You should get a shiny new Android phone and [root it](http://www.xda-developers.com/root/).
 
 **Q: Who are you guys?**
 
