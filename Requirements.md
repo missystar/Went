@@ -1,4 +1,4 @@
-In an ideal Android world this App would work on any and and all phones and AOS versions. Unfortunately every phone vendor, OEM chip manufacturer and ROM developer out there, want to implements their own functions, user interfaces (UI) and behavior. Even on devices from the same manufacturer, we can no longer expect our Apps to work. This is particularly true when developing Apps that try to supplement lacking AOS features and using many system functions. Our App falls into this category.
+In an ideal Android world this App would work on any and all phones and AOS versions. Unfortunately every phone vendor, OEM chip manufacturer and ROM developer out there, wants to implements their own functions, user interfaces (UI) and behavior. Even on devices from the same manufacturer, we can no longer expect our Apps to work. This is particularly true when developing Apps that try to supplement lacking AOS features and using many system functions. Our App falls into this category.
 
 **Q: So what are our basic device requirements?**
 
