@@ -37,7 +37,7 @@ A: Not all of us are anonymous, but we respect the fact that some of us would li
 > 3. The project is still in **ALPHA stage**, so it would be wrong to start making public presentations for something that only partially works on a few selected devices. 
 
 
-##### Q: What role do you want me to play ?
+##### Q: What role do you want me to play?
 
 A: That solely depends on your capabilities, time and mindset. In an ideal world, you'd be primarily solving the Issues on our GitHub, contribute code through pull requests, test our App thoroughly and tell your friends. But honestly speaking, noone wants to force you doing anything. You can also just lurk around and complain that nothing is working.
 
