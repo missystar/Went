@@ -12,6 +12,10 @@ A: As for me, SecUpwN, IMSI-Catchers are a small "phenomenon". The sole inventio
 
 A: This is a work in progress (WIP) and that is exactly the reason why we are fully open source. It is a difficult task to reach our desired goals. If it was fully functional already, we would probably not have invited you to develop with us. But that does not mean you cannot already test it - grab the [latest WIP-Release](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases) or compile it yourself.
 
+**Q: Sounds cool, where is this for my iPhone?**
+
+A: Sorry bro, but the iPhone will never be supported. Even though you could jailbreak your iPhone, we could never digg deep enough into iPhone internals due to the closed source APIs. In fact, the whole iOS is closed source (but has many creative [backdoors](http://www.zdziarski.com/blog/?p=3522). But hey, the [NSA has total access](http://www.forbes.com/sites/erikkain/2013/12/30/the-nsa-reportedly-has-total-access-to-your-iphone/)) to it! You you really should get a shiny new Android phone and [root it](http://www.xda-developers.com/root/).
+
 **Q: Who are you guys?**
 
 A: Contrary to some of our competitor opinion, we're **not** *M3g4G4lacticEl33tHAxor5*, we're just a collection of ordinary and slightly above average tech savvy concerned citizens, who have a strong belief that individual privacy should be a basic human right and a personal choice, and not something your government can suddenly dispose of at any whim of an impulse. That is why we stand up and do something about it.
