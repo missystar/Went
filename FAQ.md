@@ -1,4 +1,8 @@
-Welcome to the place of questions asked a million times! Get your answer here. Again. :smile_cat: 
+Welcome to the place of questions asked a million times! Get your answer here. Again. :smile_cat:
+
+**Q: There are similar projects, why won't you stop work?**
+
+A: In simple words: Because we truly believe in our App, are very passionate about it and love Android. We don't do this for money, fame, nor to be "the cool kids on the block". Please see our note on [similar projects](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Similar-Projects). 
 
 **Q: Why are you working on detection of IMSI-Catchers?**
 
