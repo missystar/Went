@@ -1,14 +1,25 @@
 Welcome to the place of questions asked a million times! Get your answer here. Again. :smile_cat:
 
-### Index
+### Index of Questions
 
-(to be added in a minute)
+* [There are similar projects, why won't you stop work?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-there-are-similar-projects-why-wont-you-stop-work)
+* [Why are you working on detection of IMSI-Catchers?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-why-are-you-working-on-detection-of-imsi-catchers)
+* [Is this a fully functional project or a prototype?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-is-this-a-fully-functional-project-or-a-prototype)
+* [Sounds cool, where is this for my iPhone?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-sounds-cool-where-is-this-for-my-iphone)
+* [Who are you guys?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-who-are-you-guys)
+* [Why are you anonymous?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-why-are-you-anonymous)
+* [What role do you want me to play?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-what-role-do-you-want-me-to-play)
+* [In what way will you compensate the work?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-in-what-way-will-you-compensate-the-work)
+* [Why did you contact me via an anonymous E-Mail address?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-why-did-you-contact-me-via-an-anonymous-e-mail-address)
+* [I noticed that your App uses GPS. Isn't that dangerous?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-i-noticed-that-your-app-uses-gps-isnt-that-dangerous)
+* [Is what you are doing illegal?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-is-what-you-are-doing-illegal)
+* [Why won't you upload your App to the Google Play Store?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-why-wont-you-upload-your-app-to-the-google-play-store)
 
 --- 
 
 ##### Q: There are similar projects, why won't you stop work?
 
-A: In simple words: Because we truly believe in our App, are very passionate about it and love Android. We don't do this for money, fame, nor to be "the cool kids on the block". Please see our note on [similar projects](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Similar-Projects). 
+A: In simple words: Because we truly believe in our App, are very passionate about it and love Android. We don't do this for money, fame, nor to be "the cool kids on the block". Please see our note on [similar projects](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Similar-Projects).
 
 ##### Q: Why are you working on detection of IMSI-Catchers?
 
@@ -37,7 +48,7 @@ A: Not all of us are anonymous, but we respect the fact that some of us would li
 > 3. The project is still in **ALPHA stage**, so it would be wrong to start making public presentations for something that only partially works on a few selected devices. 
 
 
-##### Q: What role do you want me to play?
+##### Q: What role do you want me to play ?
 
 A: That solely depends on your capabilities, time and mindset. In an ideal world, you'd be primarily solving the Issues on our GitHub, contribute code through pull requests, test our App thoroughly and tell your friends. But honestly speaking, noone wants to force you doing anything. You can also just lurk around and complain that nothing is working.
 
