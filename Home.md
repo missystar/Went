@@ -4,9 +4,9 @@
 
 **Please use the sidebar on the right to navigate through this WIKI.**
 
-The [Android-IMSI-Catcher-Detector](https://secupwn.github.io/Android-IMSI-Catcher-Detector) (short: AIMSICD) is an Android open-source based project to detect and avoid fake base stations (IMSI-Catchers) or other base-stations (mobile antennas) with poor/no encryption. Our project aims to warn you if the ciphering is turned off on your phone, if you've been tracked via Silent/Stealth SMS and also enable several protection-mechanisms. Since our App is under constant development, we always search for testers and security-enthusiastic developers. Don't be shy, feel free to contribute in any way you can!
+The [Android-IMSI-Catcher-Detector](https://secupwn.github.io/Android-IMSI-Catcher-Detector) (short: AIMSICD) is an Android open-source based project to detect and avoid fake base stations (IMSI-Catchers) or other base-stations (mobile antennas) with poor/no encryption. Our project aims to warn you if the ciphering is turned off on your phone, if you've been tracked via Silent/Stealth SMS and also enable several protection-mechanisms. Since our App is under constant development, we always search for testers and security-enthusiastic developers. Don't be shy, feel free to contribute in any way you can! Even the smallest pull requests are very much appreciated.
 
-**Some attacks IMSI-Catchers are capable of:**
+##### **Some attacks IMSI-Catchers are capable of:**
 
 * **[Espionage on Norwegian Politicians](http://www.ibtimes.co.uk/newspaper-discovers-someone-listening-norwegian-politicians-phone-calls-1479385)**
 * [NSA-Killings with IMSI-Catcher drones](https://firstlook.org/theintercept/article/2014/02/10/the-nsas-secret-role/)
