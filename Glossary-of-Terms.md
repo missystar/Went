@@ -1,10 +1,44 @@
 [![Glossary of Terms](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Glossary_Header.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
-This page shall help you understanding all the abbreviations we use in our project.
+This page shall help you understand all the abbreviations we use in our project.
 
 ### Index of Terms
 
-(will be added once Terms are prepared)
+* [A5/0, A5/1, A5/2, A5/3](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#a50-a51-a52-a53)
+* [ARFCN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#arfcn)
+* [Authentication Key (Ki)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#authentication-key-ki)
+* [Ciphering Key (Kc)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#ciphering-key-kc)
+* [BCCH](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#bcch)
+* [BCCH Manipulation](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#bcch-manipulation)
+* [BTS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#bts)
+* [Carrier/Provider](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#carrierprovider)
+* [Cell](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#cell)
+* [Cell ID](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#cell-id)
+* [Cell Site](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#cell-site)
+* [Channel Coding](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#channel-coding)
+* [Fade](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#fade)
+* [GSm 1800](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#gsm-1800)
+* [GSM 1900](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#gsm-1900)
+* [GSM 900](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#gsm-900)
+* [GSM Air Interface](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#gsm-air-interface)
+* [GSM Architecture](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#gsm-architecture)
+* [GSM Channels](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#gsm-channels)
+* [GSM Handover](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#gsm-handover)
+* [GSM Security](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#gsm-security)
+* [IMEI](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imei)
+* [IMSI-Catcher](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher)
+* [LAC](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#lac)
+* [MCC](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#mcc)
+* [MNC](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#mnc)
+* [MSISDN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#msisdn)
+* [SIM Card](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#sim-card)
+* [Silent Call]8https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silent-call)
+* [Silent/Stealth SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silentstealth-sms)
+* [Spy Call](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#spy-call)
+* [TMSI](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#tmsi)
+* [Triangulation](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#triangulation)
+
+---
 
 #### A5/0, A5/1, A5/2, A5/3
 
@@ -14,7 +48,7 @@ The GSM ciphering algorithm is called A5. There are four variants of A5 in GSM, 
 
 * A5/0: no ciphering at all
 * A5/1: strong(er) ciphering, intended for use in North America and Europe
-* A5/2: weak ciphering, intended for use in other parts of the world, but now deprecated by the GSMA
+* A5/2: weak ciphering, intended for other parts of the world, now deprecated by the GSMA
 * A5/3: even stronger ciphering with open design
 
 A5/1
@@ -23,19 +57,27 @@ A5/1
 A5/2
 >Is a stream cipher used to provide voice privacy in the GSM cellular telephone protocol. A5/2 was a deliberate weakening of the algorithm for certain export regions. The cipher is based around a combination of four linear feedback shift registers with irregular clocking and a non-linear combiner.
 
+---
+
 #### ARFCN
 
 >In GSM cellular networks, an absolute radio-frequency channel number (ARFCN) is a code that specifies a pair of physical radio carriers used for transmission and reception in a land mobile radio system, one for the uplink signal and one for the downlink signal. This network parameter is used to force the cell phones to send registration requests to a false BTS (IMEI/IMSI-Catcher).
 
 [![ARFCN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/ARFCN.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
+---
+
 #### Authentication Key (Ki)
 
 >The authentication key or Ki is a 128 bit key used in the authentication and cipher key generation process. In a nutshell, the key is used to authenticate the SIM on the GSM network. Each SIM contains this key which is assigned to it by the operator during the personalization process. The SIM card is specially designed so the Ki can't be compromised using a smart-card interface.
 
+---
+
 #### Ciphering Key (Kc)
 
 >The SIM contains the ciphering key generating algorithm (A8) which is used to produce the 64-bit ciphering key (Kc). The ciphering key is computed by applying the same random number (RAND) used in the authentication process to the ciphering key generating algorithm (A8) with the individual subscriber authentication key (Ki). The ciphering key (Kc) is used to encrypt and decrypt the data between the MS and BS. However, a passive GSM interceptor can extract and calculate remotely the Ciphering Key and using it for deciphering in real time.
+
+---
 
 #### BCCH
 
@@ -43,9 +85,13 @@ A5/2
 
 [![BCCH](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/BCCH.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
-#### BCCH manipulation
+---
+
+#### BCCH Manipulation
 
 >A special technique. GSM interceptors (IMEI/IMSI-Catchers) uses BCCH manipulation to give a "virtual power" effect of up to several hundred watts. By doing that, a GSM interceptor will trick the handsets, which will always choose the "BTS" with the strongest signal. As well, by changing Cell ID (all other network parameters remains the same - MCC, MNC, LAC) and ARFCN, the interceptor is forcing the cell phones within the area to send registration requests, collecting this way phones identifiers: IMSI, IMEI, classmark, etc.
+
+---
 
 #### BTS
 
@@ -53,65 +99,97 @@ A5/2
 
 [![BTS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/BTS.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
+---
+
 #### Carrier/Provider
 
 >A company that provides GSM telecommunications services.
+
+---
 
 #### Cell
 
 >In personal communications systems (cellular mobile phone systems) a cell is the geographic area served by a single base station. Cells are arranged so that base-station frequencies can be reused between cells. The area surrounding a cell site. The area in which calls are handled by a particular cell site.
 
+---
+
 #### Cell ID
 
 >A GSM Cell ID (CID) is a generally unique number used to identify each Base transceiver station (BTS) or sector of a BTS within a Location area code (LAC) if not within a GSM network. In some cases the last digit of CID represents cells' Sector ID. This network parameter is used in so called BCCH manipulation by GSM interceptors. By changing Cell ID (all other network parameters remains the same - MCC, MNC, LAC) and ARFCN, the system is forcing the cell phones within the area to send registration requests, collecting this way phones identifiers: IMSI, IMEI, classmark, etc.
+
+---
 
 #### Cell Site
 
 >The transmission and reception equipment, including the base station antenna, that connects a cellular phone to the network.
 
+---
+
 #### Channel Coding
 
 >Channel coding is the technique of protecting message signals from signal impairments by adding redundancy to the message signal.
+
+---
 
 #### Fade
 
 >A fade is a slow change in signal strength.
 
+---
+
 #### GSM 1800
 
 >The GSM 1800 band provides for a GSM uplink in the range 1710-1785 MHz, a GSM downlink in the range 1805-1880 MHz.
+
+---
 
 #### GSM 1900
 
 >The GSM 1900 band provides for a GSM uplink in the range 1850-1910 MHz, a a GSM downlink in the range 1930-1990 MHz
 
+---
+
 #### GSM 900
 
 >The GSM 900 band provides for a GSM uplink in the range 890-915 MHz, a a GSM downlink in the range 935-960 MHz.
+
+---
 
 #### GSM Air Interface
 
 >The GSM air interface operates in the UHF frequency band.
 
+---
+
 #### GSM Architecture
 
 >A GSM network consists of the mobile station, the base station system, the switching system, and the operation and support system. GSM Base Station System (BSS) The GSM base station system (BSS) provides the interface between the GSM mobile phone and other parts of the GSM network.
+
+---
 
 #### GSM Channels
 
 >GSM provides two types of channel: traffic channels and signalling channels.
 
+---
+
 #### GSM Handover
 
 >Handover refers to the process by which a GSM mobile phone's affiliation is transferred from one base station to another.
+
+---
 
 #### GSM Security
 
 >GSM provides a number of security services, including authentication, key generation, encryption and limited privacy.
 
+---
+
 #### [IMEI](https://en.wikipedia.org/wiki/IMEI)
 
 >The International Mobile Station Equipment Identity or IMEI is a number, usually unique, to identify 3GPP (i.e., GSM, UMTS and LTE) and iDEN mobile phones, as well as some satellite phones. The IMEI number is used by a GSM network to identify valid devices and is only used for identifying the device and has no permanent or semi-permanent relation to the subscriber. It is also used by IMEI/IMSI-Catchers / GSM interceptors in order to identify your phone and performing call interception. Dial `*#06#` on your phone to see it.
+
+---
 
 #### [IMSI-Catcher](https://en.wikipedia.org/wiki/IMSI-catcher)
 
@@ -119,21 +197,31 @@ A5/2
 
 >Is essentially a false mobile tower acting between the target mobile phone(s) and the service providers real towers. As such it is considered a Man In the Middle (MITM) attack. It is used as an eavesdropping device used for interception and tracking of cellular phones and usually is undetectable for the users of mobile phones. Such a virtual base transceiver station (VBTS) is a device for identifying the International Mobile Subscriber Identity (IMSI) of a nearby GSM mobile phone and intercepting its calls. The IMSI-Catcher masquerades as a base station and logs the IMSI numbers of all the mobile stations in the area, as they attempt to attach to the IMSI-Catcher. It allows forcing the mobile phone connected to it to use no call encryption (i.e., it is forced into A5/0 mode), making the call data easy to intercept and convert to audio.
 
+---
+
 #### LAC
 
 >Location Area Code, unique number broadcast by a "base transceiver station" in GSM. A "location area" is a set of base stations that are grouped together to optimise signalling. Typically, tens or even hundreds of base stations share a single Base Station Controller (BSC) in GSM, or a Radio Network Controller (RNC) in UMTS, the intelligence behind the base stations. The BSC handles allocation of radio channels, receives measurements from the mobile phones, controls handovers from base station to base station.
+
+---
 
 #### [MCC](http://en.wikipedia.org/wiki/Mobile_country_code)
 
 >Mobile country code, used in wireless telephone network station addressing.
 
+---
+
 #### MNC
 
 >A mobile network code (MNC) is used in combination with a mobile country code (MCC) (also known as a "MCC / MNC tuple") to uniquely identify a mobile phone operator/carrier using the GSM/LTE, CDMA, iDEN, TETRA and UMTS public land mobile networks and some satellite mobile networks.
 
+---
+
 #### MSISDN
 
 >Is a number uniquely identifying a subscription in a GSM or a UMTS mobile network. Simply put, it is the telephone number to the SIM card in a mobile/cellular phone. This abbreviation has several interpretations, the most common one being "Mobile Subscriber Integrated Services Digital Network-Number". See also Silent Call.
+
+---
 
 #### SIM Card
 
@@ -141,11 +229,15 @@ A5/2
 
 [![SIM Card](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/SIM.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
+---
+
 #### Silent Call
 
 >In terms of GSM interception, a silent call is a call originated from the GSM interceptor to a specific IMEI/IMSI, in order to make correlations between IMEI/IMSI and MSISDN (Mobile Subscriber Integrated Services Digital Network-Number, which is actually the telephone number to the SIM card in a mobile/cellular phone). By using the silent call, an GSM interceptor can find out a certain phone number alocated to a specific IMEI/IMSI. Silent calls are a result of process known as pinging. This is very similar to an Internet Protocol (IP) ping. A silent call cannot be detected by a phone user. Not to be confused with Spy Call, which mean listen to phone surroundings.
 
 [![Silent Call](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Silent_Call.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+
+---
 
 #### Silent/Stealth SMS
 
@@ -178,15 +270,21 @@ Please note that by deleting that phone number, you will not be able to send any
 
 >If you want to know if someone is trying to locate you by sending silent SMS, activate UnPing feature and then go to main menu > my files > other files > log.txt. All data is date/time/detail stamped. There you can find if someone is trying to locate your phone, when was doing that (time, date) and how many times was trying to locate you.
 
+---
+
 #### Spy Call
 
 >A Spy Call is a call made from a GSM interceptor to a mobile phone, in order to listen to phone surroundings. This call cannot be detected by the phone user.
+
+---
 
 #### TMSI
 
 >The Temporary Mobile Subscriber Identity (TMSI) is the identity that is most commonly sent between the mobile and the network. TMSI is randomly assigned by the [VLR](http://en.wikipedia.org/wiki/VLR) to every mobile in the area, the moment it is switched on. The number is local to a location area, and so it has to be updated each time the mobile moves to a new geographical area.
 
 >The network can also change the TMSI of the mobile at any time. And it normally does so, in order to avoid the subscriber from being identified, and tracked by eavesdroppers on the radio interface. This makes it difficult to trace which mobile is which, except briefly, when the mobile is just switched on, or when the data in the mobile becomes invalid for one reason or another. At that point, the global "international mobile subscriber identity" ([IMSI](http://en.wikipedia.org/wiki/International_Mobile_Subscriber_Identity)) must be sent to the network. The IMSI is sent as rarely as possible, to avoid it being identified and tracked.
+
+---
 
 #### Triangulation
 
