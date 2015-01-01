@@ -22,7 +22,7 @@ The *Google Play Services* library must be installed in SDK Manager as this supp
 
 ---
 
-:exclamation: * JAVA 8 is not yet supported. Use a supported JavaVersion (class -> dex conversion can't handle 1.8 right now). VERSION is unrelated to your JDK. The JDK has to be >= VERSION.
+:exclamation: **JAVA 8 is not yet supported.** Use a supported JavaVersion (`class -> dex` conversion can't handle 1.8 right now). VERSION is unrelated to your JDK. The JDK has to be >= VERSION.
 
 ---
 
