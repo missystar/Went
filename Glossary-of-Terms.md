@@ -4,7 +4,7 @@ This page shall help you understand all the abbreviations we use in our project.
 
 ### Index of Terms
 
-* [A5/0, A5/1, A5/2, A5/3](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#a50-a51-a52-a53)
+* [A5/0, A5/1, A5/2, A5/3, A5/4](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#a50-a51-a52-a53-a54)
 * [ARFCN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#arfcn)
 * [Authentication Key (Ki)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#authentication-key-ki)
 * [Ciphering Key (Kc)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#ciphering-key-kc)
@@ -44,12 +44,13 @@ This page shall help you understand all the abbreviations we use in our project.
 
 [![Ciphering](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Ciphering.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
-The GSM ciphering algorithm is called A5. There are four variants of A5 in GSM, only first three of which are widely deployed:
+The GSM ciphering algorithm is called A5. For technical details and attacks see the [Cryptome GSM Files](http://cryptome.org/gsm-a5-files.htm). There are four variants of A5 in GSM, only first three of which are widely deployed:
 
 * A5/0: no ciphering at all
 * A5/1: strong(er) ciphering, intended for use in North America and Europe
-* A5/2: weak ciphering, intended for other parts of the world, now deprecated by the GSMA
+* A5/2: weak ciphering, intended for other countries, now deprecated by GSMA
 * A5/3: even stronger ciphering with open design
+* A5/4: 
 
 A5/1
 >Is a stream cipher used to provide over-the-air communication privacy in the GSM cellular telephone standard. It was initially kept secret, but became public knowledge through leaks and reverse engineering. A number of serious weaknesses in the cipher have been identified. A5/1 is used in Europe and the United States. 
@@ -69,13 +70,13 @@ A5/2
 
 #### Authentication Key (Ki)
 
->The authentication key or Ki is a 128 bit key used in the authentication and cipher key generation process. In a nutshell, the key is used to authenticate the SIM on the GSM network. Each SIM contains this key which is assigned to it by the operator during the personalization process. The SIM card is specially designed so the Ki can't be compromised using a smart-card interface.
+>The Authentication Key or Ki is a 128 bit key used in the authentication and cipher key generation process. In a nutshell, the key is used to authenticate the SIM on the GSM network. Each SIM contains this key which is assigned to it by the operator during the personalization process. The SIM card is specially designed so the Ki can't be compromised using a smart-card interface.
 
 ---
 
 #### Ciphering Key (Kc)
 
->The SIM contains the ciphering key generating algorithm (A8) which is used to produce the 64-bit ciphering key (Kc). The ciphering key is computed by applying the same random number (RAND) used in the authentication process to the ciphering key generating algorithm (A8) with the individual subscriber authentication key (Ki). The ciphering key (Kc) is used to encrypt and decrypt the data between the MS and BS. However, a passive GSM interceptor can extract and calculate remotely the Ciphering Key and using it for deciphering in real time.
+>The SIM contains the Ciphering Key generating algorithm (A8) which is used to produce the 64-bit Ciphering Key (Kc). The Ciphering Key is computed by applying the same random number (RAND) used in the authentication process to the Ciphering Key generating algorithm (A8) with the individual subscriber authentication key (Ki). The Ciphering Key (Kc) is used to encrypt and decrypt the data between the MS and BS. However, a passive GSM Interceptor can extract and calculate remotely the Ciphering Key and using it for deciphering in real time.
 
 ---
 
@@ -89,7 +90,7 @@ A5/2
 
 #### BCCH Manipulation
 
->A special technique. GSM interceptors (IMEI/IMSI-Catchers) uses BCCH manipulation to give a "virtual power" effect of up to several hundred watts. By doing that, a GSM interceptor will trick the handsets, which will always choose the "BTS" with the strongest signal. As well, by changing Cell ID (all other network parameters remains the same - MCC, MNC, LAC) and ARFCN, the interceptor is forcing the cell phones within the area to send registration requests, collecting this way phones identifiers: IMSI, IMEI, classmark, etc.
+>A special technique. GSM Interceptors (IMEI/IMSI-Catchers) uses BCCH manipulation to give a "virtual power" effect of up to several hundred watts. By doing that, a GSM Interceptor will trick the handsets, which will always choose the "BTS" with the strongest signal. As well, by changing Cell ID (all other network parameters remains the same - MCC, MNC, LAC) and ARFCN, the Interceptor is forcing the cell phones within the area to send registration requests, collecting this way phones identifiers: IMSI, IMEI, classmark, etc.
 
 ---
 
@@ -115,7 +116,7 @@ A5/2
 
 #### Cell ID
 
->A GSM Cell ID (CID) is a generally unique number used to identify each Base transceiver station (BTS) or sector of a BTS within a Location area code (LAC) if not within a GSM network. In some cases the last digit of CID represents cells' Sector ID. This network parameter is used in so called BCCH manipulation by GSM interceptors. By changing Cell ID (all other network parameters remains the same - MCC, MNC, LAC) and ARFCN, the system is forcing the cell phones within the area to send registration requests, collecting this way phones identifiers: IMSI, IMEI, classmark, etc.
+>A GSM Cell ID (CID) is a generally unique number used to identify each Base transceiver station (BTS) or sector of a BTS within a Location area code (LAC) if not within a GSM network. In some cases the last digit of CID represents cells' Sector ID. This network parameter is used in so called BCCH manipulation by GSM Interceptors. By changing Cell ID (all other network parameters remains the same - MCC, MNC, LAC) and ARFCN, the system is forcing the cell phones within the area to send registration requests, collecting this way phones identifiers: IMSI, IMEI, classmark, etc.
 
 ---
 
@@ -187,7 +188,7 @@ A5/2
 
 #### [IMEI](https://en.wikipedia.org/wiki/IMEI)
 
->The International Mobile Station Equipment Identity or IMEI is a number, usually unique, to identify 3GPP (i.e., GSM, UMTS and LTE) and iDEN mobile phones, as well as some satellite phones. The IMEI number is used by a GSM network to identify valid devices and is only used for identifying the device and has no permanent or semi-permanent relation to the subscriber. It is also used by IMEI/IMSI-Catchers / GSM interceptors in order to identify your phone and performing call interception. Dial `*#06#` on your phone to see it.
+>The International Mobile Station Equipment Identity or IMEI is a number, usually unique, to identify 3GPP (i.e., GSM, UMTS and LTE) and iDEN mobile phones, as well as some satellite phones. On most phones you can dial `*#06#` to see this number. The IMEI number is used by a GSM network to identify valid devices and is only used for identifying the device and has no permanent or semi-permanent relation to the subscriber. It is also used by IMEI/IMSI-Catchers / GSM Interceptors in order to identify your phone and performing call interception.
 
 ---
 
@@ -207,13 +208,13 @@ A5/2
 
 #### [MCC](http://en.wikipedia.org/wiki/Mobile_country_code)
 
->Mobile country code, used in wireless telephone network station addressing.
+>Mobile Country Code (MCC), used in wireless telephone network station addressing.
 
 ---
 
 #### MNC
 
->A mobile network code (MNC) is used in combination with a mobile country code (MCC) (also known as a "MCC / MNC tuple") to uniquely identify a mobile phone operator/carrier using the GSM/LTE, CDMA, iDEN, TETRA and UMTS public land mobile networks and some satellite mobile networks.
+>A Mobile Network Code (MNC) is used in combination with a mobile country code (MCC) (also known as a "MCC / MNC tuple") to uniquely identify a mobile phone operator/carrier using the GSM/LTE, CDMA, iDEN, TETRA and UMTS public land mobile networks and some satellite mobile networks.
 
 ---
 
@@ -233,7 +234,7 @@ A5/2
 
 #### Silent Call
 
->In terms of GSM interception, a silent call is a call originated from the GSM interceptor to a specific IMEI/IMSI, in order to make correlations between IMEI/IMSI and MSISDN (Mobile Subscriber Integrated Services Digital Network-Number, which is actually the telephone number to the SIM card in a mobile/cellular phone). By using the silent call, an GSM interceptor can find out a certain phone number alocated to a specific IMEI/IMSI. Silent calls are a result of process known as pinging. This is very similar to an Internet Protocol (IP) ping. A silent call cannot be detected by a phone user. Not to be confused with Spy Call, which mean listen to phone surroundings.
+>In terms of GSM interception, a silent call is a call originated from the GSM Interceptor to a specific IMEI/IMSI, in order to make correlations between IMEI/IMSI and MSISDN (Mobile Subscriber Integrated Services Digital Network-Number, which is actually the telephone number to the SIM card in a mobile/cellular phone). By using the silent call, an GSM Interceptor can find out a certain phone number alocated to a specific IMEI/IMSI. Silent calls are a result of process known as pinging. This is very similar to an Internet Protocol (IP) ping. A silent call cannot be detected by a phone user. Not to be confused with Spy Call, which mean listen to phone surroundings.
 
 [![Silent Call](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Silent_Call.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
@@ -245,10 +246,10 @@ Many foreign police and intelligence services use clandestine "Silent" SMS to lo
 
 [![Silent/Stealth SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Silent%E2%81%84Stealth_SMS.gif)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
->Also known as Flash-SMS, the Silent SMS uses an invisible return signal, or "ping". Developers from the Silent Services company, who created some of the first software for sending this type of SMS, explain: "The Silent SMS allows the user to send a message to another mobile without the knowledge of the recipient mobile's owner. The message is rejected by the recipient mobile, and leaves no trace. In return, the sender gets a message from a mobile operator confirming that the Silent SMS has been received."
+>Also known as Type0-SMS, the Silent SMS uses an invisible return signal, or "ping". Developers from the Silent Services company, who created some of the first software for sending this type of SMS, explain: "The Silent SMS allows the user to send a message to another mobile without the knowledge of the recipient mobile's owner. The message is rejected by the recipient mobile, and leaves no trace. In return, the sender gets a message from a mobile operator confirming that the Silent SMS has been received."
 Silent SMS were originally intended to allow operators to ascertain whether a mobile phone is switched on and to "test" the network, without alerting the users. But now, intelligence services and police have found some other uses for the system. Neil Croft, a graduate of the Department of Computer Science at the University of Pretoria in South Africa, explains: "Sending a Silent SMS is like sending a normal SMS, except that the mobile does not see the message it has received. The SMS's information is modified, within the data coding scheme, so that the user who receives the message doesn't notice anything. A Silent SMS can help police to detect a mobile without the person concerned being aware of the request."
 
->Technical bit: in order to tamper with the SMS's information and make it silent, the security services go through a network for sending and receiving SMS known as an SMS gateway, such as the Jataayu SMS gateway. This allows them to interconnect the processing and GSM systems. This method of mass sending appears to be widely used by these security services. In November 2011, Anna Conrad of the Die Linke (The Left) party in Germany, posed a written question to her local state assembly concerning the use of Silent SMS by the German police. Her local assembly responded: in 2010, her state conducted 778 investigations and sent 256,000 Silent SMS.
+>Technical bit: in order to tamper with the SMS's information and make it silent, the security services go through a network for sending and receiving SMS known as an SMS gateway, such as the Jataayu SMS gateway. This allows them to interconnect the processing and GSM systems. This method of mass sending appears to be widely used by these security services. In November 2011, Anna Conrad of the left party in Germany, posed a written question to her local state assembly concerning the use of Silent SMS by the German police. Her local assembly responded: in 2010, Germany conducted 778 investigations and sent 256,000 Silent SMS.
 
 >Mathias Monroy, a journalist with Heise Online, argues this surveillance technology is flourishing largely as a result of a legal vacuum: "This is very problematic for privacy, because legally it is unclear whether or not a Silent SMS counts as a communication (…) The state found that it was not one, since there is no content. This is useful, because if it is not a communication, it does not fall under the framework of the inviolability of telecommunications described in Article 10 of the German Constitution."
 On December 6, the German Interior Minister Hans-Peter Friedrich announced that German police and intelligence had been sending an average of 440,000 Silent SMS a year since they began using the system. After each SMS was sent, investigators went to the four German mobile operators – Vodafone, E-Plus, O2 and T-Mobile – in order to access the recipient's information. To aggregate this raw data provided by operators, the police use Koyote and rsCase, software supplied by Rola Security Solutions, a company that develops "software solutions for the police".
@@ -263,18 +264,13 @@ This technique is much more effective than a simple cellular location (Cell ID),
 >While in Germany the Ministry of the Interior responded within 48 hours, the French government remains strangely silent. There has been one single response, from the Press Department of the National Police: "Unfortunately, no one at the PJ (Police Judiciare) or the public safety office is willing to comment on the subject, these are investigative techniques …"
 Silence too from the French telecoms operators SFR and Bouygues Telecom. Sebastien Crozier, a union delegate at France Telecom-Orange, says: "Operators always collaborate with the police, it's a public service obligation: they act in accordance with judicial requests…There is no definitive method, sending SMS is one of the methods used to geolocate a user. We mainly use this technique to "reactivate" the phone."
 
->By 2013, the use of these surveillance methods is expected to reach an industrial scale. The Department of Justice will set up, with the help of the arms company Thales, a new national platform of judicial interception (PNIJ), which is expected to centralize all legal interception, i.e, phone-tapping, but also summons such as requests for cell location. Sebastien Crozier remarks: "This interface between police officers and operators will streamline court costs and reduce processing costs by half, because until now summons have been handled station by station…There will be more applications, but it will be less expensive for operators like the police." source
-
->When using XCell Stealth phones you can block silent SMS simply by deleting SMS center number, stored on phone memory. Go to Menu > Messages > Settings > Text messages > Sending options > Service center > delete the service center number > press Save > Exit.
-Please note that by deleting that phone number, you will not be able to send any SMS.
-
->If you want to know if someone is trying to locate you by sending silent SMS, activate UnPing feature and then go to main menu > my files > other files > log.txt. All data is date/time/detail stamped. There you can find if someone is trying to locate your phone, when was doing that (time, date) and how many times was trying to locate you.
+>By 2013, the use of these surveillance methods is expected to reach an industrial scale. The Department of Justice will set up, with the help of the arms company Thales, a new national platform of judicial interception (PNIJ), which is expected to centralize all legal interception, i.e, phone-tapping, but also summons such as requests for cell location. Sebastien Crozier remarks: "This interface between police officers and operators will streamline court costs and reduce processing costs by half, because until now summons have been handled station by station…There will be more applications, but it will be less expensive for operators like the police." ([source](http://owni.eu/2012/01/27/silent-sms-germany-france-surveillance-deveryware/))
 
 ---
 
 #### Spy Call
 
->A Spy Call is a call made from a GSM interceptor to a mobile phone, in order to listen to phone surroundings. This call cannot be detected by the phone user.
+>A Spy Call is a call made from a GSM Interceptor to a mobile phone, in order to listen to phone surroundings. This call cannot be detected by the phone user.
 
 ---
 
@@ -288,13 +284,13 @@ Please note that by deleting that phone number, you will not be able to send any
 
 #### Triangulation
 
->Q: How does the pinpointing of mobile users work, and just how accurate is it?
+* How does the pinpointing of mobile users work, and just how accurate is it?
 
 >There are two methods for pinpointing the location of cell phone users. Cell phones equipped with Global Positioning System (GPS) capability, use signals from satellites to pinpoint location very accurately. The second, and less-accurate method is often called “Cell Tower Triangulation”, referring to how the cell towers which receive a phone’s signal may be used to calculate its geophysical location. According to some industry research estimates, only about 11% of phones manufactured this year will have the GPS capability, so the remaining 89% of phones without GPS would have to depend upon “Cell Tower Triangulation” in order to disclose geolocation data for applications.
 
->Q: Just what is Cell Tower Triangulation?
+* Just what is Cell Tower Triangulation?
 
->In a best-case-scenario, a cell phone's signal may be picked up by three or more cell towers, enabling the "triangulation" to work. From a geometric/mathematical standpoint, if you have the distance to an item from each of three distinct points, you can compute the approximate location of that item in relation to the three reference points. This geometric calculation applies in the case of cell phones, since we know the locations of the cell towers which receive the phone's signal, and we can estimate the distance of the phone from each of those antennae towers, based upon the lag time between when the tower sends a ping to the phone and receives the answering ping back.
+>In a best-case-scenario, a cell phone's signal may be picked up by three or more cell towers, enabling the "triangulation" to work. From a geometric/mathematical standpoint, if you have the distance to an item from each of three distinct points, you can compute the approximate location of that item in relation to the three reference points. This geometric calculation applies in the case of cell phones, since we know the locations of the cell towers which receive the phone's signal, and we can estimate the distance of the phone from each of those antennae towers, based upon the lag time between the towers ping sent to the phone and the answering ping back.
 
 >In many cases, there may actually be more than three cell towers receiving a phone’s signal, allowing for even greater degrees of accuracy (although the term “triangulation” isn’t really correct if you’re using more than three reference points). In densely developed, urban areas, the accuracy of cell phone pinpointing is considered to be very high because there are typically more cell towers with their signal coverage areas overlapping. In cases where a cell user is inside large structures or underground, cell tower triangulation may be the only location pinpointing method since GPS signal may not be available.
 
@@ -302,13 +298,15 @@ Please note that by deleting that phone number, you will not be able to send any
 
 [![Trangulation](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Triangulation.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
->However, there are many places where there are fewer cell towers available, such as in the fringes of the cities and out in the country. If you have fewer than three cell towers available, pinpointing a mobile device can become a lot less precise. In cities where there are a lot more vertical structures which can be barriers to cell phone broadcasting and receiving, there have to be many more cell towers distributed in order to have good service. In the countryside, there are relatively fewer cell towers and a phone's signal may be picked up only by a single one at much greater distance. Those areas where a phone is only getting picked up by a single tower, and if it's equipped with only omnidirectional antennae, the accuracy becomes even less. In rural areas, coverage of the cell tower can vary from about a quarter of a mile to several miles, depending upon how many obstacles could be blocking the tower's signal.
+>However, there are many places where there are fewer cell towers available, such as in the fringes of the cities and out in the country. If you have fewer than three cell towers available, pinpointing a mobile device can become a lot less precise. In cities where there are a lot more vertical structures which can be barriers to cell phone broadcasting and receiving, there have to be many more cell towers distributed in order to have good service. In the countryside, there are relatively fewer cell towers and a phone's signal may be picked up only by a single one at much greater distance. Those areas where a phone is only getting picked up by a single tower, and if it's equipped with only omnidirectional antennae, the accuracy becomes even less. In rural areas, coverage of the cell tower can vary from about a quarter of a mile to several miles, depending upon how many obstacles are blocking the tower's signal.
 
->How extensive is government monitoring?
+* How extensive is government monitoring?
 
 >No civilian is authorised to know. Some governments in the EU, such as the UK government, have laws and practices that allow the government to collect and use intelligence in legal cases without disclosing their sources or methods. Chapter 8 of the Crown Prosecution Service’s Disclosure Manual includes: “the ability of the law enforcement agencies to fight crime by the use of covert human intelligence sources, undercover operations, covert surveillance, etc” and “the protection of secret methods of detecting and fighting crime”.
 According estimates made by whistleblower William Binney, a former director of the US NSA’s World Geopolitical and Military Analysis Reporting Group), the US NSA alone has assembled 20 trillion “transactions” − phone calls, emails and other forms of data − just from Americans (April, 2012). Government agencies are not the only organisations interested in the personal data stored on, or transmitted through, your mobile phone. Self-styled cyber criminals are now jumping on the bandwagon to reap benefits previously enjoyed only by government and intelligence agencies.
 
->Target phone location performed by GSM interceptor with target location capabilities. The method of operation is based on two vehicles. First vehicle with the interception system that forces the target phone to send continues signal transmission. The second vehicle is deployed with the interceptor and location components. The direction to target is displayed as a compass pointer and the relative signal strength is shown as a bar graph and numerically. The audio tone increases in frequency as interceptor gets closer to the target giving a clear warning of a close encounter.
+* Target phone location performed by GSM Interceptor with target location capabilities
+
+>The method of operation is based on two vehicles. First vehicle with the interception system that forces the target phone to send continues signal transmission. The second vehicle is deployed with the Interceptor and location components. The direction to target is displayed as a compass pointer and the relative signal strength is shown as a bar graph and numerically. The audio tone increases in frequency as Interceptor gets closer to the target giving a clear warning of a close encounter.
 
 [![Cell Phone Location](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Cell_Phone_Location.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
