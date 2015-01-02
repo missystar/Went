@@ -62,7 +62,7 @@ A5/3
 >KASUMI was designed for 3GPP to be used in UMTS security system by the Security Algorithms Group of Experts (SAGE), a part of the European standards body ETSI. Because of schedule pressures in 3GPP standardization, instead of developing a new cipher, SAGE agreed with 3GPP technical specification group (TSG) for system aspects of 3G security (SA3) to base the development on an existing algorithm that had already undergone some evaluation.
 
 A5/4
-> Based on A5/3, the only essential change is the external key length input from 64 bits to 128 bits. For more information please see the [Specification of the A5/4 Encryption Algorithms](http://www.in2eps.com/3g55/tk-3gpp-55-226.html) and [GSMA Security Algorithms](http://www.gsma.com/technicalprojects/fraud-security/security-algorithms)
+> Based on A5/3, the only essential change is the external key length input from 64 bits to 128 bits. For more information please see the [Specification of the A5/4 Encryption Algorithms](http://www.in2eps.com/3g55/tk-3gpp-55-226.html) and [GSMA Security Algorithms](http://www.gsma.com/technicalprojects/fraud-security/security-algorithms). Although A5/4 was developed and clearly specified at the same time as A5/3, there are no known mobile network providers who have implemented this, as of today.
 
 ---
 
