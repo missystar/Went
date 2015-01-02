@@ -40,23 +40,29 @@ This page shall help you understand all the abbreviations we use in our project.
 
 ---
 
-#### A5/0, A5/1, A5/2, A5/3
+#### A5/0, A5/1, A5/2, A5/3, A5/4
 
 [![Ciphering](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Ciphering.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
-The GSM ciphering algorithm is called A5. For technical details and attacks see the [Cryptome GSM Files](http://cryptome.org/gsm-a5-files.htm). There are four variants of A5 in GSM, only first three of which are widely deployed:
+The GSM ciphering algorithm is called A5. For technical details and attacks see the [Cryptome GSM Files](http://cryptome.org/gsm-a5-files.htm). There are four variants of A5 in GSM, only the first three are widely deployed:
 
-* A5/0: no ciphering at all
-* A5/1: strong(er) ciphering, intended for use in North America and Europe
-* A5/2: weak ciphering, intended for other countries, now deprecated by GSMA
-* A5/3: even stronger ciphering with open design
-* A5/4: 
+* A5/0: No ciphering at all
+* A5/1: Strong(er) ciphering, intended for use in North America and Europe
+* A5/2: Weak ciphering, intended for other countries, now deprecated by [GSMA](http://www.gsma.com/)
+* A5/3: Even stronger ciphering with open design, also called [KASUMI](https://en.wikipedia.org/wiki/KASUMI)
+* A5/4: The essential change is the key length input from 64 bits to 128 bits
 
 A5/1
 >Is a stream cipher used to provide over-the-air communication privacy in the GSM cellular telephone standard. It was initially kept secret, but became public knowledge through leaks and reverse engineering. A number of serious weaknesses in the cipher have been identified. A5/1 is used in Europe and the United States. 
 
 A5/2
 >Is a stream cipher used to provide voice privacy in the GSM cellular telephone protocol. A5/2 was a deliberate weakening of the algorithm for certain export regions. The cipher is based around a combination of four linear feedback shift registers with irregular clocking and a non-linear combiner.
+
+A5/3
+>KASUMI was designed for 3GPP to be used in UMTS security system by the Security Algorithms Group of Experts (SAGE), a part of the European standards body ETSI. Because of schedule pressures in 3GPP standardization, instead of developing a new cipher, SAGE agreed with 3GPP technical specification group (TSG) for system aspects of 3G security (SA3) to base the development on an existing algorithm that had already undergone some evaluation.
+
+A5/4
+> Based on A5/3, the only essential change is the external key length input from 64 bits to 128 bits. For more information please see the [Specification of the A5/4 Encryption Algorithms](http://www.in2eps.com/3g55/tk-3gpp-55-226.html) and [GSMA Security Algorithms](http://www.gsma.com/technicalprojects/fraud-security/security-algorithms)
 
 ---
 
