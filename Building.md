@@ -26,7 +26,9 @@ The *Google Play Services* library must be installed in SDK Manager as this supp
 
 ---
 
-1. Import the project into your IDE
-2. Build project 
-3. Run project on device
+### After Repository Refactoring and cleanup:
+Apparently, the first time after you have added our repo using the (Windows) GitHub app, or deleted a previous version from Android Studio, you need to import it into Android Studio by:
+* Selecting "Import Non-Android Studio Project"
+(Selecting "Open an existing Android Studio Project" doesn't work, as it doesn't seem to setup the .gradle and .idea files etc.)
+
 
