@@ -11,6 +11,13 @@ The *Google Play Services* library must be installed in SDK Manager as this supp
 2. Download and install the JAVA SE Development Kit 7 (JDK7) from [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html).
 3. Install the latest *Android Studio* from [here](http://developer.android.com/sdk/installing/studio.html).
 4. When you start Android Studio, you'll see "Welcome to Android Studio" with several options. Here you choose to *Open Project* and then navigate to your GitHub synchronization directory where you have added AIMSICD, from (1).  
+
+![First AS load](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/MISC/AS_load_2.png)
+
+This is especially true if you get an error message such as this one:
+
+![Missing .idea Error](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/MISC/AS_error_1.png)
+
 5. The project will open immediately, but now you want to *close* it, so that you can return to the Welcome screen, this time you choose **Configure >> SDK Manager**. Here you select all API's related to API 17, which is our lowest supported API.
 6. For more details follow the setup instructions [here](http://developer.android.com/sdk/installing/index.html?pkg=studio).
 7. Now click on the sideways *Gradle* tab, on the right side of the IDE. This will open a new window, once in it, double click on *assembleRelease*. Check for build errors in the lower screen log window.
