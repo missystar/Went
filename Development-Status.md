@@ -19,12 +19,12 @@ Functions:
 * Position Tracking: Using the GPS-Sensor and Google Location Service
 
 Detection:
-* For the most recent updates to what detections are being worked on and done see GitHub issue #230,  [Detection List](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/230).
+* Check Cell-ID’s collected by the phone against public Cell-Tower Database.
+* Check for "Changing LAC" of each Cell-ID that is collected by by the phone.  
 
 ---
 
 ### Working on right now
-* Check Cell-ID’s collected by the phone against public Cell-Tower Database
 * Neighboring Cell Info: [#100](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/100)
 * AT-Command Processor:
 Send AT-Commands to the Baseband Processor [#23](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/23)
