@@ -33,6 +33,7 @@ Send AT-Commands to the Baseband Processor [#23](https://github.com/SecUpwN/Andr
 * Restructuring of DB to allow for more Network variables (for development clarity)
 * Separate Debugging menu with much better way to create useable logcats: [#164](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/164)
 * Detection of changing Signal Strength: Besides implementation, this needs lot’s of research and testing, if this is a possible way for detection and how it works on different phones (measurement of signal strength) ([more details](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/97))
+* Check BTS for the NC List [#264](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/264)
 
 ---
 
