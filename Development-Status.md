@@ -38,6 +38,6 @@ Send AT-Commands to the Baseband Processor [#23](https://github.com/SecUpwN/Andr
 ---
 
 ### Prepared working packages (ready to be picked up)
-* Switch from Google Location Service (Google Play Service) to another API
+
 * Implement the use of other public Cell-Tower Databases API‘s
 * We are preparing further working packages of this [Detection List](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/230) As soon as they are ready, we will add them to this list.
