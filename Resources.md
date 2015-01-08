@@ -3,7 +3,7 @@ Useful resources for developers to make AIMSICD even more awesome!
 ### Index of Resources
 
 * [Data of a busted IMSI-Catcher from Oslo, Norway](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Resources#data-of-a-busted-imsi-catcher-from-oslo-norway)
-* [Android UI/UX](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Resources#android-ui-ux)
+* [Android UI/UX](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Resources#android-uiux)
 * [Android Icons](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Resources#android-icons)
 
 ---
