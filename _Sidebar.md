@@ -19,12 +19,12 @@
 * [About AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/About-AIMSICD)
 
 **Important Functions**
-* [Cell Tracking](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Tracking)
+* [Cell Monitoring](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Monitoring)
 * [Cell Information](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Information)
-* [AT Command Processor](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/AT-Command-Processor)
+* [AT Command Interface](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/AT-Command-Interface)
 * [Database Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Database-Viewer)
-* [Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Map-Viewer)
-* [Special SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Special-SMS)
+* [Antenna Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Antenna-Map-Viewer)
+* [Silent/Stealth SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Special-SMS)
 
 **Developers**
 * [Development Status](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status)
