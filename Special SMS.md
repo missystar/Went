@@ -2,7 +2,13 @@ You already know the normal SMS you receive from friends and family once in a wh
 
 **Type0 / Silent SMS / Stealth SMS / Ping SMS**
 
-Law enforcement agencies are very often [see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html) sending out so-called "Silent SMS" (also called Stealth SMS / Ping SMS), which is is a **Type0 SMS**. See our [Glossary of Terms](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silentstealth-sms) for a more detailed description.
+Law enforcement agencies are very often [see this German article](http://www.heise.de/newsticker/meldung/Zoll-BKA-und-Verfassungsschutz-verschickten-2010-ueber-440-000-stille-SMS-1394593.html) sending out so-called "Silent SMS" (also called Stealth SMS / Ping SMS), which is is a **Type0 SMS**.
+
+---
+
+See our [Glossary of Terms](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silentstealth-sms) for a more detailed description.
+
+---
 
 Silent/Stealth SMS are specified in GSM 03.40 as follows:
 >A short message type 0 indicates that the ME must acknowledge receipt of the short message but may discard its contents.
@@ -33,7 +39,7 @@ Now press the button 'PING' and you will be taken to the screen below, through w
 
 **Class0 / Flash SMS / Popup SMS / Alert SMS**
 
-This type of SMS is per standard designed to immediately display to the recipient in a pop-up window.
+This type of SMS is per standard designed to immediately display in a pop-up window.
 >A short message of class 0 indicates that this message is to be displayed on the MS immediately and a message delivery report is to be sent back to the SC. The message does not have to be saved in the MS or on the SIM card (unless selected to do so by the mobile user).
 
-On most phones such messages cannot be saved. Those SMS are not dangerous. We're **NOT** adding any detection mechanism for stuff which is popping up on your screen anyway.
+On most phones such messages cannot be saved. Those SMS are not dangerous. We're **NOT** adding any detection mechanism for stuff which is popping up on your screen.
