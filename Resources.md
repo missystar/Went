@@ -8,7 +8,7 @@ Useful resources for developers to make AIMSICD even more awesome!
 
 ---
 
-#### Data of a [busted IMSI-Catcher](https://www.aftenposten.no/meninger/kommentarer/Derfor-publiserer-Aftenposten-hele-datagrunnlaget-for-mobilspionasje-sakene-7849555.html) from Oslo, Norway
+#### Data of a [busted IMSI-Catcher](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.aftenposten.no%2Fmeninger%2Fkommentarer%2FDerfor-publiserer-Aftenposten-hele-datagrunnlaget-for-mobilspionasje-sakene-7849555.html&edit-text=) from Oslo, Norway
 
 * [Raw Source Data as ZIP](http://mm.aftenposten.no/2015/01/05-mobov/files/source.zip)
 * [Processed as Excel Spreadsheed](http://mm.aftenposten.no/2015/01/05-mobov/files/csv.zip)
