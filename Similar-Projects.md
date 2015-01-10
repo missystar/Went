@@ -4,9 +4,19 @@ Of course we've already reached out to these projects in an attempt to join forc
 
 ---
 
+**Software Projects**
+
 * [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
 * [darshak](https://github.com/darshakframework/darshak)
-* [IMSI Catcher Catcher (ICC)](http://www.heise.de/ct/artikel/Digitale-Selbstverteidigung-mit-dem-IMSI-Catcher-Catcher-2303215.html) (IMSI-Catcher Network, not released yet)
-* [Portable IMSI-Catcher Detector](https://github.com/Woazboat/portable-imsi-catcher-detector) (Hardware Project)
 * [Spidey](https://github.com/jtwarren/spidey)
 * [CatcherCatcher](https://opensource.srlabs.de/projects/mobile-network-assessment-tools/wiki/CatcherCatcher)
+
+---
+
+**Hardware Projects**
+
+* [Ask Hackaday: Stopping The StingRay](http://hackaday.com/2014/12/23/ask-hackaday-stopping-the-stingray/)
+* [Portable IMSI-Catcher Detector](https://github.com/Woazboat/portable-imsi-catcher-detector)
+* [IMSI Catcher Catcher (ICC)](http://www.heise.de/ct/artikel/Digitale-Selbstverteidigung-mit-dem-IMSI-Catcher-Catcher-2303215.html)
+
+---
