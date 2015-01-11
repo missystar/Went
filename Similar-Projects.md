@@ -20,3 +20,16 @@ Of course we've already reached out to these projects in an attempt to join forc
 * [IMSI Catcher Catcher (ICC)](http://www.heise.de/ct/artikel/Digitale-Selbstverteidigung-mit-dem-IMSI-Catcher-Catcher-2303215.html)
 
 ---
+
+**Buyable (closed source) Hardware**
+
+* [GSMK CryptoPhone](http://www.cryptophone.de)
+* [ESD CryptoPhone](http://esdcryptophone.com/)
+
+:warning: Carefully evaluate if you want to buy anything there!
+
+>ESD America is often called upon to supply specialized ISR equipment for government customers globally. Additionally in 2014 we received a sole source contract to locate equipment internationally for use with allied nations for the global war on terror.
+
+* [XCell Stealth Phone](http://x-cellular.com/)
+
+---
