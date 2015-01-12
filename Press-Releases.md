@@ -11,6 +11,7 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 * Show Hacker News: [Fight against spying on your Smartphone!](https://news.ycombinator.com/item?id=8581086)
 * Vocativ: [New App Lets You Know When the Government Is Spying on You](http://www.vocativ.com/usa/nat-sec/aimsicd/)
 * Pravokator: [On Mobile Phone Security](https://pravokator.si/index.php/2014/06/02/on-mobile-phone-security/)
+* Dangerous Prototypes: [Open source Android IMSI-Catcher Detector](http://dangerousprototypes.com/2015/01/09/open-source-android-imsi-catcher-detector/)
 
 **German:**
 
