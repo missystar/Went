@@ -6,9 +6,9 @@ Furthermore, you will be prompted to enable Location Services:
 
 ![LocationServices-Disabled](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/LocationServices_Disabled.png)
 
-To start monitoring Cell Data, just press the Monitoring Button shown here:
+To start monitoring Cell Data, just press the Button marked in blue:
 
-![Monitoring Button](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/Monitoring_Button.png)
+![Tracking Buttons](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/SCREENSHOTS/Tracking_Buttons.png)
 
 If you just enabled "Monitoring Cell Details" for protection, it looks like this:
 
