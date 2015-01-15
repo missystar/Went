@@ -14,7 +14,6 @@
 * [Disclaimer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Disclaimer)
 * [Main Screen](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Main-Screen)
 * [Navigation Drawer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Navigation-Drawer)
-* [Settings Menu](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Settings-Menu)
 * [Preferences](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Preferences)
 * [About AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/About-AIMSICD)
 
