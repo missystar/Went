@@ -13,6 +13,7 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 * Pravokator: [On Mobile Phone Security](https://pravokator.si/index.php/2014/06/02/on-mobile-phone-security/)
 * Dangerous Prototypes: [Open source Android IMSI-Catcher Detector](http://dangerousprototypes.com/2015/01/09/open-source-android-imsi-catcher-detector/)
 * Hackaday: [Links January 2015](http://hackaday.com/2015/01/11/hackaday-links-january-11-2015/) - [Twitter post](https://twitter.com/HackadayPrize/status/554674466589265920) - [AIMSICD on Hackaday](https://hackaday.io/project/3824-android-imsi-catcher-detector)
+* PrivacySOS: [How to defeat FBI or police 'stingray' surveillance](http://privacysos.org/node/1637)
 
 **German:**
 
