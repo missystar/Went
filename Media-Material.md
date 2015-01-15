@@ -9,6 +9,7 @@ When spreading the link to our Project, please **ONLY** use these official links
 * Website: https://secupwn.github.io/Android-IMSI-Catcher-Detector/
 * Project: https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/
 * Shorter: http://git.io/K5UL8Q (please do not use other URL shorteners)
+* Twitter: https://twitter.com/AIMSICD
 
 ---
 
