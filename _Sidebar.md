@@ -34,6 +34,7 @@
 
 **Support**
 * [FAQ](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ)
+* [Contact](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Contact)
 * [Problems](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Submitting-Issues)
 * [Donations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Anonymous-Donations)
 
