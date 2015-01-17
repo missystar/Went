@@ -1,5 +1,13 @@
 Welcome to our page of press releases and articles about us. Enjoy reading!
 
+**German**
+
+* **Piratenpartei: [Digitale Selbstverteidigung: Mit dem Handy gegen IMSI-Catcher](https://www.piratenpartei.de/2014/11/15/digitale-selbstverteidigung-mit-dem-handy-gegen-imsi-catcher/)**
+* Kuketz IT-Security Blog: [IMSI-Catcher Erkennung für Android – AIMSICD](http://www.kuketz-blog.de/imsi-catcher-erkennung-fuer-android-aimsicd/)
+* Zeit Online: [Achtung, Handyfänger](http://www.zeit.de/digital/mobil/2014-09/mobilfunk-imsi-catcher-handy/) (wir sind auf [Seite 3](http://www.zeit.de/digital/mobil/2014-09/mobilfunk-imsi-catcher-handy/seite-3))
+* Datenschmutz Wiki: [Nachweis eines IMSI-Catchers](http://www.datenschmutz.de/moin/IMSI-Catcher#Nachweis_eines_IMSI-Catchers)
+* Der Tutonaut: [Mobilfunk-Spione entlarven mit Android IMSI-Catcher Detector](http://www.tutonaut.de/tipp-mobilfunk-spione-entlarven-mit-android-imsi-catcher-detector.html)
+
 **English**
 
 * International Business Times: [Espionage on phones of norwegian politicians](http://www.ibtimes.co.uk/newspaper-discovers-someone-listening-norwegian-politicians-phone-calls-1479385)
@@ -16,14 +24,6 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 * PrivacySOS: [How to defeat FBI or police 'stingray' surveillance](http://privacysos.org/node/1637)
 * Spybusters: [New App to Detect Fake Cell Phone Towers](http://spybusters.blogspot.de/2014/11/new-app-to-detect-fake-cell-phone-towers.html)
 
-**German:**
-
-* Piratenpartei: [Digitale Selbstverteidigung: Mit dem Handy gegen IMSI-Catcher](https://www.piratenpartei.de/2014/11/15/digitale-selbstverteidigung-mit-dem-handy-gegen-imsi-catcher/)
-* Kuketz IT-Security Blog: [IMSI-Catcher Erkennung für Android – AIMSICD](http://www.kuketz-blog.de/imsi-catcher-erkennung-fuer-android-aimsicd/)
-* Zeit Online: [Achtung, Handyfänger](http://www.zeit.de/digital/mobil/2014-09/mobilfunk-imsi-catcher-handy/) (wir sind auf [Seite 3](http://www.zeit.de/digital/mobil/2014-09/mobilfunk-imsi-catcher-handy/seite-3))
-* Datenschmutz Wiki: [Nachweis eines IMSI-Catchers](http://www.datenschmutz.de/moin/IMSI-Catcher#Nachweis_eines_IMSI-Catchers)
-* Der Tutonaut: [Mobilfunk-Spione entlarven mit Android IMSI-Catcher Detector](http://www.tutonaut.de/tipp-mobilfunk-spione-entlarven-mit-android-imsi-catcher-detector.html)
-
-**Spanish:**
+**Spanish**
 
 * Seguridad Informatica: [Android IMSI-Catcher-Detector AIMSICD](http://seguridadinformatica.ga/android-imsi-catcher-detector-aimsicd/)
