@@ -28,3 +28,4 @@ This is our collection of recommended articles and sites. Check out our [PAPERS]
 * [Telefoniert nach Hause](https://www.telefoniert-nach-hause.de) - Wiki about hard- and software contacting third parties
 * [DEF CON 22: Am I Being Spied On?](https://www.youtube.com/watch?v=Bc7WoDXhcjM) - Awesome talk about fighting surveillance
 * [Buggedplanet](http://buggedplanet.info) - Great wiki about Measures used to intercept Communications
+* [Electrospaces](http://electrospaces.net) - Insights in SIGINT, Security and Top Level Telecommunications
