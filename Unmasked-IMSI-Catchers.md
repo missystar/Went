@@ -1,0 +1,1 @@
+On this page we are aiming to collect our findings about unmasked IMSI-Catchers that we have spotted in real life. If we make assumptions on this page, we will indicate so. Everything else are facts. Enjoy!
