@@ -243,6 +243,18 @@ While there exist many software interfaces, here are some leaked screenshots:
 
 ---
 
+#### PSC
+
+The following well-written comment has been found on [StackOverflow](http://stackoverflow.com/questions/9701777/cellid-and-lac-psc-for-3g-neighboring-cells-in-android):
+
+>In UMTS, the PSC is a kind of local cell identifier. It is "locally" unique in that all neighboring cell, as well as all neighbors of these cells, are guaranteed to have a different PSC than the current cell. It also means that you will not ever encounter two neighboring cells with the same PSC. However, there may well be cells with the same PSC located in different parts of the country.
+
+>The NeighboringCellInfo for a UMTS cell will only have the PSC set while all other fields (MCC, MNC, LAC, CID) will be invalid. The only way to find out these parameters would be to store all fields (MCC, MNC, LAC, CID as well as PSC) for every cell you encounter, then upon getting an "unknown" PSC look it up in the stored data. (You would need to filter for neighbors of the serving cell, as the PSC is only a locally unique ID, not a globally unique one).
+
+>As an alternative, the PSC of a cell along with the MCC/MNC/LAC/CID tuple of one of its neighbors is also a globally unique ID that you could use. Be aware, however, that each cell would have multiple such identifiers (one for each neighbor).
+
+---
+
 #### SIM Card
 
 >The Smart Card gives GSM phones their user identity. SIM Cards make it easy for phones to be rented or borrowed.
