@@ -39,7 +39,7 @@
 * [Donations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Anonymous-Donations)
 
 **Gimme moar!**
-* [Unmasked IMSI-Catchers](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Unmasked-IMSI-Catchers)
+* [Unmasked Spies](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Unmasked-Spies)
 * [Press Releases](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Press-Releases)
 * [Recommendations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Recommendations)
 * [Similar Projects](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Similar-Projects)
