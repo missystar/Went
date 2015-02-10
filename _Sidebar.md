@@ -1,4 +1,4 @@
-**General Information**
+**Project Information**
 * [Glossary of Terms](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Glossary-of-Terms)
 * [Requirements](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Requirements)
 * [General Overview](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/General-Overview)
@@ -39,7 +39,7 @@
 * [Donations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Anonymous-Donations)
 
 **Gimme moar!**
-* [Media Material](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Media-Material)
+* [Unmasked IMSI-Catchers](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Unmasked-IMSI-Catchers)
 * [Press Releases](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Press-Releases)
 * [Recommendations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Recommendations)
 * [Similar Projects](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Similar-Projects)
