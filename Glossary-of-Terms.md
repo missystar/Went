@@ -32,6 +32,7 @@ This page shall help you understand all the abbreviations we use in our project.
 * [MCC](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#mcc)
 * [MNC](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#mnc)
 * [MSISDN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#msisdn)
+* [PSC](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Glossary-of-Terms#psc)
 * [SIM Card](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#sim-card)
 * [Silent Call](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silent-call)
 * [Silent/Stealth SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silentstealth-sms)
