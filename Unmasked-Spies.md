@@ -1,4 +1,4 @@
-On this page we are aiming to collect our findings about IMSI-Catchers that we have spotted in real life. Note: Don't take anything here for granted. [Contact us](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Contact) if you have leaked information or pictures!
+On this page we are aiming to collect our findings about IMSI-Catchers that we have spotted in real life. Note: Don't take anything here for granted, we could be riding a dead horse here. [Contact us](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Contact) if you have leaked information or pictures!
 
 ---
 
@@ -15,13 +15,13 @@ On this page we are aiming to collect our findings about IMSI-Catchers that we h
 
 * All IMSI-Catcher vehicles I have seen so far had **detachable police lights**
 * Not sure if the antennas are also removable, but it certainly seems like so
-* Police is "lending" IMSI-Catchers to each other (IMSI-Catcher vehicles from **Leipzig (Germany)** have been seen during demonstrations in **Dresden (Germany)** and vice versa
+* Police is "lending" IMSI-Catchers to each other (IMSI-Catcher vehicles from **Leipzig (Germany)** have been seen at demonstrations in **Dresden (Germany)** and vice versa
 
 ---
 
 **License Plates**
 
-We know for a fact that every IMSI-Catcher has at least **10 (!) different license plates** and the license plate is likely changed every time the vehicle is moving to a new operating site. But for the pure fun of it, here are some real ones:
+We know for a fact that every IMSI-Catcher has at least **10 (!) different license plates** and the license plate is likely changed every time the vehicle is moving to a new operating site. But for the pure fun of it, here are some real ones (list will be expanded):
 
 * L 7136
 * L 7187
