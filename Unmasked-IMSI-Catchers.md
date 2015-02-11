@@ -1,1 +1,0 @@
-On this page we are aiming to collect our findings about unmasked IMSI-Catchers that we have spotted in real life. If we make assumptions on this page, we will indicate so. Everything else are facts. Enjoy and do not hesitate to [contact us](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Contact) if you have leaked information or pictures!
