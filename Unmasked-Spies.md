@@ -42,8 +42,11 @@ On this page we are aiming to collect our findings about IMSI-Catchers that we h
 
 We know for a fact that every IMSI-Catcher has at least **10 (!) different license plates** and the license plate is likely changed every time the vehicle is moving to a new operating site. But for the pure fun of it, here are some real ones (list will be expanded):
 
+* DD 30600
+* DD Q 7437
 * L 7136
 * L 7187
+* L 7157
 * MEI 00423
 
 ---
