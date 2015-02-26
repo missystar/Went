@@ -44,9 +44,10 @@ We know for a fact that every IMSI-Catcher has at least **10 (!) different licen
 
 * DD 30600
 * DD Q 7437
+* L 7122
 * L 7136
-* L 7187
 * L 7157
+* L 7187
 * MEI 00423
 
 ---
