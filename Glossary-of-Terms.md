@@ -1,6 +1,6 @@
 [![Glossary of Terms](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Glossary_Header.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
-This page shall help you understand all the abbreviations we use in our project and has been created with the friendly help of [![X-Cell Technologies](http://x-cellular.com/images/logo.png)](http://x-cellular.com)
+This page shall help you understand all the abbreviations we use in our project.
 
 ### Index of Terms
 
@@ -342,3 +342,7 @@ According estimates made by whistleblower William Binney, a former director of t
 >The method of operation is based on two vehicles. First vehicle with the interception system that forces the target phone to send continues signal transmission. The second vehicle is deployed with the Interceptor and location components. The direction to target is displayed as a compass pointer and the relative signal strength is shown as a bar graph and numerically. The audio tone increases in frequency as Interceptor gets closer to the target giving a clear warning of a close encounter.
 
 [![Cell Phone Location](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Cell_Phone_Location.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+
+---
+Certain Images and texts were kindly provided by
+[![X-Cell Technologies](http://x-cellular.com/images/logo.png)](http://x-cellular.com)
