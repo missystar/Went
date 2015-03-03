@@ -9,6 +9,8 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 * Der Tutonaut: [Mobilfunk-Spione entlarven mit Android IMSI-Catcher Detector](http://www.tutonaut.de/tipp-mobilfunk-spione-entlarven-mit-android-imsi-catcher-detector.html)
 * Privacy-Handbuch: [Schutz gegen Überwachung mittels IMSI-Catcher](https://privacy-handbuch.de/handbuch_75.htm)
 
+---
+
 **English**
 
 * International Business Times: [Espionage on phones of norwegian politicians](http://www.ibtimes.co.uk/newspaper-discovers-someone-listening-norwegian-politicians-phone-calls-1479385)
@@ -24,6 +26,8 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 * Hackaday: [Links January 2015](http://hackaday.com/2015/01/11/hackaday-links-january-11-2015/) - [Twitter post](https://twitter.com/HackadayPrize/status/554674466589265920) - [AIMSICD on Hackaday](https://hackaday.io/project/3824-android-imsi-catcher-detector)
 * PrivacySOS: [How to defeat FBI or police 'stingray' surveillance](http://privacysos.org/node/1637)
 * Spybusters: [New App to Detect Fake Cell Phone Towers](http://spybusters.blogspot.de/2014/11/new-app-to-detect-fake-cell-phone-towers.html)
+
+---
 
 **Spanish**
 
