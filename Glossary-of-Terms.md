@@ -1,6 +1,6 @@
 [![Glossary of Terms](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Glossary_Header.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
-This page shall help you understand all the abbreviations we use in our project.
+This page shall help you understand all the abbreviations we use in our project and has been created with the friendly help of [![X-Cell Technologies](http://x-cellular.com/images/logo.png)](http://x-cellular.com)
 
 ### Index of Terms
 
