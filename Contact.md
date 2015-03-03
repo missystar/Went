@@ -6,9 +6,9 @@ Our international team is changing from time to time and we'd like to avoid havi
 |[Ueland](http://h3x.no/)                                        | Norway      |      Bug Smashing Hammer     |
 |[tobykurien](http://tobykurien.com/)                            | South Africa|        Code-Monkey           |
 |[d-mariano](mailto:dave.mariano1991@gmail.com)                  | Canada      | Time Travelling Code-Beaver  |
+|[scintill](mailto:joey@joeyhewitt.com)                          | :us:        |       Cryptography Freak     |
 |[He3556](mailto:info@dm-development.de)                         | :de:        |    Vulnerability Analyzer    |
 |[Sgt-Obst](http://forum.xda-developers.com/member.php?u=5102584)| :de:        |      Graphical Designer      |
 |[andr3jx](mailto:9414f52d@opayq.com)                            | :de:        | Chief Cook and Bottle Washer |
-|[scintill](mailto:joey@joeyhewitt.com)                          | :us:        |       Cryptography Freak     |
 |[kairenken](mailto:mailto:code@koffeinsucht.de)                 | :de:        |       Security Engineer      |
 |[SecUpwN](mailto:SecUpwN@protonmail.ch)                         | :de:        |         Public Speaker       |
