@@ -344,5 +344,4 @@ According estimates made by whistleblower William Binney, a former director of t
 [![Cell Phone Location](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Cell_Phone_Location.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 ---
-Certain Images and texts were kindly provided by
-[![X-Cell Technologies](http://x-cellular.com/images/logo.png)](http://x-cellular.com)
+Certain Images and texts were kindly provided by [X-Cell Technologies](http://x-cellular.com).
