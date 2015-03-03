@@ -5,7 +5,7 @@ AIMSICD has tons of cool features, but you might be confused or worry why we nee
 **Required Permissions**
 
 ```java
- <!-- PERMISSIONS ARE SORTED BY AOS PERMISSION AND 3rd PARTY ACCESS. KEEP THIS! -->
+<!-- PERMISSIONS ARE SORTED BY AOS PERMISSION AND 3rd PARTY ACCESS. KEEP THIS! -->
 <!-- https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Permissions -->
 
 <!-- Normal Android third-party permissions -->
