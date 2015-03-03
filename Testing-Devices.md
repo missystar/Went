@@ -21,18 +21,22 @@ Sony Xperia Z | C6603 | MSM8960 | *SoC* | *stock* | KK4.4.4 | 19 | Enforcing | x
 Sony Xperia Z1 Compact |  | MSM8974 | *SoC* | *stock* | KK4.4.4 | 19 |  | scintill | QCRIL1.0
 Wiko Darkmoon | ? | MT6582 | *SoC* | *stock* | JB4.2.2 | 17 | *NE*| andr3jx | ? 
 
+Where:
+ * *NE* = Not Enabled or Implemented
+ * *SoC* = System on a Chip, which means that the Baseband Processor (BP) is integrated into the same chip as the Application Processor (AP)
 
-| Notes | Description |
-|:----- |:----------- |
-*NE* | Not Enabled or Implemented
-*SoC* | System on a Chip, which means that the Baseband Processor (BP) is integrated into the same chip as the Application Processor (AP)
-SIPCv2.0 | "Samsung RIL (IPC) v2.0"
-QRIL1.0 | "Qualcomm RIL 1.0"
-XRIL1.0 | "android infineon xgold-ril 1.0"
-XRIL1.18 | "android xgold-ril 1.18"
-MRIL1.0 | "android moto-ril 1.0"
-MTG1.0 | "mtk gemini ril 1.0"
-BRCM1 | "BRCM android bcm-ril-090728"
+| Notes | Description (gsm.version.ril-impl) | Manufacturer |
+|:----- |:---------------------------------- |:------------ |
+SIPCv2.0 | "Samsung RIL (IPC) v2.0" | Intel/Infinion
+QRIL1.0 | "Qualcomm RIL 1.0" | Qualcomm
+XRIL1.0 | "android infineon xgold-ril 1.0" | Intel/Infinion
+XRIL1.18 | "android xgold-ril 1.18" | Intel/Infinion
+MRIL1.0 | "android moto-ril 1.0" | ?
+MTG1.0 | "mtk gemini ril 1.0" | Mediatek
+BRCM1 | "BRCM android bcm-ril-090728" | Broadcom
+
+
+Commonly used serial devices for AT Command Processor access:
 
 | Chip | AT access path | UART/cmdline |
 |:---- |:-------------- |:------------ |
