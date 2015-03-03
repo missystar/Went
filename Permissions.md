@@ -5,6 +5,10 @@ AIMSICD has tons of cool features, but you might be confused or worry why we nee
 **Required Permissions**
 
 ```java
+ <!-- PERMISSIONS ARE SORTED BY AOS PERMISSION AND 3rd PARTY ACCESS. KEEP THIS! -->
+<!-- https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Permissions -->
+
+<!-- Normal Android third-party permissions -->
 <uses-permission android:name="android.permission.ACCESS_SUPERUSER"/>
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
 <uses-permission android:name="android.permission.ACCESS_COARSE_UPDATES"/>
@@ -21,6 +25,7 @@ AIMSICD has tons of cool features, but you might be confused or worry why we nee
 <uses-permission android:name="android.permission.RECEIVE_SMS"/>
 <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
 <!-- NEW -->
 <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED"/>
 <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
@@ -34,9 +39,11 @@ AIMSICD has tons of cool features, but you might be confused or worry why we nee
 <uses-permission android:name="android.permission.VIBRATE"/>
 <uses-permission android:name="android.permission.WAKE_LOCK"/>
 <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+
 <!-- SPECIAL PERMISSIONS TO BE ADDED AFTER THIS LINE. /> -->
 <!-- To list all available (used) Android permissions on a device, use:
 # `pm list permissions -g` -->
+
 <!-- These are Android System (non 3rd party) Permissions -->
 <uses-permission android:name="android.permission.CONTROL_LOCATION_UPDATES"/>
 <uses-permission android:name="android.permission.DEVICE_POWER"/>
@@ -50,11 +57,13 @@ AIMSICD has tons of cool features, but you might be confused or worry why we nee
 <uses-permission android:name="android.permission.MODIFY_PHONE_STATE"/>
 <uses-permission android:name="android.permission.SET_PROCESS_LIMIT"/>
 <uses-permission android:name="android.permission.WRITE_APN_SETTINGS"/>
-<uses-permission android:name="android.permission.WRITE_GSERVICES"/>
+<!--uses-permission android:name="android.permission.WRITE_GSERVICES"/ -->
 <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+
 <!-- possibly deprecated -->
 <uses-permission android:name="android.permission.RECEIVE_EMERGENCY_BROADCAST"/>
 <uses-permission android:name="android.permission.READ_NETWORK_USAGE_HISTORY"/>
+
 <!-- These are OEM / Samsung Permissions -->
 <uses-permission android:name="android.phone.receiveDetailedCallState"/>
 <uses-permission android:name="com.android.permission.HANDOVER_STATUS"/>
@@ -73,6 +82,7 @@ AIMSICD has tons of cool features, but you might be confused or worry why we nee
 <!-- uses-permission android:name="diagandroid.app.receiveDetailedApplicationState"/>
 <uses-permission android:name="diagandroid.data.receivePDPContextState"/>
 <uses-permission android:name="diagandroid.phone.receiveDetailedCallState"/ -->
+
 <!-- May be needed (in the future) to access SIM related functions -->
 <uses-permission android:name="org.simalliance.openmobileapi.SMARTCARD"/>
 ```
