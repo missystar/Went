@@ -8,10 +8,21 @@ When spreading the link to our Project, please **ONLY** use these official links
 
 * Website: https://secupwn.github.io/Android-IMSI-Catcher-Detector/
 * Project: https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/
-* Shorter: http://git.io/K5UL8Q (please do not use other URL shorteners)
 * Twitter: https://twitter.com/AIMSICD
 
 ---
+
+**Short URLs**
+
+* Website: http://tinyurl.com/AIMSICD
+* Release: http://git.io/xACj
+* Help us: http://git.io/APKi
+* GitHub: http://git.io/K5UL8Q
+* Issues: http://git.io/xlrw
+
+---
+
+**General Media**
 
 * Banners, QR-Codes, Stickers and Icons: [Promotion Material](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/tree/master/PROMOTION)
 * What we want to accomplish here: [Application Goals](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#application-goals-please-read-carefully)
