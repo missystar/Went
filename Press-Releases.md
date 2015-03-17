@@ -14,6 +14,7 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 **English**
 
 * **XDA: [Detect, Avoid IMSI-Catcher Attacks with Android IMSI-Catcher Detector](http://www.xda-developers.com/android/detect-avoid-imsi-catcher-attacks-with-imsi-catcher-detector/)**
+* **Tea After Twelve: [Big Brother Is Watching You - an Interview with AIMSICD](http://www.tea-after-twelve.com/all-issues/issue-02/issue-02-overview/chapter2/big-brother-is-watching-you/)**
 * International Business Times: [Espionage on phones of norwegian politicians](http://www.ibtimes.co.uk/newspaper-discovers-someone-listening-norwegian-politicians-phone-calls-1479385)
 * Wikipedia: [IMSI-Catcher Detection and Counter Measures](http://en.m.wikipedia.org/wiki/IMSI-catcher#Detection_and_counter_measures)
 * Prism-Break: [Android IMSI-Catcher Detector (AIMSICD)](http://prism-break.org/en/projects/android-imsi-catcher-detector-aimsicd/)
