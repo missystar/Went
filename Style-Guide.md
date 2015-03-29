@@ -15,5 +15,34 @@ This is our Style Guide to reflect our Corporate Design within our App.
 
 ---
 
-(content will be added after creation of this page)
+#### Logo
 
+---
+
+#### Colors
+
+---
+
+#### Forms
+
+---
+
+#### Proportions and Formats
+
+---
+
+#### Corporate Fonts
+
+---
+
+#### Secondary Style Elements
+
+---
+
+#### Layout
+
+---
+
+#### Illustration Styles
+
+---
