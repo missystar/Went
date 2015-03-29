@@ -29,6 +29,7 @@
 * [Development Status](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status)
 * [Testing Devices](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Testing-Devices)
 * [Contributing](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/CONTRIBUTING.md)
+* [Style Guide](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide)
 * [Resources](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Resources)
 * [Privacy](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Privacy)
 
