@@ -2,14 +2,14 @@ This is our Style Guide to reflect our Corporate Design within our App.
 
 ### Index of Contents
 
-* Logo
-* Colors
-* Forms
-* Proportions and Formats
-* Corporate Fonts
-* Secondary Style Elements
-* Layout
-* Illustration Styles
+* [Logo](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#logo)
+* [Fonts](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#fonts)
+* [Forms](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#forms)
+* [Colors](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#colors)
+* [Layout](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#layout)
+* [Formats](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#formats)
+* [Elements](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#elements)
+* [Illustrations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#illustrations)
 
 **Mindset:** Simple and intuitive, data is more important than looks.
 
@@ -19,7 +19,7 @@ This is our Style Guide to reflect our Corporate Design within our App.
 
 ---
 
-#### Colors
+#### Fonts
 
 ---
 
@@ -27,15 +27,8 @@ This is our Style Guide to reflect our Corporate Design within our App.
 
 ---
 
-#### Proportions and Formats
 
----
-
-#### Corporate Fonts
-
----
-
-#### Secondary Style Elements
+#### Colors
 
 ---
 
@@ -43,6 +36,14 @@ This is our Style Guide to reflect our Corporate Design within our App.
 
 ---
 
-#### Illustration Styles
+#### Formats
+
+---
+
+#### Elements
+
+---
+
+#### Illustrations
 
 ---
