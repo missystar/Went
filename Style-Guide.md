@@ -29,6 +29,11 @@ Our main App Icon is the red Status Icon indicating threat status `DANGER`. You 
 
 #### Forms
 
+* No rounded corners
+* Round Icons without outline (except Status Icons)
+* Square Buttons if text is used
+* Round Buttons if Icons or signs are used
+
 ---
 
 
@@ -38,13 +43,20 @@ Our main App Icon is the red Status Icon indicating threat status `DANGER`. You 
 
 #### Layout
 
+* Careful use of space, don't leave great spaces
+
 ---
 
 #### Formats
 
+* Flat Design (no shadows, no bevel, no shining edges)
+* Rectangular prisms (if possible), 100% width for boxes and tables 
+
 ---
 
 #### Elements
+
+* Thin lines between text blocks and in the Navigation Drawer
 
 ---
 
