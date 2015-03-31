@@ -45,6 +45,9 @@ Our main App Icon is the red Status Icon indicating threat status `DANGER`. You 
 |       | #ffec5a |                                    Akzent Color, text of box headlines, buttons                                   |
 |       | #929292 |                        Describing text of values, "unimportant" text (for better overview)                        |
 |       | #f9f9f9 |                                       "Important" values (good readability)                                       |
+|       | #ab2424 |             Map Marker (single tower), text color for alerts of all kind (or as box background color)             |
+|       | #35b838 |                                              Map Marker (more towers)                                             |
+|       | #2668a0 |                           Neutral color, use for small objects (own position in the map)                          |
 
 ---
 
