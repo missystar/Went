@@ -36,8 +36,15 @@ Our main App Icon is the red Status Icon indicating threat status `DANGER`. You 
 
 ---
 
-
 #### Colors
+
+| COLOR |   #HEX  |                                                    DESCRIPTION                                                    |
+|:-----:|:-------:|:-----------------------------------------------------------------------------------------------------------------:|
+|       | #111111 |                                      Background color: Screen and Navigation                                      |
+|       | #333333 | Outline of boxes, background of box header, background of Navigation Drawer, form fields (text input, select box) |
+|       | #ffec5a |                                    Akzent Color, text of box headlines, buttons                                   |
+|       | #929292 |                        Describing text of values, "unimportant" text (for better overview)                        |
+|       | #f9f9f9 |                                       "Important" values (good readability)                                       |
 
 ---
 
@@ -56,10 +63,12 @@ Our main App Icon is the red Status Icon indicating threat status `DANGER`. You 
 
 #### Elements
 
-* Thin lines between text blocks and in the Navigation Drawer
+* Thin lines color `#333333` between text blocks and in the Navigation Drawer
 
 ---
 
 #### Illustrations
+
+* 1 Color Icons, flat and minimalistic
 
 ---
