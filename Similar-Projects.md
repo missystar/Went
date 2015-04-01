@@ -27,6 +27,7 @@ Of course we've already reached out to these projects in an attempt to join forc
 * [XCell Stealth Phone](http://x-cellular.com/)
 * [GSMK CryptoPhone](http://www.cryptophone.de)
 * [ESD CryptoPhone](http://esdcryptophone.com/)
+* [ESD Overwatch](http://esdoverwatch.com/)
 
 :warning: Carefully evaluate if you want to buy anything there!
 
