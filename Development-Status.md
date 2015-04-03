@@ -1,5 +1,5 @@
 This is the **current** Development Status of our Android IMSI-Catcher Detector.
-* [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#development-roadmap) with [ALPHA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#alpha-stage) & [BETA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#beta-stage) stage as well as [GOLDEN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#golden-age) age.
+* [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#development-roadmap) with [ALPHA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#alpha-stage) & [BETA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#beta-stage) stage as well as [GOLDEN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#golden-age) age.
 
 [![DevCycle](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/e9efca94330d278ca4a3dd5429701638a44e0f98/DOCUMENTATION/DevCycle.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status/)
 
