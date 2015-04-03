@@ -43,3 +43,57 @@ Send AT-Commands to the Baseband Processor [#23](https://github.com/SecUpwN/Andr
 
 * Implement the use of other public Cell-Tower Databases API‘s
 * We are preparing further working packages of this [Detection List](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/230) As soon as they are ready, we will add them to this list.
+
+---
+
+### Development Roadmap
+
+In order to accomplish implementation of the [detection methods](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/230), we'll need to overcome some of the deeply worrying and unfounded AOS limitations, as imposed by Googles API, in regard to relevant network variables and data. These include highly relevant and important things such as displaying the SIM/phone Ciphering Indicator, which tells you if your calls are being encrypted or not. This has been a required 3GPP feature for the last 15 years, but which Google and most Mobile Network providers have choosen to mostly ignore, although it has been [requested by users since 2009](https://code.google.com/p/android/issues/detail?id=5353). Another is finding the *Timing Advance* (TA) and various Network Timers, like those used in *Radio Resource Control* ([RRC](http://en.wikipedia.org/wiki/Radio_Resource_Control)), that can give very useful information regarding the status of the connections your phone is making.
+
+All this can be fairly easily accomplished, given that we can have access to some of the lower level radio related information coming from the *Baseband Processor* (BP). But that is exactly our challenge. All the software and information about the interfaces providing this, is hidden from the user and developers by a huge amount of proprietary OEM *Non Disclosure Agreements* (NDA). But in the last years, there has been great progress in reverse enginering these protocols and interfaces. The use of these open source tools are the basis of our successful development of this App. 
+
+**Summary of the main development stages:**
+
+**A.** Using all available network data, implement the correct detection matrix consisting of a number of items, that each participate in detection of abnormal or abusive network bahaviour. This is the application *[Beta](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/README.md#beta-stage)* stage. 
+
+**B.** Using all possible interfaces to obtain the many variables in (A). These interfaces include:
+ - QMI/Sahara protocols for using on Qualcomm based devices (*Gobi3000, qmilib*)
+ - Samsung IPC protocol for using on Intel XMM (XGOLD) based devices (*xgoldmon, Replicant*)
+ - Direct use of AOS standard RIL interfaces (*/dev/rild* and */dev/rild-debug*)
+ - SIM ICC interface for accessing SIM EF filesystem to provide deep access (*SEEK*)
+ - Scraping *Service Mode* menus for relevant radio info
+ - Scrape `logcat -b radio` for relevant radio info 
+ - Use AT Command Processor (ATCoP) interface to get/set network parameters/bahaviour
+
+**C.** Make (A) and (B) transparent across as many Android devices as possible.
+
+##### ALPHA stage:
+
+Make a baseline App that contains the basic functionality for collecting and presenting all available network variables and the detection results.
+
+* a. Collects relevant RF related variables using public AOS API calls. (LAC, CID, TA etc)
+* b. Collects detailed BTS information from a pulic database such as *OpenCellID* or *Mozilla Location Services*
+* c. Save everything in our SQLite database
+* d. Detect hidden/silent (Type-0) SMS's
+* e. Detect hidden App installations (Googles INSTALL/REMOVE_ASSET)
+
+##### BETA stage:
+
+Improve ALPHA for leveraging and tune our detection matrix/algorithm.
+* f. Implement **any** of the detection schemes we have
+* g. Implement **any** of the interfaces in (**B**) 
+* h. Test AIMSICD in a real IMSI-catcher environment 
+* i. Fine-tune our detection matrix
+* j. Implement our first counter interception measures
+* k. Planning alternative data routes through MESH-like networking, when cellular services have been interrupted
+* l. Planning swarm-wise decision-based cellular service analysis (advanced BTS statistics)
+
+##### GOLDEN age:
+
+This stage is essentially the completion of this project. However, we expect that long before this happens, the entire network industry will have changed to such a degree that many new privacy and security issues will have arised. Thus, we will likely have more things to add and maintain in this project. We are of the current understanding that this project is a never ending story, all for the peoples benefit and a more privacy oriented future.
+* m. Implement **all** of the detection schemes we have
+* n. Implement **all** of the interfaces in (B) 
+* o. Test AIMSICD in a real IMSI-catcher environment
+* p. Continue Fine-tune our detection matrix
+* q. Complete alternative data routes using MESH-like networking, when cellular services have been interrupted
+* r. Complete advanced statistical analysis of fake BTS towers
