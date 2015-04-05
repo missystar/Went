@@ -1,6 +1,6 @@
 # THANK YOU FOR DONATING!
 
-Official guide on how to make (anonymous) donations to support development of AIMSICD.
+Official guide on how to make (anonymous) donations to support development.
 
 ---
 
