@@ -1,4 +1,6 @@
-Our international team is changing from time to time and we'd like to avoid having to always edit our `README`. This page lists our current team members. Get in touch! :love_letter: 
+Our international team is changing from time to time and we'd like to avoid having to always edit our `README`. This page lists our current team members. Get in touch! :love_letter:
+
+**Feel invited to chat with us on [HipChat](https://www.hipchat.com/gWZq5Zyaa)!**
 
 |                              Developer                         |  Location   |              Task            |
 |:--------------------------------------------------------------:|:-----------:|:----------------------------:|
