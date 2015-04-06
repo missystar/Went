@@ -4,7 +4,7 @@ Our international team is changing from time to time and we'd like to avoid havi
 
 |                              Developer                         |  Location   |              Task            |
 |:--------------------------------------------------------------:|:-----------:|:----------------------------:|
-|[E:V:A](mailto:a3841c3c@opayq.com)                              | Lithuania   |       Project Initiator      |
+|[E:V:A](mailto:5457a848@opayq.com)                              | Lithuania   |       Project Initiator      |
 |[Ueland](http://h3x.no/)                                        | Norway      |      Bug Smashing Hammer     |
 |[tobykurien](http://tobykurien.com/)                            | South Africa|          Code-Monkey         |
 |[d-mariano](mailto:dave.mariano1991@gmail.com)                  | Canada      | Time Travelling Code-Beaver  |
