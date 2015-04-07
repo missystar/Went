@@ -1,6 +1,6 @@
 # **Welcome to the AIMSICD wiki!**
 
-![AIMSICD-Banner](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/PROMOTION/AIMSICD-Banner_Small.png)
+![AIMSICD-Banner](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PROMOTION/AIMSICD-Banner_Small.png)
 
 **Please use the sidebar on the right to navigate through this WIKI.**
 
