@@ -44,7 +44,7 @@ This page shall help you understand all the abbreviations we use in our project.
 
 #### A5/0, A5/1, A5/2, A5/3, A5/4
 
-[![Ciphering](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Ciphering.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+[![Ciphering](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Ciphering.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 The GSM ciphering algorithm is called A5. For technical details and attacks see the [Cryptome GSM Files](http://cryptome.org/gsm-a5-files.htm). There are four variants of A5 in GSM, only the first three are widely deployed:
 
@@ -72,7 +72,7 @@ A5/4
 
 >In GSM cellular networks, an absolute radio-frequency channel number (ARFCN) is a code that specifies a pair of physical radio carriers used for transmission and reception in a land mobile radio system, one for the uplink signal and one for the downlink signal. This network parameter is used to force the cell phones to send registration requests to a false BTS (IMEI/IMSI-Catcher).
 
-[![ARFCN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/ARFCN.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+[![ARFCN](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/ARFCN.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 ---
 
@@ -92,7 +92,7 @@ A5/4
 
 >A broadcast control channel (BCCH) is a point to multipoint, unidirectional (downlink) channel used in the Um interface of the GSM cellular standard. The BCCH carries a repeating pattern of system information messages that describe the identity, configuration and available features of the base transceiver station (BTS).
 
-[![BCCH](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/BCCH.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+[![BCCH](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/BCCH.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 ---
 
@@ -106,7 +106,7 @@ A5/4
 
 >The Base Transceiver Station contains the equipment for transmitting and receiving radio signals (transceivers), antennas, and equipment for encrypting and decrypting communications with the base station controller (BSC).
 
-[![BTS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/BTS.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+[![BTS](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/BTS.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 ---
 
@@ -212,11 +212,11 @@ A5/4
 
 While there exist many software interfaces, here are some leaked screenshots:
 
-[![Taget Selection](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/IMSI-Catchers/Software/Target_Selection.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher-software)
-[![Target List](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DOCUMENTATION/IMSI-Catchers/Software/Target_List.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher-software)
-[![POI List](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/IMSI-Catchers/Software/POI_List.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher-software)
-[![Silent Call](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/IMSI-Catchers/Software/Silent_Call.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher-software)
-[![SMS Session](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/IMSI-Catchers/Software/SMS_Session.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher-software)
+[![Target Selection](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/Software/Target_Selection.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher-software)
+[![Target List](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/Software/Target_List.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher-software)
+[![POI List](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/Software/POI_List.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher-software)
+[![Silent Call](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/Software/Silent_Call.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher-software)
+[![SMS Session](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/Software/SMS_Session.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#imsi-catcher-software)
 
 ---
 
@@ -260,7 +260,7 @@ The following well-written comment has been found on [StackOverflow](http://stac
 
 >The Smart Card gives GSM phones their user identity. SIM Cards make it easy for phones to be rented or borrowed.
 
-[![SIM Card](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/SIM.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+[![SIM Card](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/SIM.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 ---
 
@@ -268,7 +268,7 @@ The following well-written comment has been found on [StackOverflow](http://stac
 
 >In terms of GSM interception, a silent call is a call originated from the GSM Interceptor to a specific IMEI/IMSI, in order to make correlations between IMEI/IMSI and MSISDN (Mobile Subscriber Integrated Services Digital Network-Number, which is actually the telephone number to the SIM card in a mobile/cellular phone). By using the silent call, an GSM Interceptor can find out a certain phone number alocated to a specific IMEI/IMSI. Silent calls are a result of process known as pinging. This is very similar to an Internet Protocol (IP) ping. A silent call cannot be detected by a phone user. Not to be confused with Spy Call, which mean listen to phone surroundings.
 
-[![Silent Call](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Silent_Call.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+[![Silent Call](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Silent_Call.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 ---
 
@@ -276,7 +276,7 @@ The following well-written comment has been found on [StackOverflow](http://stac
 
 Many foreign police and intelligence services use clandestine "Silent" SMS to locate suspects or missing persons. This method involves sending an SMS text message to the mobile phone of a suspect, an SMS that goes unnoticed and sends back a signal to the sender of the message.
 
-[![Silent/Stealth SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Silent%E2%81%84Stealth_SMS.gif)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+[![Silent/Stealth SMS](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Silent%E2%81%84Stealth_SMS.gif)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 >Also known as Type0-SMS, the Silent SMS uses an invisible return signal, or "ping". Developers from the Silent Services company, who created some of the first software for sending this type of SMS, explain: "The Silent SMS allows the user to send a message to another mobile without the knowledge of the recipient mobile's owner. The message is rejected by the recipient mobile, and leaves no trace. In return, the sender gets a message from a mobile operator confirming that the Silent SMS has been received."
 Silent SMS were originally intended to allow operators to ascertain whether a mobile phone is switched on and to "test" the network, without alerting the users. But now, intelligence services and police have found some other uses for the system. Neil Croft, a graduate of the Department of Computer Science at the University of Pretoria in South Africa, explains: "Sending a Silent SMS is like sending a normal SMS, except that the mobile does not see the message it has received. The SMS's information is modified, within the data coding scheme, so that the user who receives the message doesn't notice anything. A Silent SMS can help police to detect a mobile without the person concerned being aware of the request."
@@ -328,7 +328,7 @@ Silence too from the French telecoms operators SFR and Bouygues Telecom. Sebasti
 
 >For many cell tower networks, the pinpointing accuracy may be even greater, since directional antennae may be used on the tower, and thus the direction of the cell phone’s signal might be identifiable. With the signal direction plus the distance of the phone from the cell tower, accuracy might be pretty good, even with only two towers.
 
-[![Trangulation](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Triangulation.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+[![Trangulation](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Triangulation.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 >However, there are many places where there are fewer cell towers available, such as in the fringes of the cities and out in the country. If you have fewer than three cell towers available, pinpointing a mobile device can become a lot less precise. In cities where there are a lot more vertical structures which can be barriers to cell phone broadcasting and receiving, there have to be many more cell towers distributed in order to have good service. In the countryside, there are relatively fewer cell towers and a phone's signal may be picked up only by a single one at much greater distance. Those areas where a phone is only getting picked up by a single tower, and if it's equipped with only omnidirectional antennae, the accuracy becomes even less. In rural areas, coverage of the cell tower can vary from about a quarter of a mile to several miles, depending upon how many obstacles are blocking the tower's signal.
 
@@ -341,7 +341,7 @@ According estimates made by whistleblower William Binney, a former director of t
 
 >The method of operation is based on two vehicles. First vehicle with the interception system that forces the target phone to send continues signal transmission. The second vehicle is deployed with the Interceptor and location components. The direction to target is displayed as a compass pointer and the relative signal strength is shown as a bar graph and numerically. The audio tone increases in frequency as Interceptor gets closer to the target giving a clear warning of a close encounter.
 
-[![Cell Phone Location](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/Cell_Phone_Location.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+[![Cell Phone Location](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Cell_Phone_Location.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 ---
 Certain Images and texts were kindly provided by
