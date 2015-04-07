@@ -2,14 +2,14 @@ The Antenna Map Viewer is still a heavy work-in-process. Eventually, it is suppo
 
 The Antenna Map Viewer Preferences enable you to chose from 2 awesome styles:
 
-![MapViewer_Styles](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/MapViewer_Styles.png)
+![MapViewer_Styles](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/MapViewer_Styles.png)
 
 To make your choice easier, have a look at the current styles:
 
 **Normal**
 
-![MapStyle_Normal](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/MapStyle_Normal.png)
+![MapStyle_Normal](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/MapStyle_Normal.png)
 
 **Terrain**
 
-![MapStyle_Terrain](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/MapStyle_Terrain.png)
+![MapStyle_Terrain](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/MapStyle_Terrain.png)
