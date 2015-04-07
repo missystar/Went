@@ -19,6 +19,8 @@ This is the **current** Development Status of our Android IMSI-Catcher Detector.
 
 ### Application Goals
 
+Below goals are aimed to be reached with our [detection list](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/230):
+
 * Detect IMSI based device location tracking
 * Detect and prevent the use of false BTS towers used for illegal interception
 * Detect and prevent the use of broken ciphering algorithms (A5/1) during calls
