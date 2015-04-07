@@ -23,17 +23,17 @@ If AIMSICD intercepts Silent SMS (Type 0), you will see this Alert on your scree
 
 Additionally, this notification will be shown in your notification bar:
 
-![SilentSMS-Notification](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/SilentSMS-Notification.png)
+![SilentSMS-Notification](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/SilentSMS-Notification.png)
 
 ##### Self-Test: Sending a Silent SMS (Type 0)
 
 You can easily test if AIMSICD really can detect Silent SMS of Type 0 with the App [HushSMS](http://forum.xda-developers.com/showthread.php?t=1490484). Buy it [via PayPal](https://www.silentservices.de/products/android-hushsms/), then open HushSMS and access its main screen:
 
-![HushSMS](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS.png)
+![HushSMS](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/HushSMS.png)
 
 Now press the button 'PING' and you will be taken to the screen below, through which you can select different types of PING SMS. Select the second option `Use Silent Ping (Type 0)` and send it to your own number. HushSMS will then send out a Silent SMS (but without the option of revealing the location of your phone) to your own number.
 
-![HushSMS-Type0](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/HushSMS-Type0.png)
+![HushSMS-Type0](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/HushSMS-Type0.png)
 
 ---
 
