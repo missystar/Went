@@ -1,9 +1,36 @@
 This is the **current** Development Status of our Android IMSI-Catcher Detector.
-* [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#development-roadmap) with [ALPHA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#alpha-stage) & [BETA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#beta-stage) stage as well as [GOLDEN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#golden-age) age.
 
 [![DevCycle](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/DevCycle.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status/)
 
 :warning: Do **NOT** expect us to be moving as fast as we want to. Although we have a large fan base, many followers and have even been mentioned in numerous articles around the web, we clearly lack contributors. Either people are too scared, have "no time" or are simply too lazy. If **YOU** consider yourself to be different, prove it and [contribute](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/development/CONTRIBUTING.md)!
+
+---
+
+### Index
+
+* [Application Goals](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#application-goals)
+* [Already accomplished](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#already-accomplished)
+* [Working on right now](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#working-on-right-now)
+* [Prepared working packages](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#prepared-working-packages-ready-to-be-picked-up)
+* [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#development-roadmap)
+* Stages: [ALPHA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#alpha-stage), [BETA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#beta-stage) and [GOLDEN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#golden-age) age.
+
+---
+
+### Application Goals
+
+* Detect IMSI based device location tracking
+* Detect and prevent the use of false BTS towers used for illegal interception
+* Detect and prevent the use of broken ciphering algorithms (A5/1) during calls
+* Detect and prevent remote hidden application installation
+* Detect and prevent remote hidden SMS-based SIM attacks
+* Provide counter measures against tracking
+* Prevent leakage of sensitive GPS data
+* Provide swarm-wise-decision-based cellular service interruption
+* Provide secure wifi/wimax alternative data routes through MESH-like networking
+* Aims to be recommended and added to the [Guardian Project's list of secure Apps](https://guardianproject.info/apps)
+* Aims to be recommended by the [SSD Project of the Electronic Frontier Foundation](https://ssd.eff.org/)
+* Aims to be recommended by [Privacy International](https://www.privacyinternational.org/) (and like-minded organizations)
 
 ---
 
