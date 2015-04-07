@@ -12,18 +12,18 @@ The *Google Play Services* library must be installed in SDK Manager as this supp
 3. Install the latest *Android Studio* from [here](http://developer.android.com/sdk/installing/studio.html).
 4. When you start Android Studio, you'll see "Welcome to Android Studio" with several options. Here you choose to *Open Project* and then navigate to your GitHub synchronization directory where you have added AIMSICD, from (1).  
 
-![First AS load](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/MISC/AS_load_2.png)
+![First AS load](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/MISC/AS_load_2.png)
 
 This is especially true if you get an error message such as this one:
 
-![Missing .idea Error](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/MISC/AS_error_1.png)
+![Missing .idea Error](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/MISC/AS_error_1.png)
 
 5. The project will open immediately, but now you want to *close* it, so that you can return to the Welcome screen, this time you choose **Configure >> SDK Manager**. Here you select all API's related to API 17, which is our lowest supported API.
 6. For more details follow the setup instructions [here](http://developer.android.com/sdk/installing/index.html?pkg=studio).
 7. Now click on the sideways *Gradle* tab, on the right side of the IDE. This will open a new window, once in it, double click on *assembleRelease*. Check for build errors in the lower screen log window.
 8. If (7) copiles without errors, you can now build your own APK by clicking on the menu items: **Build >> Generate Signed APK**. This will ask you for 3 new passwords to be used in your "KeyStore" (1 master, 1 file, 1 APK alias). You may also add your credentials in [signing.properties](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/signing.properties) to enable [automatic signing](https://developer.android.com/tools/publishing/sign-auto).
 
-![generatesignedapk](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/MISC/APK-Signing.png)
+![Generate signed APK](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/MISC/APK-Signing.png)
 
 :cherries: If all of the above succeeded, push the App to your device and run.
 
