@@ -1,6 +1,6 @@
 This is our non-geeky page explaining everything in easy words. Enjoy!
 
-![Header](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DOCUMENTATION/GeneralOverview_Header.jpg)
+![Header](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/GeneralOverview_Header.jpg)
 
 In principle we need to identify the differences between standard operations of legit cell networks and the behavior of fake Base Stations (IMSI-Catcher). 
 
