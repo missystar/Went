@@ -2,20 +2,20 @@ On this page we are aiming to collect our findings about IMSI-Catchers that we h
 
 **Snapshots of IMSI-Catchers**
 
-![Closeup of antennas and IMSI-Catcher device inside car](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_Antennas.jpg)
+![Closeup of antennas and IMSI-Catcher device inside car](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_Antennas.jpg)
 
 * Picture taken on Februar 10, 2015 in Dresden, Germany
-* Notice the box inside the car - this is the IMSI-Catcher!
+* Notice the box inside the car - likely the IMSI-Catcher!
 
-![Blue VW T4](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_Blue.jpg)
+![Blue VW T4](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_Blue.jpg)
 
 * Picture taken on Februar 10, 2015 in Dresden, Germany
 
-![White IMSI-Catcher discovered in Leipzig, Germany](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_White.jpg)
+![White VW T4](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_White.jpg)
 
 * Picture taken on January 30, 2015 in Leipzig, Germany
 
-![Yellow IMSI-Catcher discovered in Leipzig, Germany](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_Yellow.jpg)
+![Yellow VW T4](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_Yellow.jpg)
 
 * Picture taken on January 30, 2015 in Leipzig, Germany
 
