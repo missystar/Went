@@ -4,13 +4,13 @@ This documentation is especially for developers who want to join our project and
 
 ###**Basic Modules and I/O:**
 
-![Program Modules](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DOCUMENTATION/Program_Modules.png)
+![Program Modules](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Program_Modules.png)
 
 ---
 
 ###**Database Tables:** (Current Behavior)
 
-![Database Tables](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/master/DOCUMENTATION/aimsicd_myCellInfo_ER_2.png)
+![Database Tables](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Database_myCellInfo_ER_2.png)
 * **DEFAULT_MCC_TABLE:** (Mobile Country Code): This table holds data to identify your service provider (carrier) and country.
 * **CELL_TABLE:** These are the *unique* BTS towers as collected by the phone, once it has connected to it (ignoring neighboring cells).
 * **LOCATION_TABLE:** These are the individual measurements as collected when in `Tracking Cell Details` mode. The location (Lat/Lng) of the phone and the Cell-ID it is connected to + timestamp.
@@ -21,7 +21,7 @@ This documentation is especially for developers who want to join our project and
 
 **Database Tables:** (New Proposal)
 
-![aimsicd2_er_3](https://cloud.githubusercontent.com/assets/194392/5464876/13483c7e-8597-11e4-8294-c0ab739e1f7a.png)
+![New Database Tables](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Database_myCellInfo_ER_3.png)
 
 
 
