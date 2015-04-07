@@ -2,6 +2,7 @@ This is our collection of recommended articles and sites. Check out our [PAPERS]
 
 ### About IMSI-Catchers and countermeasures
 
+* [Digitale Selbstverteidigung: Mit dem Handy gegen IMSI-Catcher](https://www.piratenpartei.de/2014/11/15/digitale-selbstverteidigung-mit-dem-handy-gegen-imsi-catcher/)
 * [IMSI-Catcher Erkennung für Android – AIMSICD](http://www.kuketz-blog.de/imsi-catcher-erkennung-fuer-android-aimsicd/)
 * [Wie IMSI-Catcher unauffällig legalisiert wurden](http://www.heise.de/ct/heft/2014-9-Wie-IMSI-Catcher-unauffaellig-legalisiert-wurden-2166054.html)
 * [Digitale Selbstverteidigung mit dem IMSI-Catcher-Catcher](http://www.heise.de/ct/artikel/Digitale-Selbstverteidigung-mit-dem-IMSI-Catcher-Catcher-2303215.html)
@@ -20,7 +21,7 @@ This is our collection of recommended articles and sites. Check out our [PAPERS]
 * [Electronic Frontier Foundation](https://www.eff.org/) - Nonprofit defending your rights in the digital world
 * [Secure Messaging Scorecard](https://www.eff.org/de/secure-messaging-scorecard) - Which apps and tools keep your messages safe?
 * [Privacy International](https://www.privacyinternational.org/) - Charity fighting for the right to privacy across the world
-* [TextSecure](https://github.com/WhisperSystems/TextSecure) - Secure text messaging application for Android (replace WhatsApp)
+* [SMSSecure](https://github.com/SMSSecure/SMSSecure) - Secure text messaging application for Android (replace WhatsApp)
 * [RedPhone](https://github.com/WhisperSystems/RedPhone) - Encrypted calls for Android
 * [KillYourPhone](http://killyourphone.com) - Make your own signal blocking phone pouch for little money
 * [GSM-Map](http://gsmmap.org/) - Compares protection capabilities of mobile networks (contribute data!)
