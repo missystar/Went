@@ -19,7 +19,7 @@ That means that those SMS do not show up on a display of a target device, nor tr
 
 If AIMSICD intercepts Silent SMS (Type 0), you will see this Alert on your screen:
 
-![SilentSMS-Alert](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/SCREENSHOTS/SilentSMS-Alert.png)
+![SilentSMS-Alert](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/SilentSMS-Alert.png)
 
 Additionally, this notification will be shown in your notification bar:
 
