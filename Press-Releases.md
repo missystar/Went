@@ -35,3 +35,9 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 **Spanish**
 
 * Seguridad Informatica: [Android IMSI-Catcher-Detector AIMSICD](http://seguridadinformatica.ga/android-imsi-catcher-detector-aimsicd/)
+
+---
+
+** French**
+
+* Numerama: [Détecter les IMSI-catchers sur votre téléphone Android](http://www.numerama.com/magazine/32763-detecter-les-imsi-catchers-sur-votre-telephone-android.html)
