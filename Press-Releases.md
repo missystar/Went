@@ -38,6 +38,6 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 
 ---
 
-** French**
+**French**
 
 * Numerama: [Détecter les IMSI-catchers sur votre téléphone Android](http://www.numerama.com/magazine/32763-detecter-les-imsi-catchers-sur-votre-telephone-android.html)
