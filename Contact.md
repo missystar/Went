@@ -4,14 +4,15 @@ Our international team is changing from time to time and we'd like to avoid havi
 
 |                              Developer                         |  Location   |              Task            |
 |:--------------------------------------------------------------:|:-----------:|:----------------------------:|
-|[E:V:A](mailto:5457a848@opayq.com)                              | Lithuania   |       Project Initiator      |
-|[Ueland](http://h3x.no/)                                        | Norway      |      Bug Smashing Hammer     |
-|[tobykurien](http://tobykurien.com/)                            | South Africa|          Code-Monkey         |
+|[E:V:A](mailto:5457a848@opayq.com)                              | Lithuania   |      Project Initiator      |
+|[Ueland](http://h3x.no/)                                        | Norway      |     Bug Smashing Hammer     |
+|[tobykurien](http://tobykurien.com/)                            | South Africa|         Code-Monkey         |
 |[d-mariano](mailto:dave.mariano1991@gmail.com)                  | Canada      | Time Travelling Code-Beaver  |
-|[banjaxbanjo](mailto:mailto:paulkinsella29@yahoo.ie)            | Ireland     |    Silent SMS Specialist     |
-|[scintill](mailto:joey@joeyhewitt.com)                          | :us:        |       Cryptography Freak     |
-|[He3556](mailto:info@dm-development.de)                         | :de:        |    Vulnerability Analyzer    |
-|[Sgt-Obst](http://forum.xda-developers.com/member.php?u=5102584)| :de:        |      Graphical Designer      |
+|[banjaxbanjo](mailto:mailto:paulkinsella29@yahoo.ie)            | Ireland     |    Silent SMS Specialist    |
+|[DimaKoz](mailto:kozhevin.dima@gmail.com)                       | :ru:        |         A real Trooper      |
+|[scintill](mailto:joey@joeyhewitt.com)                          | :us:        |      Cryptography Freak     |
+|[He3556](mailto:info@dm-development.de)                         | :de:        |   Vulnerability Analyzer    |
+|[Sgt-Obst](http://forum.xda-developers.com/member.php?u=5102584)| :de:        |     Graphical Designer      |
 |[andr3jx](mailto:9414f52d@opayq.com)                            | :de:        | Chief Cook and Bottle Washer |
-|[kairenken](mailto:mailto:code@koffeinsucht.de)                 | :de:        |       Security Engineer      |
-|[SecUpwN](mailto:SecUpwN@protonmail.ch)                         | :de:        |         Public Speaker       |
+|[kairenken](mailto:mailto:code@koffeinsucht.de)                 | :de:        |      Security Engineer      |
+|[SecUpwN](mailto:SecUpwN@protonmail.ch)                         | :de:        |        Public Speaker       |
