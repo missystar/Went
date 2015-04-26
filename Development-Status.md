@@ -12,7 +12,7 @@ This is the **current** Development Status of our Android IMSI-Catcher Detector.
 * [Already accomplished](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#already-accomplished)
 * [Working on right now](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#working-on-right-now)
 * [Prepared working packages](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#prepared-working-packages-ready-to-be-picked-up)
-* [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#development-roadmap)
+* [Development Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#development-roadmap) and [Versioning](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#versioning)
 * Stages: [ALPHA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#alpha-stage), [BETA](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#beta-stage) and [GOLDEN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status#golden-age) age.
 
 ---
@@ -126,3 +126,14 @@ This stage is essentially the completion of this project. However, we expect tha
 * p. Continue Fine-tune our detection matrix
 * q. Complete alternative data routes using MESH-like networking, when cellular services have been interrupted
 * r. Complete advanced statistical analysis of fake BTS towers
+
+##### Versioning
+
+* Example for **DEVELOPING** on `development` branch (done by any developer):
+
+`android:versionName`: 0.1.25-alpha-b**37** -> 0.1.25-alpha-b**38** -> 0.1.25-alpha-b**39**  and so on..
+
+* Example for **RELEASING** to our stores and GitHub Releases (only done by SecUpwN):
+
+android:versionCode="**25**" -> android:versionCode="**26**" -> android:versionCode="**27**" and so on..
+To simplify it, we are also ging to count upwards like this: 0.1.**25**-alpha -> 0.1.**26**-alpha and so on..
