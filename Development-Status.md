@@ -129,11 +129,11 @@ This stage is essentially the completion of this project. However, we expect tha
 
 ##### Versioning
 
-* Example for **DEVELOPING** on `development` branch (done by any developer):
+* When changing code on `development` branch **(any developer)**:
 
-`android:versionName`: 0.1.25-alpha-b**37** -> 0.1.25-alpha-b**38** -> 0.1.25-alpha-b**39**  and so on..
+`android:versionName`: 0.1.25-alpha-b**37** -> 0.1.25-alpha-b**38** -> 0.1.25-alpha-b**39**...
 
-* Example for **RELEASING** to our stores and GitHub Releases (only done by SecUpwN):
+* When **RELEASING** to our stores and GitHub Releases **(only SecUpwN)**:
 
-android:versionCode="**25**" -> android:versionCode="**26**" -> android:versionCode="**27**" and so on..
-To simplify it, we are also ging to count upwards like this: 0.1.**25**-alpha -> 0.1.**26**-alpha and so on..
+android:versionCode="**25**" -> android:versionCode="**26**" -> android:versionCode="**27**"...
+When releasing, we're also going to count upwards: 0.1.**25**-alpha -> 0.1.**26**-alpha...
