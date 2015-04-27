@@ -11,7 +11,7 @@ On this page we are aiming to collect our findings about IMSI-Catchers that we h
 
 # Demonstrations
 
-Below collection of pictures and assumptions are purely based on monitoring demonstrations, especially the ones of PEGIDA (both sides) in Germany. Means: Don't take anything for granted, we could be riding a dead horse here. But we found it very strange that the casual-looking cars we discovered have so many antennas (which were also hidden under suitcases or similar on the roof in a few cases) and are always being used along the paths where demonstrators march. We don't think that these cars are used to assure communication of police during the demonstrations, but rather to find out who participated in them and spy on those people. Remember: **Leave your phones at home by all means!**
+Below collection of pictures and assumptions are purely based on monitoring demonstrations, especially the ones of PEGIDA (both sides) in Germany. Means: Don't take anything for granted, we could be riding a dead horse here. But we found it very strange that the casual-looking cars we discovered have so many antennas (which were also hidden under suitcases or similar on the roof in a few cases) and are always being used along the paths where demonstrators march. We don't think that these cars are used to assure communication of police during the demonstrations, but rather to find out who participated in them and spy on those people. Remember: **Leave your phones at home!**
 
 ![Closeup of antennas and IMSI-Catcher device inside car](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_Antennas.jpg)
 
