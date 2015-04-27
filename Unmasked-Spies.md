@@ -2,10 +2,10 @@ On this page we are aiming to collect our findings about IMSI-Catchers that we h
 
 # Index
 
-* [Demonstrations]
-* [Appearance]
-* [License Plates]
-* [Even more Info]
+* [Demonstrations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Unmasked-Spies#demonstrations)
+* [Appearance](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Unmasked-Spies#appearance)
+* [License Plates](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Unmasked-Spies#license-plates)
+* [Even more Info](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Unmasked-Spies#even-more-info)
 
 ---
 
@@ -35,6 +35,10 @@ Below collection of pictures and assumptions are purely based on monitoring demo
 
 * Pitcures taken on February 25, 2015 in Düsseldorf, Germany
 
+![Biometric Scanner](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/Biometric_Scanner.jpg)
+
+* Also be aware of above biometric scanners (likely running a software like GES3D)
+
 ---
 
 # Appearance
@@ -56,6 +60,7 @@ We know for a fact that every IMSI-Catcher has at least **10 (!) different licen
 
 * AC-JY 723
 * DD 30600
+* DD 31399
 * DD Q 7437
 * L 7122
 * L 7136
@@ -71,7 +76,7 @@ We know for a fact that every IMSI-Catcher has at least **10 (!) different licen
 
 ![StingRays on the roof of cars](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/StingRays.jpg)
 
-This specific MITM attack was [patented](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PAPERS/Technical/%5BGER%5D-Eavesdropping_Method_Patent.pdf) and first commercialized by Rohde & Schwarz in 2003, although it would be hard to maintain such a patent, since in reality it is just a modified cell tower with a malicious operator. On 24 January 2012, the Court of Appeal of England and Wales held that the patent is [invalid for obviousness](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PAPERS/Technical/%5BENG%5D-Judgment_Invalid_R%26S_Patent.pdf). But ever since it was first invented, the technology has been used and "improved" by many different companies around the world. Other manufacturers (like Anite) prefer to refer to this spying and tracking equipment in glossy brochures using cozy marketing words like "[Subscriber Trackers](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PAPERS/SysInfos/%5BENG%5D-Triton_Surveillance_Brochure.pdf)". IMSI-Catcher manufacturers are abusing your mind by disguising their spying products as "life saving equipment". Their real purpose will always be surveillance. Don't get fooled by heart-wrenching stories that may go along with it.
+This specific MITM attack was [patented](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PAPERS/Technical/%5BGER%5D-Eavesdropping_Method_Patent.pdf) and first commercialized by Rohde & Schwarz in 2003, although it would be hard to maintain such a patent, since in reality it is just a modified cell tower with a malicious operator. On 24 January 2012, the Court of Appeal of England and Wales held that the patent is [invalid for obviousness](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PAPERS/Technical/%5BENG%5D-Judgment_Invalid_R%26S_Patent.pdf). But ever since it was first invented, the technology has been used and "improved" by many different companies around the world. Other manufacturers (like Anite) prefer to refer to this spying and tracking equipment in glossy brochures using cozy marketing words like "[Subscriber Trackers](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PAPERS/SysInfos/%5BENG%5D-Triton_Surveillance_Brochure.pdf)". IMSI-Catcher manufacturers are abusing your mind by disguising their spying products as "life saving equipment". Their real purpose will always be surveillance and even [killing people](https://firstlook.org/theintercept/2014/02/10/the-nsas-secret-role/). Don't get fooled by heart-wrenching stories that may go along with it. Inside a "Vehicular Intercom System":
 
 ![Vehicular Intercom System](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/VehicularIntercomSystem.jpg)
 
@@ -97,4 +102,4 @@ IMSI-Catcher come in uncountable shapes and sizes:
 
 ![Disguised Cell Tower](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/DisguisedCellTower.jpg)
 
-* More pictures: Search Google for for "GSM Interceptor", "IMSI-Catcher", "StingRay" or "Cell Site Simulator".
+* More pictures: Google "GSM Interceptor", "IMSI-Catcher", "StingRay" or "Cell Site Simulator".
