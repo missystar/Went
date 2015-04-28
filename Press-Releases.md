@@ -29,6 +29,7 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 * PrivacySOS: [How to defeat FBI or police 'stingray' surveillance](http://privacysos.org/node/1637)
 * Spybusters: [New App to Detect Fake Cell Phone Towers](http://spybusters.blogspot.de/2014/11/new-app-to-detect-fake-cell-phone-towers.html)
 * Gun.io Blog: [Android IMSI-Catcher Detector Introduction](https://gun.io/blog/android-imsi-catcher-detector/)
+* CyberPunk: [Phone Hacking - Android IMSI-Catcher Detector: AIMSICD](http://n0where.net/imsi-catcher-aimsicd/)
 
 ---
 
