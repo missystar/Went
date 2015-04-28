@@ -1,4 +1,4 @@
-On this page we are aiming to collect our findings about IMSI-Catchers that we have spotted in real life. [Contact us](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Contact) if you have leaked information or pictures!
+On this page we are aiming to collect our findings about IMSI-Catchers that we have spotted in real life. [Contact SecUpwN](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Contact) if you have leaked information or fresh pictures!
 
 # Index
 
@@ -33,7 +33,7 @@ Below collection of pictures and assumptions are purely based on monitoring demo
 ![VW Sharan](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_VW_Sharan.jpg)
 ![VW Sharan 2](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_VW_Sharan2.jpg)
 
-* Pictures taken on February 25, 2015 in Düsseldorf, Germany
+* Pictures taken at 18:30 PM on February 25, 2015 during DÜGIDA/PEGIDA demonstrations
 
 ![Biometric Scanner](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/Biometric_Scanner.jpg)
 
