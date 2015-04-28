@@ -33,7 +33,7 @@ Below collection of pictures and assumptions are purely based on monitoring demo
 ![VW Sharan](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_VW_Sharan.jpg)
 ![VW Sharan 2](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_VW_Sharan2.jpg)
 
-* Pictures taken at 18:30 PM on February 25, 2015 during DÜGIDA/PEGIDA demonstrations
+* Pictures taken at 18:30 PM on February 25, 2015 during DÜGIDA/PEGIDA demos
 
 ![Biometric Scanner](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/Biometric_Scanner.jpg)
 
