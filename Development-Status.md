@@ -151,5 +151,6 @@ When releasing, we're also going to count upwards: 0.1.**25**-alpha -> 0.1.**26*
 2. Read our [development note](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/development/CONTRIBUTING.md#developing). Then pick any [Issue](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues) you like.
 3. Introduce yourself in that Issue and "save it for yourself".
 4. Submit a pull request for your Issue, preferably only one.
-5. If the Issue is really fixed and closed, we will contact you.
-6. The person with the most fixes will also be thanked via [our Twitter](https://twitter.com/AIMSICD).
+5. Need more time? No problem, just tell us in "your" Issue.
+6. If the Issue is really fixed and closed, we will contact you.
+7. The person with the most fixes will also be thanked via [our Twitter](https://twitter.com/AIMSICD).
