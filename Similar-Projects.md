@@ -4,6 +4,10 @@ Of course we've already reached out to these projects in an attempt to join forc
 
 ---
 
+**European Law Complaint**
+
+* [StingRay Counter Surveillance Project](http://goo.gl/iKPwQ8)
+
 **Software Projects**
 
 * [zIPS](https://www.zimperium.com/zips-mobile-ips) (commercial)
