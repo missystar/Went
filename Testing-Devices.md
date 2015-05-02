@@ -31,10 +31,11 @@ SIPCv2.0 | "Samsung RIL (IPC) v2.0" | Intel/Infinion
 QRIL1.0 | "Qualcomm RIL 1.0" | Qualcomm
 XRIL1.0 | "android infineon xgold-ril 1.0" | Intel/Infinion
 XRIL1.18 | "android xgold-ril 1.18" | Intel/Infinion
-MRIL1.0 | "android moto-ril 1.0" | ?
+MRIL1.0 | "android moto-ril 1.0" | Intel/Infinion? 
 MTG1.0 | "mtk gemini ril 1.0" | Mediatek
 BRCM1 | "BRCM android bcm-ril-090728" | Broadcom
 
+For an exhaustive list, look for your device [here](https://census.tsyrklevich.net/system_properties/gsm.version.ril-impl).
 
 Commonly used serial devices for AT Command Processor access:
 
@@ -44,3 +45,4 @@ MT6582  | /dev/radio/atci1 | /dev/ttyMTo
 MSM8930 | /dev/smd0 |
 MSM8960 | /dev/smd0 |
 MSM8974 |  |
+OMAP3610 | /dev/ttyO | 
