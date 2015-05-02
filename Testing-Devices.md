@@ -31,7 +31,7 @@ SIPCv2.0 | "Samsung RIL (IPC) v2.0" | Intel/Infinion
 QRIL1.0 | "Qualcomm RIL 1.0" | Qualcomm
 XRIL1.0 | "android infineon xgold-ril 1.0" | Intel/Infinion
 XRIL1.18 | "android xgold-ril 1.18" | Intel/Infinion
-MRIL1.0 | "android moto-ril 1.0" | Intel/Infinion? 
+MRIL1.0 | "android moto-ril 1.0" | ? 
 MTG1.0 | "mtk gemini ril 1.0" | Mediatek
 BRCM1 | "BRCM android bcm-ril-090728" | Broadcom
 
