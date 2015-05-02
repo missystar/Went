@@ -7,7 +7,7 @@ This is the "testers table" with the phones we're currently testing on and which
 HTC One | M7 | MSM8960 | *SoC* | AOKP | KK4.4.4 | 19 | Permissive | SecUpwN | QRIL1.0
 HTC Wildfire S | A510e | MSM7227T | *SoC* | CM10.1 | JB4.2.2 | 17 | *NE* | He3556 | ?
 Huawei Ascend P1 | U9200 | OMAP4460 | XMM6260 | CM11 | KK4.4.4 | 19 | *NE* | tobykurien | XRIL1.0
-Motorola ?? | MB525 | | | | KK4.4.4 | 19 | | tobykurien | MRIL1.0 
+Motorola Defy | MB525 | OMAP3610 | XMM? | | KK4.4.4 | 19 | | tobykurien | MRIL1.0 
 Gigabyte GSmart | Arty A3 | MT6582 | *SoC* | *stock* | KK4.4.2 | 19 | Enforcing | E:V:A | MTG1.0 
 Google Nexus 5 | "LG D821" | MSM8974 | *SoC* | *stock* | KK4.4.3 | 19 | Enforcing | Ueland | QRIL1.0
 Google Nexus 7 | "3G-2012" | Tegra3 | XMM6260 | *stock* | KK4.4.4 | 19 | Enforcing| andr3jx | XRIL1.18
