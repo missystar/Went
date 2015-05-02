@@ -18,7 +18,3 @@ The [Android-IMSI-Catcher-Detector](https://secupwn.github.io/Android-IMSI-Catch
 * [IMSI-Catcher Live Demonstration](https://www.youtube.com/watch?v=3oHx0zj3GWQ)
 * [28c3: Defending mobile phones](http://youtu.be/YWdHSJsEOck)
 * [How easy it is to clone phones](http://www.youtube.com/watch?v=Ydo19YOzpzU)
-
-# Questions or need help?
-
-[Get in touch](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Contact), post in our [development thread](https://forum.xda-developers.com/showthread.php?t=1422969) or [open an Issue](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Submitting-Issues)!
