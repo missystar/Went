@@ -9,6 +9,8 @@ This documentation is especially for developers who want to join our project and
 * [LOCATION_TABLE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#location_table)
 * [OPENCELLID_TABLE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#opencellid_table)
 * [SILENT_SMS_TABLE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#silent_sms_table)
+* [Database Tables: (New Proposal)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#database-tables-new-proposal)
+* [Accessing the Databases](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#accessing-the-databases)
 
 ---
 
@@ -18,12 +20,12 @@ This documentation is especially for developers who want to join our project and
 
 ---
 
-###**Database Tables:** (Current Behavior)
+###Database Tables: (Current Behavior)
 
 AIMSICD utilizes several tables in a single SQLite3 database in `aimsicd.db` to keep track 
 of all the network changes and the downloaded Open Cell ID (OCID) data. When you're making a file 
 backup of the AIMSICD database, you're actually saving the various tables into individual 
-`<tablename>.CSV` files. This makes it easy to manually or externally update them.
+`<tablename>.CSV` files, which can be updated manually or externally.
 
 All mentioned sqlite commands are properly documented on the [SQLite website](http://www.sqlite.org).
 
@@ -41,7 +43,7 @@ Protocol of incoming messages.
 
 ---
 
-**Database Tables:** (New Proposal)
+#### Database Tables: (New Proposal)
 
 ![New Database Tables](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Database_myCellInfo_ER_3.png)
 
@@ -83,6 +85,5 @@ We display the Neighboring Cell information in two ways:
 ***
 
 
-**Further information about the actual status and prepared working packages to be picked up by a developer:**
-[Development-Status](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status)
+**Further information about the actual status: [Development-Status](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status)**
 
