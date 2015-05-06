@@ -4,6 +4,11 @@ This documentation is especially for developers who want to join our project and
 
 * [Basic Modules and I/O](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#basic-modules-and-io)
 * [Database Tables: (Current Behavior)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#database-tables-current-behavior)
+* [DEFAULT_MCC_TABLE (Mobile Country Code)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#default_mcc_table-mobile-country-code)
+* [CELL_TABLE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#cell_table)
+* [LOCATION_TABLE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#location_table)
+* [OPENCELLID_TABLE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#opencellid_table)
+* [SILENT_SMS_TABLE](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Technical-Overview#silent_sms_table)
 
 ---
 
@@ -17,8 +22,8 @@ This documentation is especially for developers who want to join our project and
 
 AIMSICD utilizes several tables in a single SQLite3 database in `aimsicd.db` to keep track 
 of all the network changes and the downloaded Open Cell ID (OCID) data. When you're making a file 
-backup of the AOMSICD database, you're actually saving the various tables into individual 
-`<tablename>.CSV` files. This make it easy to manually or externally update some tables.
+backup of the AIMSICD database, you're actually saving the various tables into individual 
+`<tablename>.CSV` files. This makes it easy to manually or externally update them.
 
 All mentioned sqlite commands are properly documented on the [SQLite website](http://www.sqlite.org).
 
