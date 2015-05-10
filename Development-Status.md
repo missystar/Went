@@ -145,11 +145,11 @@ When releasing, we're also going to count upwards: 0.1.**25**-alpha -> 0.1.**26*
 
 ---
 
-### BugFixChallenge - win a SURPISE!
+### BugFixChallenge
 
-:sparkles: Welcome to the cool stuff! :sparkles: Here are the rules:
+:sparkles: Win a SURPRISE! :sparkles: Here are the rules:
 
-1. `#BugFixChallenge` takes place every THURSDAY before release.
+1. `#BugFixChallenge` takes place every SATURDAY before release.
 2. Read our [development note](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/development/CONTRIBUTING.md#developing). Then pick any [Issue](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues) you like.
 3. Introduce yourself in that Issue and "save it for yourself".
 4. Submit a pull request for your Issue, preferably only one.
