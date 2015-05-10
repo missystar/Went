@@ -28,7 +28,7 @@
 
 **Important Functions**
 * [Cell Monitoring](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Monitoring)
-* [Cell Information](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Information)
+* [Current Threat Level](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Current-Threat Level)
 * [AT Command Interface](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/AT-Command-Interface)
 * [Database Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Database-Viewer)
 * [Antenna Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Antenna-Map-Viewer)
