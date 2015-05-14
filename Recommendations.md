@@ -1,32 +1,35 @@
-This is our collection of recommended articles and sites. Check out our [PAPERS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/tree/master/PAPERS)!
+Read these recommendations and enhance your security NOW!
 
-### About IMSI-Catchers and countermeasures
+### Apps
 
-* [Digitale Selbstverteidigung: Mit dem Handy gegen IMSI-Catcher](https://www.piratenpartei.de/2014/11/15/digitale-selbstverteidigung-mit-dem-handy-gegen-imsi-catcher/)
-* [IMSI-Catcher Erkennung für Android – AIMSICD](http://www.kuketz-blog.de/imsi-catcher-erkennung-fuer-android-aimsicd/)
-* [Wie IMSI-Catcher unauffällig legalisiert wurden](http://www.heise.de/ct/heft/2014-9-Wie-IMSI-Catcher-unauffaellig-legalisiert-wurden-2166054.html)
-* [Digitale Selbstverteidigung mit dem IMSI-Catcher-Catcher](http://www.heise.de/ct/artikel/Digitale-Selbstverteidigung-mit-dem-IMSI-Catcher-Catcher-2303215.html)
-* [IMSI-Catcher: Gegen-Überwachung gegen die Überwacher](http://www.heise.de/security/meldung/IMSI-Catcher-Gegen-Ueberwachung-gegen-die-Ueberwacher-2302870.html)
-* [IMSI-Catcher: Wanzen für Handys](http://hp.kairaven.de/miniwahr/imsi.html)
+These are absolute must-haves if you are a privacy-geek.
 
-### Websites about security worth checking out
-
+* [EFF Actioncenter Mobile](https://www.eff.org/app) - Alerts you when they need your help on privacy breaches
+* [Secure Messaging Scorecard](https://www.eff.org/de/secure-messaging-scorecard) - Which apps and tools keep your messages safe?
 * [Xprivacy](https://github.com/M66B/XPrivacy) - The ultimate, yet easy to use, privacy manager
+* [SMSSecure](https://github.com/SMSSecure/SMSSecure) - Secure text messaging application for Android (replace TextSecure)
+* [RedPhone](https://github.com/WhisperSystems/RedPhone) - Encrypted calls for Android (internet connection needed)
+* [The Guardian Project](https://guardianproject.info/) - Secure Open Source Mobile Apps
+
+### Videos
+
+Too lazy to read? Get a tasty coffee and watch these.
+
+* [DEF CON 22: Am I Being Spied On?](https://www.youtube.com/watch?v=Bc7WoDXhcjM) - Awesome talk about fighting surveillance
+
+### Websites
+
+Very useful websites and guides for more protection.
+
 * [Smartphone Attack Vector](http://smartphone-attack-vector.de/) - Smartphone flaws and countermeasures
 * [Kuketz IT-Security Blog](http://www.kuketz-blog.de/) - Great Security Reviews and Guides (written in German)
 * [PRISM Break](https://prism-break.org/) - Alternatives to opt out of global data surveillance programs
-* [The Guardian Project](https://guardianproject.info/) - Secure Open Source Mobile Apps
 * [Security Research Labs](https://srlabs.de/) - Stunning Security Revelations discovered in Berlin
 * [The Surveillance Self-Defense Project](https://ssd.eff.org/) - Defend against the threat of surveillance
 * [Electronic Frontier Foundation](https://www.eff.org/) - Nonprofit defending your rights in the digital world
-* [Secure Messaging Scorecard](https://www.eff.org/de/secure-messaging-scorecard) - Which apps and tools keep your messages safe?
 * [Privacy International](https://www.privacyinternational.org/) - Charity fighting for the right to privacy across the world
-* [SMSSecure](https://github.com/SMSSecure/SMSSecure) - Secure text messaging application for Android (replace WhatsApp)
-* [RedPhone](https://github.com/WhisperSystems/RedPhone) - Encrypted calls for Android
 * [KillYourPhone](http://killyourphone.com) - Make your own signal blocking phone pouch for little money
-* [GSM-Map](http://gsmmap.org/) - Compares protection capabilities of mobile networks (contribute data!)
 * [Datenschmutz Wiki](https://www.datenschmutz.de) - German wiki of databases and tools of law enforcements
 * [Telefoniert nach Hause](https://www.telefoniert-nach-hause.de) - Wiki about hard- and software contacting third parties
-* [DEF CON 22: Am I Being Spied On?](https://www.youtube.com/watch?v=Bc7WoDXhcjM) - Awesome talk about fighting surveillance
 * [Buggedplanet](http://buggedplanet.info) - Great wiki about Measures used to intercept Communications
 * [Electrospaces](http://electrospaces.net) - Insights in SIGINT, Security and Top Level Telecommunications
