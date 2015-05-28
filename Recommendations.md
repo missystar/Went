@@ -10,6 +10,7 @@ These are absolute must-haves if you are a privacy-geek.
 * [SMSSecure](https://github.com/SMSSecure/SMSSecure) - Secure text messaging application for Android (replace TextSecure)
 * [RedPhone](https://github.com/WhisperSystems/RedPhone) - Encrypted calls for Android (internet connection needed)
 * [The Guardian Project](https://guardianproject.info/) - Secure Open Source Mobile Apps
+* [PrivacyPack](https://pack.resetthenet.org/#phone) - Apps against mass surveilance collected by ResetTheNet
 
 ### Videos
 
