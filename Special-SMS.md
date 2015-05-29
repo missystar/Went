@@ -33,13 +33,13 @@ You can easily test if AIMSICD really can detect Silent SMS of Type 0 with the a
 
 Now press the button 'PING' and you will be taken to the screen below, through which you can select different types of PING SMS. Select the second option `Use Silent Ping (Type 0)` and send it to your own number. HushSMS will then send out a Silent SMS (but without the option of revealing the location of your phone) to your own number.
 
+![HushSMS-Type0](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/HushSMS-Type0.png)
+
 ##### Add your own SMS type detection
 
 Our app has been designed in a way that enables you to easily add your own detection mechanism. Enter the `ADVANCED USER SETTINGS` via the `Preferences` and add your own detection string like `incoming msg. Mti 0 ProtocolID 0 DCS 0x04 class -1` to the menu `Detection Strings` and restart SMS detection.
 
 If you found a new working string, please contact us for implementation.
-
-![HushSMS-Type0](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/HushSMS-Type0.png)
 
 ---
 
