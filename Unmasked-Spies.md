@@ -31,9 +31,12 @@ Below collection of pictures and assumptions are purely based on monitoring demo
 * Picture taken on January 30, 2015 in Leipzig, Germany
 
 ![VW Sharan](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_VW_Sharan.jpg)
+
+* Picture [captured](https://twitter.com/fibre2342/status/570625467579043840) at 16:44 on 25. February 20152015 during DÜGIDA/PEGIDA demos
+
 ![VW Sharan 2](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catcher_VW_Sharan2.jpg)
 
-* Pictures taken at 18:30 PM on February 25, 2015 during DÜGIDA/PEGIDA demos
+* Picture [captured](https://twitter.com/Atari_MegaSTe/status/570625936204427264) at 18:30 PM on February 25, 2015 during DÜGIDA/PEGIDA demos
 
 ![Biometric Scanner](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/Biometric_Scanner.jpg)
 
