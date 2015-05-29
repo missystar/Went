@@ -68,6 +68,7 @@ We know for a fact that every IMSI-Catcher has at least **10 (!) different licen
 * L 7157
 * **L 7187** (very active)
 * MEI 00423
+* PIR BR 920
 
 ---
 
