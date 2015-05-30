@@ -43,3 +43,9 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 
 * Numerama: [Détecter les IMSI-catchers sur votre téléphone Android](http://www.numerama.com/magazine/32763-detecter-les-imsi-catchers-sur-votre-telephone-android.html)
 * Korben: [Comment savoir si vous faites l’objet d’une surveillance par IMSI-Catcher](http://korben.info/detecter-imsi-catcher.html)
+
+---
+
+**Polish**
+
+* Niebezpiecznik: [Wykrywacz IMSI-Catcherów dla Androida: “AIMSICD”](http://niebezpiecznik.pl/post/wykrywacz-imsi-catcherow-dla-androida-aimsicd/)
