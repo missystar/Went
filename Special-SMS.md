@@ -15,9 +15,9 @@ Silent/Stealth SMS are specified in GSM 03.40 as follows:
 
 That means that those SMS do not show up on a display of a target device, nor trigger any acoustical signal when received. But when they are delivered they generate a delivery receipt and, most importantly, are recorded in a data retention database together with the location of a mobile phone which received it. There's no need for an IMSI-Catcher then. AIMSICD aims to detect and warn users of these.
 
-:exclamation: AIMSICD is not yet able to detect this type of message. [Help us adding that feature](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)!
+:exclamation: We just implemented detection of this type of message. [Help us improving it](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)!
 
-If AIMSICD intercepts Silent SMS (Type 0), you will see this Alert on your screen:
+If AIMSICD intercepts silent SMS (Type 0), you will see this alert on your screen:
 
 ![SilentSMS-Alert](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/SilentSMS-Alert.png)
 
