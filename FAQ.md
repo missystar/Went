@@ -14,6 +14,7 @@ Welcome to the place of questions asked a million times! Get your answer here. A
 * [Why did you contact me via an anonymous E-Mail address?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-why-did-you-contact-me-via-an-anonymous-e-mail-address)
 * [I noticed that your App uses GPS. Isn't that dangerous?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-i-noticed-that-your-app-uses-gps-isnt-that-dangerous)
 * [Is what you are doing illegal?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-is-what-you-are-doing-illegal)
+* [What to do if I'm colorblind?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-what-to-do-if-im-colorblind)
 
 --- 
 
@@ -92,5 +93,9 @@ A: Let me clarify some of the use of GPS on mobile phones: Ever since the first 
 ##### Q: Is what you are doing illegal?
 
 A: NO. We are not doing anything illegal since we are not destroying anything and are not even manipulating IMSI-Catchers remotely. We are merely constructing an App that reads certain values of your phone and its network, which helps people detect an attack on their privacy. Everyone has the right to know if they're being attacked or not. Have a look at the most trivial thing, the Ciphering Indicator, which displays if your connection is encrypted or not. What, you never saw it on your Android phone? Well, what a surprise: Google never implemented it, although it is required and has been [requested since 2009](https://code.google.com/p/android/issues/detail?id=5353). And this is one of the reasons we are here. Feel free to join us to making this world a better place.
+
+##### Q: What to do if I'm colorblind?
+
+A: We have been discussing this in [#449](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/449) and concluded that if you're color blind or your vision is impaired then moving to Android 5 (Lollipop) could improve your experience with our app. On Android 5+, go to System Settings > Accessibility and scroll to the Display sub-heading at the bottom. Turning on Color Inversion will dramatically change the look of your device and may be more soothing on the eye for some people. Selecting Color Correction will allow you to choose from three different color modes - Deuteranomaly (red-green), Protanomaly (red-green), Tritanomaly (blue-yellow) - which may be beneficial to some color blind users. As with the high contrast text, this is an experimental feature and may slow down your system.
 
 ---
