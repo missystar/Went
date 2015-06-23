@@ -38,16 +38,16 @@ Our main App Icon is the red Status Icon indicating threat status `DANGER`. You 
 
 #### Colors
 
-| COLOR |   #HEX  |                                                    DESCRIPTION                                                    |
-|:-----:|:-------:|:-----------------------------------------------------------------------------------------------------------------:|
-|       | #111111 |                                      Background color: Screen and Navigation                                      |
-|       | #333333 | Outline of boxes, background of box header, background of Navigation Drawer, form fields (text input, select box) |
-|       | #ffec5a |                                    Akzent Color, text of box headlines, buttons                                   |
-|       | #929292 |                        Describing text of values, "unimportant" text (for better overview)                        |
-|       | #f9f9f9 |                                       "Important" values (good readability)                                       |
-|       | #ab2424 |             Map Marker (single tower), text color for alerts of all kind (or as box background color)             |
-|       | #35b838 |                                              Map Marker (more towers)                                             |
-|       | #2668a0 |                           Neutral color, use for small objects (own position in the map)                          |
+| COLOR |  #HEX   |                 DESCRIPTION                   |                                |
+|:-----:|:-------:|:---------------------------------------------:|:------------------------------:|
+| ![111111](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/StyleGuide/111111.png)       | #111111 | Background color: Screen and Navigation       | 
+| ![333333](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/StyleGuide/333333.png)      | #333333 | Outline of boxes, background of box header, background of Navigation Drawer, form fields (text input, select box) 
+| ![ffec5a](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/StyleGuide/ffec5a.png)      | #ffec5a | Akzent Color, text of box headlines, buttons  
+| ![929292](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/StyleGuide/929292.png)      | #929292 |                        Describing text of values, "unimportant" text (for better overview)         
+| ![f9f9f9](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/StyleGuide/f9f9f9.png)      | #f9f9f9 | "Important" values (good readability)         
+| ![ab2424](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/StyleGuide/ab2424.png)      | #ab2424 | Map Marker (single tower), text color for alerts of all kind (or as box background color)  
+| ![35b838](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/StyleGuide/35b838.png)      | #35b838 | Map Marker (more towers)                      
+| ![2668a0](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/StyleGuide/2668a0.png)      | #2668a0 | Neutral color, use for small objects (own position in the map)
 
 ---
 
