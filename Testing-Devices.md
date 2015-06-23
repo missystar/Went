@@ -4,7 +4,7 @@ This is the "testers table" with the phones we're currently testing on and which
 
 | Manufacturer/Model    | Type-Number | AP  | BP  | FW/ROM | AOS | API | SELmode | DEV | ril-impl |
 |:--------------------- |:----------- | --- | --- |:------ |:--- | --- |:------- |:--- |:-------- |
-HTC One | M7 | MSM8960 | *SoC* | AOKP | KK4.4.4 | 19 | Permissive | SecUpwN | QRIL1.0
+HTC One | M7 | MSM8960 | *SoC* | AICP | LP5.1.1 | 22 | Enforcing | SecUpwN | QRIL1.0
 HTC Wildfire S | A510e | MSM7227T | *SoC* | CM10.1 | JB4.2.2 | 17 | *NE* | He3556 | ?
 Huawei Ascend P1 | U9200 | OMAP4460 | XMM6260 | CM11 | KK4.4.4 | 19 | *NE* | tobykurien | XRIL1.0
 Motorola Defy | MB525 | OMAP3610 | XMM? | | KK4.4.4 | 19 | | tobykurien | MRIL1.0 
