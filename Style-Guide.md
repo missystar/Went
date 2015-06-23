@@ -17,9 +17,9 @@ This is our Style Guide to reflect our Corporate Design within our App.
 
 #### Logo
 
-![AIMSICD-Banner](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/development/PROMOTION/AIMSICD-Banner_Small.png)
+![AIMSICD-Banner](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PROMOTION/AIMSICD-Banner_Small.png)
 
-Our main App Icon is the red Status Icon indicating threat status `DANGER`. You can either take it directly from our Apps `drawable-xxxhdpi` folder by clicking [here](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/master/app/src/main/res/drawable-xxxhdpi/sense_danger.png), or by manually extracting it from our [Banner SVG](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/PROMOTION/AIMSICD-Banner.svg) or [Status Icons SVG](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/raw/master/PROMOTION/AIMSICD-Status-Icons.svg) file.
+Our main App Icon is the red Status Icon indicating threat status `DANGER`. You can either take it directly from our Apps `drawable-xxxhdpi` folder by clicking [here](https://raw.githubusercontent.com/SecUpwN/Android-IMSI-Catcher-Detector/HEAD/app/src/main/res/drawable-xxxhdpi/sense_danger.png), or by manually extracting it from our [Banner SVG](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PROMOTION/AIMSICD-Banner.svg) or [Status Icons SVG](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PROMOTION/AIMSICD-Status-Icons.svg) file.
 
 ---
 
