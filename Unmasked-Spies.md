@@ -64,13 +64,15 @@ We know for a fact that every IMSI-Catcher has at least **10 (!) different licen
 * AC-JY 723
 * DD 30600
 * DD 31399
+* **DD Q 3400**
+* DD Q 3689
 * DD Q 7344
 * DD Q 7369
 * DD Q 7437
 * L 7122
 * L 7136
 * L 7157
-* **L 7187** (very active)
+* L 7187
 * L 7292
 * MEI 00423
 * PIR BR 920
