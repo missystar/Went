@@ -4,11 +4,13 @@ This is our Style Guide to reflect our Corporate Design within our App.
 
 * [Logo](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#logo)
 * [Fonts](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#fonts)
+* [Icons](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#icons)
 * [Forms](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#forms)
 * [Colors](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#colors)
 * [Layout](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#layout)
 * [Formats](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#formats)
 * [Elements](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#elements)
+* [Navigation](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#navigation)
 * [Illustrations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#illustrations)
 
 **Mindset:** Simple and intuitive, data is more important than looks.
@@ -24,6 +26,24 @@ Our main App Icon is the red Status Icon indicating threat status `DANGER`. You 
 ---
 
 #### Fonts
+
+No final decision yet. We prefer open source fonts on GitHub. Some inspiration:
+
+* [Calligraphy](https://github.com/chrisjenx/Calligraphy)
+* [Proxima Nova](http://www.myfonts.com/fonts/marksimonson/proxima-nova/) (not free, used by Spotify)
+* [Museo Slab 500](https://www.myfonts.com/fonts/exljbris/museo-slab/500/) (not free)
+
+Want to identify your favorite font? Use [WhatTheFont](http://www.myfonts.com/WhatTheFont/)!
+
+---
+
+#### Icons
+
+No final decision on in-app icons yet. Some inspiration:
+
+* [Material Design Icons](https://github.com/google/material-design-icons/)
+* [Iconmonstr](http://iconmonstr.com/)
+* [Android Icons](http://www.androidicons.com/)
 
 ---
 
@@ -71,6 +91,14 @@ Our main App Icon is the red Status Icon indicating threat status `DANGER`. You 
 #### Elements
 
 * Thin lines color `#333333` between text blocks and in the Navigation Drawer
+
+---
+
+#### Navigation
+
+Easy, intuitive and self-explaining. Preferably giving a unique look and feel to our app.
+
+* [Awesome Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 
 ---
 
