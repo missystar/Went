@@ -1,8 +1,10 @@
 You already know the normal SMS you receive from friends and family once in a while. But in fact, there are other types of SMS which AIMSICD aims to detect and warn you about.
 
+These are the results of our ongoing SMS detection tests:
+
 | Phone         | Model      | AOS_VER | [Type-0](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silentstealth-sms) | [MWI](https://en.wikipedia.org/wiki/Message-waiting_indicator) | 
 |:------------- |:---------- |:------- |:------ |:--- |
-| HTC One       | M7         | LP.1.1  |YES     | NO  | 
+| HTC One       | M7         | LP5.1.1 |YES     | NO  | 
 
 ---
 
