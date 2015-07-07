@@ -1,8 +1,10 @@
 You already know the normal SMS you receive from friends and family once in a while. But in fact, there are other types of SMS which AIMSICD aims to intercept and warn you about.
 
-| Phone         | Model      | AOS_VER | Type-0 | SV  | 
+| Phone         | Model      | AOS_VER | Type-0 | MWI | 
 |:------------- |:---------- |:------- |:------ |:--- |
-| HTC One       | M7         | LP.1.1  |YES     |  ?  | 
+| HTC One       | M7         | LP.1.1  |YES     | NO  | 
+
+MWI = [Message Waiting Indicator](https://en.wikipedia.org/wiki/Message-waiting_indicator)
 
 ---
 
