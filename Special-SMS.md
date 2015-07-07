@@ -1,4 +1,10 @@
-You already know the normal SMS you receive from friends and family once in a while. But in fact, there is another type of SMS which AIMSICD aims to intercept and warn you about.
+You already know the normal SMS you receive from friends and family once in a while. But in fact, there are other types of SMS which AIMSICD aims to intercept and warn you about.
+
+| Phone         | Model      | AOS_VER | Type-0 | SV  | 
+|:------------- |:---------- |:------- |:------ |:--- |
+| HTC One       | M7         | LP.1.1  |YES     |  ?  | 
+
+---
 
 **Type0 / Silent SMS / Stealth SMS / Ping SMS**
 
