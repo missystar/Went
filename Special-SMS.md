@@ -1,4 +1,4 @@
-You already know the normal SMS you receive from friends and family once in a while. But in fact, there are other types of SMS which AIMSICD aims to intercept and warn you about.
+You already know the normal SMS you receive from friends and family once in a while. But in fact, there are other types of SMS which AIMSICD aims to detect and warn you about.
 
 | Phone         | Model      | AOS_VER | [Type-0](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silentstealth-sms) | [MWI](https://en.wikipedia.org/wiki/Message-waiting_indicator) | 
 |:------------- |:---------- |:------- |:------ |:--- |
@@ -12,7 +12,7 @@ Law enforcement agencies are very often [see this German article](http://www.hei
 
 :exclamation: We just implemented detection of this type of message. [Help us improving it](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)!
 
-If AIMSICD intercepts silent SMS (Type-0), you will see this alert on your screen:
+If AIMSICD detects silent SMS (Type-0), you will see this alert on your screen:
 
 ![SilentSMS-Alert](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/SilentSMS-Alert.png)
 
