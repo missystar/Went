@@ -8,6 +8,7 @@ This is our Style Guide to reflect our Corporate Design within our App.
 * [Forms](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#forms)
 * [Colors](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#colors)
 * [Layout](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#layout)
+* [Coding](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#coding)
 * [Formats](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#formats)
 * [Elements](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#elements)
 * [Navigation](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide#navigation)
@@ -78,6 +79,14 @@ No final decision on in-app icons yet. Some inspiration:
 #### Layout
 
 * Careful use of space, don't leave great spaces
+
+---
+
+#### Coding
+
+As much as we enjoy your contributions, please keep a high code-quality!
+
+* [content will follow soon]
 
 ---
 
