@@ -41,13 +41,13 @@ Below goals are aimed to be reached with our [detection list](https://github.com
 
 ### Already accomplished
 Views (short explanation of the main views):
-* [Main Screen](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Main-Screen): Information about Device, Network and SIM-Card
-* [Cell Information](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Information): Relevant variables using public AOS API calls (LAC, CID, Signal Strength)
+* [Main Screen](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Main-Screen): Information about the Device, Network and SIM-Card
+* [Cell Information](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Information): Using public AOS API calls to receive relevant variables (e.g. LAC, CID, Signal Strength)  
 * [Database Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Database-Viewer): Data collected by the phone and from public DB of Cell Towers
 * [Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Map-Viewer): Shows Cell-Towers from the public database that are in your area
 
 Functions:
-* Cell-Monitoring: Collects information about the cell towers you are/were  connected to and saves it in the local database
+* Cell-Monitoring: Collects information about the cell towers you are/were connected to and saves it in the local database
 * [Cell Tracking](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Tracking): Tracks your position while you are connected to the cell-tower and saves it with cell data in the local database
 * Download data from public cell-tower database (right now only from [OpenCellID](http://opencellid.org/))
 * Position Tracking: Using the GPS-Sensor and Google Location Service
