@@ -50,7 +50,7 @@ Functions:
 * Cell-Monitoring: Collects information about the cell towers you are/were connected to and saves it in the local database
 * [Cell Tracking](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Tracking): Tracks your position while you are connected to the cell-tower and saves it with cell data in the local database
 * Download data from public cell-tower database (right now only from [OpenCellID](http://opencellid.org/))
-* Position Tracking: Using the GPS-Sensor and Google Location Service
+* Position Tracking: Using the GPS-Sensor
 
 Detection:
 * Check Cell-ID’s collected by the phone against public Cell-Tower Database.
