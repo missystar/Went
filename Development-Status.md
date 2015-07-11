@@ -42,7 +42,7 @@ Below goals are aimed to be reached with our [detection list](https://github.com
 ### Already accomplished
 Views (short explanation of the main views):
 * [Main Screen](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Main-Screen): Information about the Device, Network and SIM-Card
-* [Cell Information](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Information): Using public AOS API calls to receive relevant variables (e.g. LAC, CID, Signal Strength)  
+* [Cell Information](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Cell-Information): Using public AOS API calls to receive relevant variables (e.g. LAC, CID, Neighboring Cell Info, Signal Strength)  
 * [Database Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Database-Viewer): Data collected by the phone and from public DB of Cell Towers
 * [Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Map-Viewer): Shows Cell-Towers from the public database that are in your area
 
@@ -59,7 +59,7 @@ Detection:
 ---
 
 ### Working on right now
-* Neighboring Cell Info: [#100](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/100)
+* Implementing a fallback function, if AOS API call of Neighboring Cell Info returns no useful data: [#100](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/100)
 * AT-Command Processor:
 Send AT-Commands to the Baseband Processor [#23](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/23)
 * Detection of Silent SMS (Type-0): [#69](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/69)
@@ -67,14 +67,7 @@ Send AT-Commands to the Baseband Processor [#23](https://github.com/SecUpwN/Andr
 * Restructuring of DB to allow for more Network variables (for development clarity)
 * Separate Debugging menu with much better way to create useable logcats: [#164](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/164)
 * Detection of changing Signal Strength: Besides implementation, this needs lot’s of research and testing, if this is a possible way for detection and how it works on different phones (measurement of signal strength) ([more details](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/97))
-* Check BTS for the NC List [#264](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/264)
-
----
-
-### Prepared working packages (ready to be picked up)
-
 * Implement the use of other public Cell-Tower Databases API‘s
-* We are preparing further working packages of this [Detection List](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/230) As soon as they are ready, we will add them to this list.
 
 ---
 
@@ -82,7 +75,7 @@ Send AT-Commands to the Baseband Processor [#23](https://github.com/SecUpwN/Andr
 
 In order to accomplish implementation of the [detection methods](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/230), we'll need to overcome some of the deeply worrying and unfounded AOS limitations, as imposed by Googles API, in regard to relevant network variables and data. These include highly relevant and important things such as displaying the SIM/phone Ciphering Indicator, which tells you if your calls are being encrypted or not. This has been a required 3GPP feature for the last 15 years, but which Google and most Mobile Network providers have choosen to mostly ignore, although it has been [requested by users since 2009](https://code.google.com/p/android/issues/detail?id=5353). Another is finding the *Timing Advance* (TA) and various Network Timers, like those used in *Radio Resource Control* ([RRC](http://en.wikipedia.org/wiki/Radio_Resource_Control)), that can give very useful information regarding the status of the connections your phone is making.
 
-All this can be fairly easily accomplished, given that we can have access to some of the lower level radio related information coming from the *Baseband Processor* (BP). But that is exactly our challenge. All the software and information about the interfaces providing this, is hidden from the user and developers by a huge amount of proprietary OEM *Non Disclosure Agreements* (NDA). But in the last years, there has been great progress in reverse enginering these protocols and interfaces. The use of these open source tools are the basis of our successful development of this App. 
+All this can be fairly easily accomplished, given that we can have access to some of the lower level radio related information coming from the *Baseband Processor* (BP). But that is exactly our challenge. All the software and information about the interfaces providing this, is hidden from the user and developers by a huge amount of proprietary OEM *Non Disclosure Agreements* (NDA). But in the last years, there has been great progress in reverse engineering these protocols and interfaces. The use of these open source tools are the basis of our successful development of this App. 
 
 **Summary of the main development stages:**
 
