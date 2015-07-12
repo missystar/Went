@@ -30,9 +30,7 @@ Of course we've already reached out to these projects in an attempt to join forc
 
 * [DFRC's IMSI Catcher Detector](http://www.dfrc.ch/solutions/imsi-catcher-detector/)
 
->[...]through its online password-protected platform, it delivers to the end user, over a secure connection, the actual situation of the active stations around the target location[...]
-
->1-year Service: from € 18000, Stand Alone System: € 49000
+>[...]through its online password-protected platform, it delivers to the end user, over a secure connection, the actual situation of the active stations around the target location[...] 1-year Service: € 18000+, Stand Alone System: € 49000+
 
 Pretty expensive USRP connected to a mini computer, if you ask me.
 
