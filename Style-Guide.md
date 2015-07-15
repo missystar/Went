@@ -86,8 +86,8 @@ No final decision on in-app icons yet. Some inspiration:
 
 As much as we enjoy your contributions, please keep a high code-quality!
 
+* Follow the [Android Code Style Guidelines](https://source.android.com/source/code-style.html)
 * Make use of the [Android Best Practices](https://github.com/futurice/android-best-practices)
-* [more content will follow soon]
 
 ---
 
