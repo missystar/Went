@@ -88,6 +88,16 @@ As much as we enjoy your contributions, please keep a high code-quality!
 
 * Follow the [Android Code Style Guidelines](https://source.android.com/source/code-style.html)
 * Make use of the [Android Best Practices](https://github.com/futurice/android-best-practices)
+* Also respect the [Google Java Style](https://google.github.io/styleguide/javaguide.html), but:
+
+>* No column limit to 100 char. (As we all know, our screens are 1 kilometer wide and about 2 centimeters high, so why should we read code 2 cm wide and have to scroll downwards paging through 1 kilometer?)
+>* No line wrapping. Nobody likes line-wrapping, unless there's a bunch of consecutive objects wit the same name/structure that can be nicely aligned.
+>* Skip `4.6.3 Horizontal alignment`. E:V:A loves horizontal alignment, and as long as we use spaces and not tabs, its perfectly great for readability.
+>* Another good thing to tape to your screen: `Class and member modifiers, when present, appear in the order recommended by the Java Language Specification:`
+
+```JAVA
+public protected private abstract static final transient volatile synchronized native strictfp
+```
 
 ---
 
