@@ -11,6 +11,7 @@ These are absolute must-haves if you are a privacy-geek.
 * [RedPhone](https://github.com/WhisperSystems/RedPhone) - Encrypted calls for Android (internet connection needed)
 * [The Guardian Project](https://guardianproject.info/) - Secure Open Source Mobile Apps
 * [PrivacyPack](https://pack.resetthenet.org/#phone) - Apps against mass surveilance collected by ResetTheNet
+* [WiFi PrivacyPolice](https://github.com/BramBonne/privacypolice) - prevents your smartphone from leaking privacy sensitive information via Wi-Fi
 
 ### Videos
 
