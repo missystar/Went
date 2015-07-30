@@ -15,6 +15,7 @@ Welcome to the place of questions asked a million times! Get your answer here. A
 * [I noticed that your App uses GPS. Isn't that dangerous?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-i-noticed-that-your-app-uses-gps-isnt-that-dangerous)
 * [Is what you are doing illegal?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-is-what-you-are-doing-illegal)
 * [What to do if I'm colorblind?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-what-to-do-if-im-colorblind)
+* [My brain has been hacked! Should I send you an email?](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ#q-my-brain-has-been-hacked-should-i-send-you-an-email)
 
 --- 
 
@@ -94,8 +95,16 @@ A: Let me clarify some of the use of GPS on mobile phones: Ever since the first 
 
 A: NO. We are not doing anything illegal since we are not destroying anything and are not even manipulating IMSI-Catchers remotely. We are merely constructing an App that reads certain values of your phone and its network, which helps people detect an attack on their privacy. Everyone has the right to know if they're being attacked or not. Have a look at the most trivial thing, the Ciphering Indicator, which displays if your connection is encrypted or not. What, you never saw it on your Android phone? Well, what a surprise: Google never implemented it, although it is required and has been [requested since 2009](https://code.google.com/p/android/issues/detail?id=5353). And this is one of the reasons we are here. Feel free to join us to making this world a better place.
 
+---
+
 ##### Q: What to do if I'm colorblind?
 
 A: We have been discussing this in [#449](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/449) and concluded that if you're color blind or your vision is impaired then moving to Android 5 (Lollipop) could improve your experience with our app. On Android 5+, go to System Settings > Accessibility and scroll to the Display sub-heading at the bottom. Turning on Color Inversion will dramatically change the look of your device and may be more soothing on the eye for some people. Selecting Color Correction will allow you to choose from three different color modes - Deuteranomaly (red-green), Protanomaly (red-green), Tritanomaly (blue-yellow) - which may be beneficial to some color blind users. As with the high contrast text, this is an experimental feature and may slow down your system.
 
 ---
+
+##### Q: My brain has been hacked! Should I send you an email?
+
+A: No, go see a doctor! See below a *true* email I just received:
+
+>Hello I am a victim of electronic harassment and then being hacked daily on my phone and my computer and they have cloned my phone and computer and they also have some sort of chip or SIM card in my brain or in my body and they can communicate to me through silent sound with my body or brain. These people are terrorists and they are trying to drive me insane and use artificial telepathy to hack me all day. Please search Google for artificial telepathy patents. you will find a patent that is related to artificial telepathy. If you go to the bottom you will find link patents that are involved with the artificial telepathy patent. One of the patents is for mine cloning and for virtual immortality and one for the transference of a Digital virtual mine clone into a new clone body byway making immortality possible. They are taking over the United States with this technology and they are taking over the world please help me. You can contact me anytime my name is Tyler my phone number is XXX XXX XXXX. I have uploaded my data to open cell ID. Org and download the data from there as well please contact me and you can possibly monitor my phone and see who's hacking my phone. Please help me this is life or death and this could be the end of the world with this technology please help dire straits a major emergency thank you
