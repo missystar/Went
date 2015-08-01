@@ -20,16 +20,17 @@ This documentation is especially for developers who want to join our project and
 
 ---
 
-###Database Tables: (Current Behavior)
+###Database Tables:
 
 AIMSICD utilizes several tables in a single SQLite3 database in `aimsicd.db` to keep track 
 of all the network changes and the downloaded Open Cell ID (OCID) data. When you're making a file 
 backup of the AIMSICD database, you're actually saving the various tables into individual 
-`<tablename>.CSV` files, which can be updated manually or externally.
+`aimsicd-<tablename>.CSV` files, which can be updated manually or externally.
 
 All mentioned sqlite commands are properly documented on the [SQLite website](http://www.sqlite.org).
 
-![Database Tables](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Database_myCellInfo_ER_2.png)
+![New Database Tables](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Database_myCellInfo_ER_3.png)
+
 #### DEFAULT_MCC_TABLE (Mobile Country Code)
 This table holds data to identify your service provider (carrier) and country.
 #### CELL_TABLE
@@ -42,10 +43,6 @@ Downloaded DB from [OpenCellID](http://opencellid.org/).
 Protocol of incoming messages.
 
 ---
-
-#### Database Tables: (New Proposal)
-
-![New Database Tables](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Database_myCellInfo_ER_3.png)
 
 #### Accessing the Databases
 
