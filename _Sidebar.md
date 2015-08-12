@@ -32,7 +32,7 @@
 * [AT Command Interface](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/AT-Command-Interface)
 * [Database Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Database-Viewer)
 * [Antenna Map Viewer](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Antenna-Map-Viewer)
-* [Silent/Stealth SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Special-SMS)
+* [Special SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Special-SMS)
 
 **Support**
 * [FAQ](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ)
