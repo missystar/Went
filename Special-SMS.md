@@ -22,7 +22,9 @@ Additionally, this notification will be shown in your notification bar:
 
 ![SilentSMS-Notification](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/SilentSMS-Notification.png)
 
-##### Self-Test: Sending a Silent SMS (Type-0)
+---
+
+##### Self-Test
 
 You can easily test if AIMSICD really can detect Silent SMS of Type-0 with the app [HushSMS](http://forum.xda-developers.com/showthread.php?t=1490484). Buy it [via PayPal](https://www.silentservices.de/products/android-hushsms/), then open HushSMS and access its main screen:
 
@@ -32,7 +34,9 @@ Now press the button 'PING' and you will be taken to the screen below, through w
 
 ![HushSMS-Type0](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/SCREENSHOTS/HushSMS-Type0.png)
 
-##### Add your own SMS type detection
+---
+
+##### Add Detection
 
 Our app has been designed in a way that enables you to easily add your own detection mechanism. Enter the `ADVANCED USER SETTINGS` via the `Preferences` and add your own detection string like `incoming msg. Mti 0 ProtocolID 0 DCS 0x04 class -1` to the menu `Detection Strings` and restart SMS detection.
 
@@ -45,4 +49,4 @@ If you found a new working string, please contact us for implementation.
 This type of SMS is per standard designed to immediately display in a pop-up window.
 >A short message of class 0 indicates that this message is to be displayed on the MS immediately and a message delivery report is to be sent back to the SC. The message does not have to be saved in the MS or on the SIM card (unless selected to do so by the mobile user).
 
-On most phones such messages cannot be saved. Those SMS are not dangerous. We're **NOT** adding any detection mechanism for stuff which is popping up on your screen.
+On most phones such messages cannot be saved. Those SMS are not dangerous. We're **NOT** going to add any detection mechanism for stuff which is popping up on your screen.
