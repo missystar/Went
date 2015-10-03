@@ -44,7 +44,7 @@ If you found a new working string, please contact us for implementation.
 
 ---
 
-**Flash SMS / Popup SMS / Alert SMS**
+**Class-0 / Flash SMS / Popup SMS / Alert SMS**
 
 This type of SMS is per standard designed to immediately display in a pop-up window.
 >A short message of class 0 indicates that this message is to be displayed on the MS immediately and a message delivery report is to be sent back to the SC. The message does not have to be saved in the MS or on the SIM card (unless selected to do so by the mobile user).
