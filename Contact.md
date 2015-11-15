@@ -9,8 +9,8 @@ Our international team is changing from time to time and we'd like to avoid havi
 |[d-mariano](mailto:dave.mariano1991@gmail.com)                  | Canada      | Time Travelling Code-Beaver |
 |[banjaxbanjo](mailto:mailto:paulkinsella29@yahoo.ie)            | Ireland     |    Silent SMS Specialist    |
 |[agilob](mailto:info@agilob.net)                                | Poland      |    Translation Specialist   |
+| [Smarek](mailto:marek.sebera@gmail.com)                        | Czech Republic        |         Security Enthusiast   |
 |[DimaKoz](mailto:kozhevin.dima@gmail.com)                       | :ru:        |         A real Trooper      |
-| [Smarek](mailto:marek.sebera@gmail.com)                               | :ru:        |         Security Enthusiast   |
 |[scintill](mailto:joey@joeyhewitt.com)                          | :us:        |      Cryptography Freak     |
 |[He3556](mailto:info@dm-development.de)                         | :de:        |   Vulnerability Analyzer    |
 |[Sgt-Obst](http://forum.xda-developers.com/member.php?u=5102584)| :de:        |     Graphical Designer      |
