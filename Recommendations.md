@@ -10,6 +10,7 @@ Read these recommendations and enhance your security NOW!
 
 These are absolute must-haves if you are a privacy-geek.
 
+* [F-Droid](https://f-droid.org/) - An alternative software repository comprising only free, open source software
 * [EFF Actioncenter Mobile](https://www.eff.org/app) - Alerts you when they need your help on privacy breaches
 * [Secure Messaging Scorecard](https://www.eff.org/de/secure-messaging-scorecard) - Which apps and tools keep your messages safe?
 * [Xprivacy](https://github.com/M66B/XPrivacy) - The ultimate, yet easy to use, privacy manager
@@ -17,7 +18,8 @@ These are absolute must-haves if you are a privacy-geek.
 * [Signal-Android](https://github.com/WhisperSystems/Signal-Android) - Encrypted text and calls for Android (internet connection needed)
 * [The Guardian Project](https://guardianproject.info/) - Secure Open Source Mobile Apps
 * [PrivacyPack](https://pack.resetthenet.org/#phone) - Apps against mass surveilance collected by ResetTheNet
-* [WiFi PrivacyPolice](https://github.com/BramBonne/privacypolice) - prevents your smartphone from leaking privacy sensitive information via Wi-Fi
+* [WiFi PrivacyPolice](https://github.com/BramBonne/privacypolice) - prevents leaks of privacy sensitive information via Wi-Fi
+* [AFWall+](https://github.com/ukanth/afwall) - IPTables based firewall for Android 
 
 ### Videos
 
