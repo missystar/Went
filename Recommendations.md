@@ -1,5 +1,11 @@
 Read these recommendations and enhance your security NOW!
 
+### ROMs
+
+* [CopperheadOS](https://copperhead.co/) - A hardened version of Android, entirely [open-source](https://github.com/copperhead).
+* [AOKP](http://aokp.co/) - Android. Infused with magical unicorn bytes. [Kang it NAO](https://github.com/aokp)!
+* [AICP](http://aicp-rom.com/) - Android Ice Cold Project from latest Android, also [on GitHub](https://github.com/AICP).
+
 ### Apps
 
 These are absolute must-haves if you are a privacy-geek.
@@ -8,7 +14,7 @@ These are absolute must-haves if you are a privacy-geek.
 * [Secure Messaging Scorecard](https://www.eff.org/de/secure-messaging-scorecard) - Which apps and tools keep your messages safe?
 * [Xprivacy](https://github.com/M66B/XPrivacy) - The ultimate, yet easy to use, privacy manager
 * [SMSSecure](https://github.com/SMSSecure/SMSSecure) - Secure text messaging application for Android (replace TextSecure)
-* [RedPhone](https://github.com/WhisperSystems/RedPhone) - Encrypted calls for Android (internet connection needed)
+* [Signal-Android](https://github.com/WhisperSystems/Signal-Android) - Encrypted text and calls for Android (internet connection needed)
 * [The Guardian Project](https://guardianproject.info/) - Secure Open Source Mobile Apps
 * [PrivacyPack](https://pack.resetthenet.org/#phone) - Apps against mass surveilance collected by ResetTheNet
 * [WiFi PrivacyPolice](https://github.com/BramBonne/privacypolice) - prevents your smartphone from leaking privacy sensitive information via Wi-Fi
