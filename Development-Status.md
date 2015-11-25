@@ -124,14 +124,3 @@ This stage is essentially the completion of this project. However, we expect tha
 * r. Complete advanced statistical analysis of fake BTS towers
 
 ---
-
-##### Versioning
-
-* When changing code on `development` branch **(any developer)**:
-
-`android:versionName`: 0.1.25-alpha-b**37** -> 0.1.25-alpha-b**38** -> 0.1.25-alpha-b**39**...
-
-* When **RELEASING** to our stores and GitHub Releases **(only SecUpwN)**:
-
-android:versionCode="**25**" -> android:versionCode="**26**" -> android:versionCode="**27**"...
-When releasing, we're also going to count upwards: 0.1.**25**-alpha -> 0.1.**26**-alpha...
