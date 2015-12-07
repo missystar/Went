@@ -1,11 +1,5 @@
 Read these recommendations and enhance your security NOW!
 
-### ROMs
-
-* [CopperheadOS](https://copperhead.co/) - A hardened version of Android, entirely [open-source](https://github.com/copperhead).
-* [AOKP](http://aokp.co/) - Android. Infused with magical unicorn bytes. [Kang it NAO](https://github.com/aokp)!
-* [AICP](http://aicp-rom.com/) - Android Ice Cold Project from latest Android, also [on GitHub](https://github.com/AICP).
-
 ### Apps
 
 These are absolute must-haves if you are a privacy-geek.
@@ -20,7 +14,13 @@ These are absolute must-haves if you are a privacy-geek.
 * [PrivacyPack](https://pack.resetthenet.org/#phone) - Apps against mass surveilance collected by ResetTheNet
 * [WiFi PrivacyPolice](https://github.com/BramBonne/privacypolice) - prevents leaks of privacy sensitive information via Wi-Fi
 * [AFWall+](https://github.com/ukanth/afwall) - IPTables based firewall for Android
-* [NetGuard](https://github.com/M66B/NetGuard) - The first free and open source no-root firewall for Android 
+* [NetGuard](https://github.com/M66B/NetGuard) - The first free and open source no-root firewall for Android
+
+### ROMs
+
+* [CopperheadOS](https://copperhead.co/) - A hardened version of Android, entirely [open-source](https://github.com/copperhead).
+* [AOKP](http://aokp.co/) - Android. Infused with magical unicorn bytes. [Kang it NAO](https://github.com/aokp)!
+* [AICP](http://aicp-rom.com/) - Android Ice Cold Project from latest Android, also [on GitHub](https://github.com/AICP).
 
 ### Videos
 
@@ -28,6 +28,12 @@ Too lazy to read? Get a tasty coffee and watch these.
 
 * [DEF CON 22: Am I Being Spied On?](https://www.youtube.com/watch?v=Bc7WoDXhcjM) - Awesome talk about fighting surveillance
 * [Bugged, Tracked, Hacked](https://vimeo.com/136429366) - Mobile phone tower hacking using SS7 protocols
+
+### Tools
+
+* [Tor](https://www.torproject.org/) - Anonymity Browser against network surveillance and traffic analysis
+* [Tails](https://tails.boum.org/) - Live OS to use the Internet anonymously and circumvent censorship
+* [MAT](https://github.com/jvoisin/MAT) - Metadata Anonymisation Toolkit to anonymize/remove metadata
 
 ### Websites
 
