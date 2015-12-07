@@ -19,7 +19,8 @@ These are absolute must-haves if you are a privacy-geek.
 * [The Guardian Project](https://guardianproject.info/) - Secure Open Source Mobile Apps
 * [PrivacyPack](https://pack.resetthenet.org/#phone) - Apps against mass surveilance collected by ResetTheNet
 * [WiFi PrivacyPolice](https://github.com/BramBonne/privacypolice) - prevents leaks of privacy sensitive information via Wi-Fi
-* [AFWall+](https://github.com/ukanth/afwall) - IPTables based firewall for Android 
+* [AFWall+](https://github.com/ukanth/afwall) - IPTables based firewall for Android
+* [NetGuard](https://github.com/M66B/NetGuard) - The first free and open source no-root firewall for Android 
 
 ### Videos
 
