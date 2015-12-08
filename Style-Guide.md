@@ -98,6 +98,31 @@ As much as we enjoy your contributions, please keep a high code-quality!
 public protected private abstract static final transient volatile synchronized native strictfp
 ```
 
+Thoughts about some parts of the (javadoc-) comments:
+
+- `Description:`
+  - Don't prefix the description with `Description:` in order to be more javadoc-like
+- `Issues:` and `Todos:`
+  - Don't track this in comments
+  - Better track them here at github (or another bugtracker)
+- `Changelog:`
+  - Don't track this in comments
+  - We have `git log -- <file>` and `git blame <file>` for that
+- In general the javadoc comments should be more javadoc like:
+  - Use HTML tags like `<p>` and `<a>`
+  - Use things like:
+    - `@see`
+    - `@author`
+    - `{@link <method|class|field>}`
+
+About discussions:
+- Don't keep discussion in source code comments
+- Use line comments at github for that
+
+About source code comments vs wiki:
+- Use source code comments for (technical) information/documentation about a particular class/method/field
+- Use the wiki for overviews, manuals and so on 
+
 ---
 
 #### Formats
