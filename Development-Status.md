@@ -92,27 +92,6 @@ All this can be fairly easily accomplished, given that we can have access to som
 
 **C.** Make (A) and (B) transparent across as many Android devices as possible.
 
-##### ALPHA stage:
-
-Make a baseline App that contains the basic functionality for collecting and presenting all available network variables and the detection results.
-
-* a. Collects relevant RF related variables using public AOS API calls. (LAC, CID, TA etc)
-* b. Collects detailed BTS information from a pulic database such as *OpenCellID* or *Mozilla Location Services*
-* c. Save everything in our SQLite database
-* d. Detect hidden/silent (Type-0) SMS's
-* e. Detect hidden App installations (Googles INSTALL/REMOVE_ASSET)
-
-##### BETA stage:
-
-Improve ALPHA for leveraging and tune our detection matrix/algorithm.
-* f. Implement **any** of the detection schemes we have
-* g. Implement **any** of the interfaces in (**B**) 
-* h. Test AIMSICD in a real IMSI-catcher environment 
-* i. Fine-tune our detection matrix
-* j. Implement our first counter interception measures
-* k. Planning alternative data routes through MESH-like networking, when cellular services have been interrupted
-* l. Planning swarm-wise decision-based cellular service analysis (advanced BTS statistics)
-
 ##### GOLDEN age:
 
 This stage is essentially the completion of this project. However, we expect that long before this happens, the entire network industry will have changed to such a degree that many new privacy and security issues will have arised. Thus, we will likely have more things to add and maintain in this project. We are of the current understanding that this project is a never ending story, all for the peoples benefit and a more privacy oriented future.
