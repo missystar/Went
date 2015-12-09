@@ -8,7 +8,6 @@ Our international team is changing from time to time and we'd like to avoid havi
 |[tobykurien](https://github.com/tobykurien)                     | South Africa|         Code-Monkey         |
 |[d-mariano](https://github.com/d-mariano)                       | Canada      | Time Travelling Code-Beaver |
 |[banjaxbanjo](https://github.com/banjaxbanjo)                   | Ireland     |    Silent SMS Specialist    |
-|[agilob](https://github.com/agilob)                             | Poland      |    Translation Specialist   |
 |[Smarek](https://github.com/smarek)                             | Czech Republic  |  Security Enthusiast    |
 |[DimaKoz](https://github.com/dimakoz)                           | :ru:        |        A real Trooper       |
 |[scintill](https://github.com/scintill)                         | :us:        |       Cryptography Freak    |
