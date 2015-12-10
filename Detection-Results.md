@@ -1,0 +1,1 @@
+These are the **detection test results** for our [Detection List](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/issues/230) created with an [OsmocomBB phone](http://bb.osmocom.org/trac/wiki/Hardware/Phones).
