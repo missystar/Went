@@ -272,7 +272,7 @@ The following well-written comment has been found on [StackOverflow](http://stac
 
 ---
 
-#### Silent/Stealth SMS
+#### Silent SMS
 
 Many foreign police and intelligence services use clandestine "Silent" SMS to locate suspects or missing persons. This method involves sending an SMS text message to the mobile phone of a suspect, an SMS that goes unnoticed and sends back a signal to the sender of the message.
 
