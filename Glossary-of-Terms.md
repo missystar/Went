@@ -35,7 +35,7 @@ This page shall help you understand all the abbreviations we use in our project.
 * [PSC](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Glossary-of-Terms#psc)
 * [SIM Card](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#sim-card)
 * [Silent Call](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silent-call)
-* [Silent/Stealth SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silentstealth-sms)
+* [Silent SMS](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silent-sms)
 * [Spy Call](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#spy-call)
 * [TMSI](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#tmsi)
 * [Triangulation](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#triangulation)
@@ -276,7 +276,7 @@ The following well-written comment has been found on [StackOverflow](http://stac
 
 Many foreign police and intelligence services use clandestine "Silent" SMS to locate suspects or missing persons. This method involves sending an SMS text message to the mobile phone of a suspect, an SMS that goes unnoticed and sends back a signal to the sender of the message.
 
-[![Silent/Stealth SMS](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Silent%E2%81%84Stealth_SMS.gif)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
+[![Silent SMS](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Silent%E2%81%84Stealth_SMS.gif)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms)
 
 >Also known as Type0-SMS, the Silent SMS uses an invisible return signal, or "ping". Developers from the Silent Services company, who created some of the first software for sending this type of SMS, explain: "The Silent SMS allows the user to send a message to another mobile without the knowledge of the recipient mobile's owner. The message is rejected by the recipient mobile, and leaves no trace. In return, the sender gets a message from a mobile operator confirming that the Silent SMS has been received."
 Silent SMS were originally intended to allow operators to ascertain whether a mobile phone is switched on and to "test" the network, without alerting the users. But now, intelligence services and police have found some other uses for the system. Neil Croft, a graduate of the Department of Computer Science at the University of Pretoria in South Africa, explains: "Sending a Silent SMS is like sending a normal SMS, except that the mobile does not see the message it has received. The SMS's information is modified, within the data coding scheme, so that the user who receives the message doesn't notice anything. A Silent SMS can help police to detect a mobile without the person concerned being aware of the request."
