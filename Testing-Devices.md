@@ -10,6 +10,7 @@ Huawei Ascend P1 | U9200 | OMAP4460 | XMM6260 | CM11 | KK4.4.4 | 19 | *NE* | tob
 Motorola Defy | MB525 | OMAP3610 | XMM? | | KK4.4.4 | 19 | | tobykurien | MRIL1.0 
 Gigabyte GSmart | Arty A3 | MT6582 | *SoC* | *stock* | KK4.4.2 | 19 | Enforcing | E:V:A | MTG1.0 
 Google Nexus 5 | "LG D821" | MSM8974 | *SoC* | *stock* | KK4.4.3 | 19 | Enforcing | Ueland | QRIL1.0
+Google Nexus 5 | "LG D821" | ? | *SoC* | *stock* | M6.0 | 23 | ? | larsgrefer | ?
 Google Nexus 7 | "3G-2012" | Tegra3 | XMM6260 | *stock* | KK4.4.4 | 19 | Enforcing| andr3jx | XRIL1.18
 Samsung S2 | GT-I9100 | Exynos | XMM6260 | SlimKat | KK4.4.2b4 | 19 | Permissive | E:V:A | SIPCv2.0 
 Samsung S2 | GT-I9100 | Exynos | XMM6260 | Carbon | KK4.4.4 | 19 | Permissive | xLaMbChOpSx | SIPCv2.0
