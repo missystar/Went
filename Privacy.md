@@ -8,14 +8,11 @@ As much as we love people who are brave enough to test our App out in the wild o
 
 **Remove any metadata from all your submitted files and pull requests!**
 
-* To remove all metadata from files in a folder, use [PDFMtEd Inspector](https://github.com/Glutanimate/PDFMtEd/raw/master/pdfmted-inspector).
+* To remove all metadata from files, use the [Metadata Anonymisation Toolkit ](https://github.com/jvoisin/MAT).
 
-```
-PDFMtEd Inspector is a general purpose metadata viewer and cleaner.
-Aside from granting a quick and easy insight into the meta information
-stored in your files, it also allows you to quickly and effectively
-purge all metadata. It is a more secure solution than exiftool alone.
-```
+>Metadata consist of information that characterizes data. Metadata are used to provide documentation for data products. In essence, metadata answer who, what, when, where, why, and how about every facet of the data that are being documented. 
+
+>Metadata within a file can tell a lot about you. Cameras record data about when a picture was taken and what camera was used. Office documents like PDF or Office automatically adds author and company information to documents and spreadsheets. Maybe you don't want to disclose those information on the web.
 
 ---
 
