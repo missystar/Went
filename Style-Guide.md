@@ -87,6 +87,7 @@ No final decision on in-app icons yet. Some inspiration:
 As much as we enjoy your contributions, please keep a high code-quality!
 
 * Follow the [Android Code Style Guidelines](https://source.android.com/source/code-style.html)
+* Read [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 * Make use of the [Android Best Practices](https://github.com/futurice/android-best-practices)
 * Also respect the [Google Java Style](https://google.github.io/styleguide/javaguide.html), but:
 
