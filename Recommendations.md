@@ -52,3 +52,4 @@ Very useful websites and guides for more protection.
 * [Buggedplanet](http://buggedplanet.info) - Great wiki about Measures used to intercept Communications
 * [Electrospaces](http://electrospaces.net) - Insights in SIGINT, Security and Top Level Telecommunications
 * [Secret Surveillance Catalogue](https://theintercept.com/surveillance-catalogue/) - Secret gear governments uses to spy on you
+* [Intelexit](https://intelexit.org/) - Initiative motivating people working in secret services to quit their jobs
