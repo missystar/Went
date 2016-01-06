@@ -34,7 +34,7 @@ Too lazy to read? Get a tasty coffee and watch these.
 * [Tor](https://www.torproject.org/) - Anonymity Browser against network surveillance and traffic analysis
 * [Tails](https://tails.boum.org/) - Live OS to use the Internet anonymously and circumvent censorship
 * [MAT](https://github.com/jvoisin/MAT) - Metadata Anonymisation Toolkit to anonymize/remove metadata
-* [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Cross-Plattform High Security Disk Encryption
+* [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Cross-Plattform High Security Disk Encryption (reasons: [1](https://forum.truecrypt.ch/t/veracrypt-or-ciphershed/449/4) and [2](https://veracrypt.codeplex.com/discussions/569777#PostContent_1313325))
 
 ### Websites
 
