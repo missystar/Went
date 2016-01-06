@@ -1,4 +1,4 @@
-This is the "testers table" with the phones we're currently testing on and which one of us is using it. Table columns are: `Manufacturer/Model, Type-Number, Application Processor (AP), Baseband Processor (BP), FW/ROM, AOS, API Version, *SELinux* Mode, Developer Name,  gsm.version.ril-impl`. The [SELinuxModeChanger](https://github.com/MrBIMC/SELinuxModeChanger) (get it [on F-Droid](https://f-droid.org/repository/browse/?fdid=com.mrbimc.selinux)) lets you change the `SELmode`.
+This is the "testers table" with the phones we're currently testing on and which one of us is using it. Table columns are: `Manufacturer/Model, Type-Number, Application Processor (AP), Baseband Processor (BP), FW/ROM, AOS, API Version, *SELinux* Mode, Developer Name,  gsm.version.ril-impl`. The [SELinuxModeChanger](https://github.com/MrBIMC/SELinuxModeChanger) (get it [on F-Droid](https://f-droid.org/repository/browse/?fdid=com.mrbimc.selinux)) lets you change `SELmode`.
 
 **Developers**: *Just copy the previous line and edit the relevant info.*
 
