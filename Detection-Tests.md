@@ -41,13 +41,13 @@ Implementation Status:
 
 
 
-OsmocomBB BTS 'clones' an actual BTS hence the consistency is variable with a legit BTS ID:2
-OsmocomBB BTS doesnt allow TMSI allocation this is a red flag that can be used to tell if one is camped to a fake OsmocomBB BTS ID:4
-OsmocomBB BTS allows choice of ciphering without droping/changing but doesnt allow A5/3 as its not supported yet on the current OpenBTS used in this test ID:5
-OsmocomBB BTS allows cypher downgrade ID:6
-OsmocomBB BTS (tested with one BTS hence detectable as no neighbouring BTS are noted ID:7
-OsmocomBB BTS (see ID:3)
-OsmocomBB BTS possible use of a jammer otherwise on its own OsmocomBB BTS cannot downgrade cell phone at will ID:18
+* OsmocomBB BTS 'clones' an actual BTS hence the consistency is variable with a legit BTS ID:2.
+* OsmocomBB BTS doesnt allow TMSI allocation this is a red flag that can be used to tell if one is camped to a fake BTS ID:4.
+* OsmocomBB BTS allows choice of ciphering without droping/changing but doesnt allow A5/3 as its not supported yet on the current OpenBTS used in this test ID:5.
+* OsmocomBB BTS allows cypher downgrade ID:6.
+* OsmocomBB BTS (tested with one BTS hence detectable as no neighbouring BTS are noted ID:7.
+* OsmocomBB BTS (see ID:3).
+* OsmocomBB BTS possible use of a jammer otherwise on its own OsmocomBB BTS cannot downgrade cell phone at will ID:18.
 
 
 
