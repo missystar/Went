@@ -39,13 +39,23 @@ Implementation Status:
 
 3 = deprecated
 
+
+![](https://cloud.githubusercontent.com/assets/8582348/11614451/88074c88-9c54-11e5-8e39-e436eaf7e8c3.png)
+
+On the above image: OsmocomBB + OpenBTS(with smqueue) running to create a fake BTS(IMSI catcher) with some IMSIs captured
+
 ![](https://cloud.githubusercontent.com/assets/8582348/11614397/f596bb28-9c52-11e5-896d-af045fa8f61e.jpg)
+
+On the above image: you can visibly see the that no neighboring cells are found as our BTS at the time of testing did not have this facilitated
 
 ![](https://cloud.githubusercontent.com/assets/8582348/11614426/80182142-9c53-11e5-9d2b-b480a6e9a82d.jpg)
 
+On the above image: Our Phone details, when connected to the IMSI catcher
+
 ![](https://cloud.githubusercontent.com/assets/8582348/11614450/88065972-9c54-11e5-95e1-e05551e3c638.jpg)
 
-![](https://cloud.githubusercontent.com/assets/8582348/11614451/88074c88-9c54-11e5-8e39-e436eaf7e8c3.png)
+On the above image:Sample of an SMS sent to the target phone from the BTS without causing alarm
+
 
 * OsmocomBB BTS 'clones' an actual BTS hence the consistency is variable with a legit BTS ID:2.
 * OsmocomBB BTS doesnt allow TMSI allocation this is a red flag that can be used to tell if one is camped to a fake BTS ID:4.
