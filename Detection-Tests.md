@@ -39,7 +39,13 @@ Implementation Status:
 
 3 = deprecated
 
+![](https://cloud.githubusercontent.com/assets/8582348/11614397/f596bb28-9c52-11e5-896d-af045fa8f61e.jpg)
 
+![](https://cloud.githubusercontent.com/assets/8582348/11614426/80182142-9c53-11e5-9d2b-b480a6e9a82d.jpg)
+
+![](https://cloud.githubusercontent.com/assets/8582348/11614450/88065972-9c54-11e5-95e1-e05551e3c638.jpg)
+
+![](https://cloud.githubusercontent.com/assets/8582348/11614451/88074c88-9c54-11e5-8e39-e436eaf7e8c3.png)
 
 * OsmocomBB BTS 'clones' an actual BTS hence the consistency is variable with a legit BTS ID:2.
 * OsmocomBB BTS doesnt allow TMSI allocation this is a red flag that can be used to tell if one is camped to a fake BTS ID:4.
@@ -48,6 +54,5 @@ Implementation Status:
 * OsmocomBB BTS (tested with one BTS hence detectable as no neighbouring BTS are noted ID:7.
 * OsmocomBB BTS (see ID:3).
 * OsmocomBB BTS possible use of a jammer otherwise on its own OsmocomBB BTS cannot downgrade cell phone at will ID:18.
-
 
 
