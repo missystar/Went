@@ -32,8 +32,11 @@ These are the **detection test results** for our [Detection List](https://github
 Implementation Status:
 
 0 / empty = not implemented
+
 1 = work in progress
+
 2 = implemented and complete
+
 3 = deprecated
 
 
