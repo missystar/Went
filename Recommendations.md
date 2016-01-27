@@ -27,7 +27,13 @@ These are absolute must-haves if you are a privacy-geek.
 Too lazy to read? Get a tasty coffee and watch these.
 
 * [DEF CON 22: Am I Being Spied On?](https://www.youtube.com/watch?v=Bc7WoDXhcjM) - Awesome talk about fighting surveillance
+* [28c3: Defending mobile phones](http://youtu.be/YWdHSJsEOck)
 * [Bugged, Tracked, Hacked](https://vimeo.com/136429366) - Mobile phone tower hacking using SS7 protocols
+* [StingRay Warrantless Wiretap](https://www.youtube.com/watch?v=xpdpjX8Vsfw)
+* [DEF CON 18 - Practical Cellphone Spying](https://www.youtube.com/watch?v=fQSu9cBaojc)
+* [How easy it is to clone phones](http://www.youtube.com/watch?v=Ydo19YOzpzU)
+* [IMSI-Catcher Live Demonstration](https://www.youtube.com/watch?v=3oHx0zj3GWQ)
+* [28c3: Defending mobile phones](http://youtu.be/YWdHSJsEOck)
 
 ### Tools
 
@@ -35,6 +41,14 @@ Too lazy to read? Get a tasty coffee and watch these.
 * [Tails](https://tails.boum.org/) - Live OS to use the Internet anonymously and circumvent censorship
 * [MAT](https://github.com/jvoisin/MAT) - Metadata Anonymisation Toolkit to anonymize/remove metadata
 * [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Cross-Plattform High Security Disk Encryption (reasons: [1](https://forum.truecrypt.ch/t/veracrypt-or-ciphershed/449/4) and [2](https://veracrypt.codeplex.com/discussions/569777#PostContent_1313325))
+
+### Articles
+
+* [Meet the machines that steal your data](http://arstechnica.com/tech-policy/2013/09/meet-the-machines-that-steal-your-phones-data/)
+* [NSA-Killings with IMSI-Catcher drones](https://firstlook.org/theintercept/article/2014/02/10/the-nsas-secret-role/)
+* [StingRays: Biggest Technological Threat](https://www.eff.org/deeplinks/2012/10/stingrays-biggest-unknown-technological-threat-cell-phone-privacy)
+* [Espionage on Norwegian Politicians](http://www.ibtimes.co.uk/newspaper-discovers-someone-listening-norwegian-politicians-phone-calls-1479385)
+* [Secret U.S. Spy Program on Planes](http://online.wsj.com/news/article_email/americans-cellphones-targeted-in-secret-u-s-spy-program-1415917533-lMyQjAxMTI0NTEwMzAxMTMwWj)
 
 ### Websites
 
