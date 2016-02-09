@@ -10,6 +10,7 @@ Of course we've already reached out to these projects in an attempt to join forc
 
 **Software Projects**
 
+* [StingWatch](https://github.com/marvinmarnold/stingwatch)
 * [zIPS](https://www.zimperium.com/zips-mobile-ips) (commercial)
 * [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
 * [darshak](https://github.com/darshakframework/darshak)
