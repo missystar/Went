@@ -30,6 +30,7 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 * Spybusters: [New App to Detect Fake Cell Phone Towers](http://spybusters.blogspot.de/2014/11/new-app-to-detect-fake-cell-phone-towers.html)
 * Gun.io Blog: [Android IMSI-Catcher Detector Introduction](https://gun.io/blog/android-imsi-catcher-detector/)
 * CyberPunk: [Phone Hacking - Android IMSI-Catcher Detector: AIMSICD](http://n0where.net/imsi-catcher-aimsicd/)
+* Medium: [[HELLO] Fighting Government Sponsored Cellphone Interception](https://medium.com/@tiwaryshailesh/hello-fighting-government-sponsored-cellphone-interception-5d90c2664042#.l3zdemyzz)
 
 ---
 
