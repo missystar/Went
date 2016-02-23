@@ -15,7 +15,7 @@
 * [Development Status](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Development-Status)
 * [Testing Devices](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Testing-Devices)
 * [Detection Tests](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Detection-Tests)
-* [Contributing](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/development/CONTRIBUTING.md)
+* [Contributing](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/development/.github/CONTRIBUTING.md)
 * [Style Guide](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Style-Guide)
 * [Resources](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Resources)
 * [Privacy](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Privacy)
@@ -38,7 +38,7 @@
 **Support**
 * [FAQ](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/FAQ)
 * [Contact](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Contact)
-* [Problems](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/development/CONTRIBUTING.md#debugging)
+* [Problems](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/blob/development/.github/CONTRIBUTING.md#debugging)
 * [Donations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/wiki/Donations)
 
 **Gimme moar!**
