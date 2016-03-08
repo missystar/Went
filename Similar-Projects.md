@@ -10,8 +10,9 @@ Of course we've already reached out to these projects in an attempt to join forc
 
 **Software Projects**
 
+* [Meteor IMSI-Catcher Catcher](https://github.com/marvinmarnold/meteor-imsi-catcher-catcher)
 * [StingWatch](https://github.com/marvinmarnold/stingwatch)
-* [zIPS](https://www.zimperium.com/zips-mobile-ips) (commercial)
+* [zIPS](https://www.zimperium.com/zips-mobile-ips) (commercial, closed source)
 * [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
 * [darshak](https://github.com/darshakframework/darshak)
 * [Spidey](https://github.com/jtwarren/spidey)
