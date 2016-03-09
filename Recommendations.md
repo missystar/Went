@@ -42,6 +42,8 @@ Too lazy to read? Get a tasty coffee and watch these.
 
 Very useful websites and guides for more protection.
 
+* [The Problem with Mobile Phones](https://ssd.eff.org/en/module/problem-mobile-phones) - Inspection of mobile phones by Privacy International
+* [Communications Surveillance](https://www.privacyinternational.org/node/10) - Introduction of the EFF on communications surveillance
 * [Smartphone Attack Vector](http://smartphone-attack-vector.de/) - Smartphone flaws and countermeasures
 * [Kuketz IT-Security Blog](http://www.kuketz-blog.de/) - Great Security Reviews and Guides (written in German)
 * [PRISM Break](https://prism-break.org/) - Alternatives to opt out of global data surveillance programs
@@ -56,3 +58,4 @@ Very useful websites and guides for more protection.
 * [Electrospaces](http://electrospaces.net) - Insights in SIGINT, Security and Top Level Telecommunications
 * [Secret Surveillance Catalogue](https://theintercept.com/surveillance-catalogue/) - Secret gear governments uses to spy on you
 * [Intelexit](https://intelexit.org/) - Initiative motivating people working in secret services to quit their jobs
+* [Privacytools](https://www.privacytools.io/) - Tools to protect your privacy against global mass surveillance
