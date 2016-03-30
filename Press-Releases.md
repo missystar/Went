@@ -41,6 +41,12 @@ Welcome to our page of press releases and articles about us. Enjoy reading!
 
 ---
 
+**Portuguese**
+
+* Oficina Antivigilância: [Detectando antenas de celular espiãs](https://antivigilancia.org/pt/2016/03/detectando-antenas-de-celular-espias/)
+
+---
+
 **French**
 
 * Numerama: [Détecter les IMSI-catchers sur votre téléphone Android](http://www.numerama.com/magazine/32763-detecter-les-imsi-catchers-sur-votre-telephone-android.html)
