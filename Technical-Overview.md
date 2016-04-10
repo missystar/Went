@@ -1,4 +1,4 @@
-This documentation is especially for developers who want to join our project and for everybody else who would like to know how AIMSICD detects IMSI-Catchers, silent SMS and other threats. Important Note: Due to its complexity, this is a work in progress.
+This documentation is especially meant for developers who want to join our project and for everybody else who would like to know more about the inner workings of `AIMSICD`. Due to its complexity, this is a work in progress.
 
 # Index
 
@@ -22,14 +22,20 @@ This documentation is especially for developers who want to join our project and
 
 ###Database Tables:
 
-AIMSICD utilizes several tables in a single SQLite3 database in `aimsicd.db` to keep track 
+One of our awesome developers is currently doing the heavy porting of our databases to [Realm](https://realm.io/).
+
+![New Realm Database](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Database_myCellInfo_ER_4.png)
+
+---
+
+AIMSICD currently utilizes several tables in a single SQLite3 database in `aimsicd.db` to keep track 
 of all the network changes and the downloaded Open Cell ID (OCID) data. When you're making a file 
 backup of the AIMSICD database, you're actually saving the various tables into individual 
 `aimsicd-<tablename>.CSV` files, which can be updated manually or externally.
 
 All mentioned sqlite commands are properly documented on the [SQLite website](http://www.sqlite.org).
 
-![New Database Tables](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Database_myCellInfo_ER_3.png)
+![Old Database Tables](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/Database_myCellInfo_ER_3.png)
 
 #### DEFAULT_MCC_TABLE (Mobile Country Code)
 This table holds data to identify your service provider (carrier) and country.
