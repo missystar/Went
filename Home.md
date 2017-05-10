@@ -2,7 +2,11 @@
 
 ![AIMSICD-Banner](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/PROMOTION/AIMSICD-Banner_Small.png)
 
-***This Project will have a revival soon. We are working on a light version of AIMSICD.***
+
+## This Project will have a revival soon. We are working on a light version of AIMSICD. 
+(10.05.2017)
+
+
 
 **Please use the sidebar on the right to navigate through this WIKI.**
 
